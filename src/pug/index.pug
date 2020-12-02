@@ -4,36 +4,35 @@ block pageVars
 block content
 	.ui.stackable.grid
 		.stretched.row
-			.three.wide.column
+			.six.wide.column
 				.ui.segment
 					.ui.form
+						.field
+							.ui.search.selection.dropdown.select-category
+								input(type='hidden', name='bg')
+								i.dropdown.icon
+								.default.text Select Category
+								.menu
+									.item(data-value="brasil-league") Brazilian League
+									.item(data-value="nba-league") NBA
 						.field
 							.ui.search.selection.dropdown.pl1
 								input(type='hidden')
 								i.dropdown.icon
 								input.search(type='text')
-								.default.text Palmeiras
-								.menu
-						.field
-							.ui.search.selection.dropdown.color
-								input(type='hidden', name='color')
-								i.dropdown.icon
-								.default.text Select Color
-								.menu
-						.field
-							.ui.search.selection.dropdown.bg
-								input(type='hidden', name='bg')
-								i.dropdown.icon
-								.default.text Select Background
+								.default.text Select Team 1
 								.menu
 						.field
 							.ui.search.selection.dropdown.pl2
 								input(type='hidden')
 								i.dropdown.icon
 								input.search(type='text')
-								.default.text Corinthians
+								.default.text Select Team 2
 								.menu
-			.thirteen.wide.column
+						.field
+							label Select Background
+							input(type="file" name="img" id="img" onchange="encodeImgtoBase64(this)")
+			.ten.wide.column
 				.ui.segment
 					#versus.chartli(style="width:640px;height:360px")
 block extraScripts

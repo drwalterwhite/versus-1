@@ -46,28 +46,24 @@
 				<div class="content-wrapper">
 					<div class="ui stackable grid">
 						<div class="stretched row">
-							<div class="three wide column">
+							<div class="six wide column">
 								<div class="ui segment">
 									<div class="ui form">
+										<div class="field">
+											<div class="ui search selection dropdown select-category">
+												<input type="hidden" name="bg" /><i class="dropdown icon"></i>
+												<div class="default text">Select Category</div>
+												<div class="menu">
+													<div class="item" data-value="brasil-league">Brazilian League</div>
+													<div class="item" data-value="nba-league">NBA</div>
+												</div>
+											</div>
+										</div>
 										<div class="field">
 											<div class="ui search selection dropdown pl1">
 												<input type="hidden" /><i class="dropdown icon"></i>
 												<input class="search" type="text" />
-												<div class="default text">Palmeiras</div>
-												<div class="menu"></div>
-											</div>
-										</div>
-										<div class="field">
-											<div class="ui search selection dropdown color">
-												<input type="hidden" name="color" /><i class="dropdown icon"></i>
-												<div class="default text">Select Color</div>
-												<div class="menu"></div>
-											</div>
-										</div>
-										<div class="field">
-											<div class="ui search selection dropdown bg">
-												<input type="hidden" name="bg" /><i class="dropdown icon"></i>
-												<div class="default text">Select Background</div>
+												<div class="default text">Select Team 1</div>
 												<div class="menu"></div>
 											</div>
 										</div>
@@ -75,14 +71,18 @@
 											<div class="ui search selection dropdown pl2">
 												<input type="hidden" /><i class="dropdown icon"></i>
 												<input class="search" type="text" />
-												<div class="default text">Corinthians</div>
+												<div class="default text">Select Team 2</div>
 												<div class="menu"></div>
 											</div>
+										</div>
+										<div class="field">
+											<label>Select Background</label>
+											<input type="file" name="img" id="img" onchange="encodeImgtoBase64(this)" />
 										</div>
 									</div>
 								</div>
 							</div>
-							<div class="thirteen wide column">
+							<div class="ten wide column">
 								<div class="ui segment">
 									<div class="chartli" id="versus" style="width:640px;height:360px"></div>
 								</div>
