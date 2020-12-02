@@ -83,12 +83,6 @@
 			"image": "assets/img/leagues/nba/charlotte-hornets.svg"
 		},
 		{
-			"name": "Bahia",
-			"identy": "bahia",
-			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/nba/EC-Bahia-Logo.svg"
-		},
-		{
 			"name": "Chicago Bulls",
 			"identy": "chicago-bulls",
 			"data": [83, 74, 86, 78, 67, 90],
