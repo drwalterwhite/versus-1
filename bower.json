@@ -1,0 +1,82 @@
+{
+  "name": "footcharts",
+  "description": "Football Charts and Graphics",
+  "main": "gulpfile.js",
+  "authors": [
+    "Yellowred"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "football",
+    "charts",
+    "graphics",
+    "interactive",
+    "echarts",
+    "chartli",
+    "ecmascript6",
+    "es6-javascript",
+    "preprocessor",
+    "frontend",
+    "front-end",
+    "front-end-development",
+    "front-end-webdevelopment",
+    "optimize",
+    "minify",
+    "theme",
+    "theme-development",
+    "theme",
+    "themeforest",
+    "codecanyon"
+  ],
+  "homepage": "https://github.com/partitect/footcharts",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.4.1",
+    "lightgallery": "lightGallery#^1.6.12",
+    "echarts": "latest",
+    "docsify": "^4.11.4",
+    "moment": "momentjs#^2.24.0",
+    "echarts-liquidfill": "https://github.com/ecomfe/echarts-liquidfill.git#^2.0.5",
+    "fomantic-ui": "^2.8.6"
+  },
+  "overrides": {
+    "jquery": {
+      "main": [
+        "./dist/jquery.min.js"
+      ]
+    },
+    "fomantic-ui": {
+      "main": [
+        "./dist/components/*.min.*",
+        "./dist/themes/default/assets/fonts/*",
+        "./dist/themes/default/assets/images/*",
+        "./dist/semantic.min.js",
+        "./dist/semantic.min.css"
+      ]
+    },
+    "echarts": {
+      "main": [
+        "./dist/echarts-en.min.js",
+        "./map/js/world.js",
+        "./map/js/usa.js"
+      ]
+    },
+    "moment": {
+      "main": [
+        "./min/moment.min.js"
+      ]
+    },
+    "echarts-liquidfill": {
+      "main": [
+        "./dist/echarts-liquidfill.min.js"
+      ]
+    }
+  }
+}

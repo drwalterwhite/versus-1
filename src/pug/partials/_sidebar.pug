@@ -1,0 +1,31 @@
+include ./includes/_menu
+.ui.fluid.vertical.accordion.menu.borderless.side-menu.collapse
+	each menu1 in menu
+		if (menu1.child.length>0)
+			.title.item
+				i(class="menu-icon icon iconfont "+ menu1.icon)
+				span.accordion-text #{menu1.text}
+				i.dropdown.icon
+			.content
+				each menu2 in menu1.child
+					if menu2.child
+						.accordion
+							.title
+								span.accordion-text #{menu2.text}
+								i.dropdown.icon
+							.content
+								each menu3 in menu2.child
+									if menu3.child
+										.accordion
+											.title
+												span.accordion-text #{menu3.text}
+												i.dropdown.icon
+											.content
+												each menu4 in menu3.child
+													a.item(href=""+menu4.link+"") #{menu4.text}
+									else
+										a.item(href=""+menu3.link+"") #{menu3.text}
+					else
+						a.item(href=""+menu2.link+"") #{menu2.text}
+		else
+			a.item(href=""+menu1.link+"") #{menu1.text}

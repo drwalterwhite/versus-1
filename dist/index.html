@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en-En">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<meta http-equiv="X-UA-Compatible" content="ie=edge" />
+
+		<title>Footcharts - Football Charts and Graphics</title>
+
+		<meta name="description" content="Interactive Football Charts and Graphics" />
+		<meta name="author" content="Yellowred" />
+		<meta name="classification" content="Soccer,Football,Charts,Graphics,Interactive,Fixture,League,Premier League,Versus,Compare,Ball,Skills,Points,Win,Draw,Lost" />
+		<meta name="copyright" content="20 Temmuz 2020 by YellowRed" />
+		<meta property="og:url" content="https://yellowred.info" />
+		<meta property="og:type" content="website" />
+		<meta property="og:title" content="Footcharts - Football Charts and Graphics" />
+		<meta property="og:description" content="Interactive Football Charts and Graphics" />
+		<meta property="og:image" content="assets/img/template-images/logo.svg" />
+		<meta property="og:site_name" content="Footcharts - Football Charts and Graphics" />
+		<meta property="og:locale" content="en-En" />
+		<meta property="article:author" content="Footcharts - Football Charts and Graphics" />
+
+		<!-- Address Bar Color -->
+		<meta name="theme-color" content="#ffffff" />
+
+		<!-- Robots -->
+		<meta name="robots" content="noindex,nofollow" />
+		<meta name="googlebot" content="noindex,nofollow" />
+
+		<!-- Favicons -->
+		<link rel="shortcut icon" href="assets/img/favicons/favicon.svg" type="image/svg+xml" />
+		<link rel="icon" href="assets/img/favicons/favicon.svg" type="image/svg+xml" />
+		<link rel="apple-touch-icon" href="assets/img/favicons/favicon.svg" />
+		<link rel="mask-icon" href="assets/img/favicons/favicon.svg" color="#ffffff" />
+
+		<link rel="canonical" href="https://yellowred.info" />
+		<link type="text/plain" rel="author" href="https://yellowred.info/humans.txt" />
+
+		<!-- Styles -->
+		<link rel="stylesheet" href="assets/vendors/fomantic-ui/dist/semantic.min.css" />
+		<link rel="stylesheet" href="assets/css/app.css" />
+	</head>
+	<body>
+		<div class="page-body-wrapper">
+			<div class="main-content">
+				<div class="content-wrapper">
+					<div class="ui equal width stackable grid">
+						<div class="row">
+							<div class="sixteen mobile column">
+								<div class="ui segment attached" style="background:#171B22;padding:0">
+									<div class="select-menu">
+										<div class="ui search selection dropdown pl1">
+											<input type="hidden" /><i class="dropdown icon"></i>
+											<input class="search" type="text" />
+											<div class="default text">Palmeiras</div>
+											<div class="menu"></div>
+										</div>
+										<div class="ui search selection dropdown color">
+											<input type="hidden" name="color" /><i class="dropdown icon"></i>
+											<div class="default text">Select Color</div>
+											<div class="menu"></div>
+										</div>
+										<div class="ui search selection dropdown bg">
+											<input type="hidden" name="bg" /><i class="dropdown icon"></i>
+											<div class="default text">Select Background</div>
+											<div class="menu"></div>
+										</div>
+										<div class="ui search selection dropdown pl2">
+											<input type="hidden" /><i class="dropdown icon"></i>
+											<input class="search" type="text" />
+											<div class="default text">Corinthians</div>
+											<div class="menu"></div>
+										</div>
+									</div>
+									<div class="chartli" id="versus" style="height:720px"></div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<!-- Scripts -->
+		<script src="assets/vendors/jquery/dist/jquery.min.js"></script>
+		<script src="assets/vendors/fomantic-ui/dist/semantic.min.js"></script>
+		<script src="assets/vendors/echarts/dist/echarts-en.min.js"></script>
+		<script src="assets/js/app.js"></script>
+		<script src="assets/js/vendors/charts/_versus.js"></script>
+	</body>
+</html>
