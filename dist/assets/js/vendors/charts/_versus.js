@@ -19,7 +19,7 @@ if (localStorage.getItem('pvBg') === null) {
 if (localStorage.getItem('jsonUrl') === null) {
 	localStorage.setItem('jsonUrl', 'brasil-league');
 }
-var SaveIcon = './assets/img/template-images/screenshot.svg';
+var SaveIcon = './assets/img/screenshot.svg';
 GetVersus(localStorage.getItem('jsonUrl'), localStorage.getItem('player1'), localStorage.getItem('player2'), localStorage.getItem('pvBg'));
 myChart.showLoading();
 function GetVersus(url, pl1, pl2, bg) {
@@ -96,13 +96,13 @@ function GetVersus(url, pl1, pl2, bg) {
 							name: p1Data[0].name + '-vs-' + p2Data[0].name,
 							show: true,
 							pixelRatio: 1,
-							title: 'Save As Image',
 							icon: 'image://' + SaveIcon + ''
 						}
 					},
 					bottom: 0,
 					right: 20,
-					zlevel: 9
+					zlevel: 999,
+					z: 999
 				},
 				graphic: {
 					elements: [{
