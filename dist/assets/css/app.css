@@ -105,8 +105,18 @@
 }
 
 @font-face {
+  font-family: "Exo_2Bold";
+  src: url("../fonts/exo-2/exo-2-v9-latin-700.eot?") format("eot"), url("../fonts/exo-2/exo-2-v9-latin-700.woff2") format("woff2"), url("../fonts/exo-2/exo-2-v9-latin-700.woff") format("woff"), url("../fonts/exo-2/exo-2-v9-latin-700.ttf") format("truetype"), url("../fonts/exo-2/exo-2-v9-latin-700.svg#Exo_2Bold") format("svg");
+}
+
+@font-face {
   font-family: "Quantico";
   src: url("../fonts/quantico/quantico-v9-latin-regular.eot?") format("eot"), url("../fonts/quantico/quantico-v9-latin-regular.woff2") format("woff2"), url("../fonts/quantico/quantico-v9-latin-regular.woff") format("woff"), url("../fonts/quantico/quantico-v9-latin-regular.ttf") format("truetype"), url("../fonts/quantico/quantico-v9-latin-regular.svg#Quantico") format("svg");
+}
+
+@font-face {
+  font-family: "QuanticoBold";
+  src: url("../fonts/quantico/quantico-v10-latin-700.eot?") format("eot"), url("../fonts/quantico/quantico-v10-latin-700.woff2") format("woff2"), url("../fonts/quantico/quantico-v10-latin-700.woff") format("woff"), url("../fonts/quantico/quantico-v10-latin-700.ttf") format("truetype"), url("../fonts/quantico/quantico-v10-latin-700.svg#QuanticoBold") format("svg");
 }
 
 /* =============== 1_1 Global Settings =============== */

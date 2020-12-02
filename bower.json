@@ -40,7 +40,7 @@
   "dependencies": {
     "jquery": "^3.4.1",
     "lightgallery": "lightGallery#^1.6.12",
-    "echarts": "latest",
+    "echarts": "4.9.0",
     "docsify": "^4.11.4",
     "moment": "momentjs#^2.24.0",
     "echarts-liquidfill": "https://github.com/ecomfe/echarts-liquidfill.git#^2.0.5",
