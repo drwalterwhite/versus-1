@@ -71,12 +71,6 @@
 			"image": "assets/img/leagues/nba/brooklyn-nets.svg"
 		},
 		{
-			"name": "Vasco da Gama",
-			"identy": "vasco",
-			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/nba/CR-Vasco-da-Gama-Logo.svg"
-		},
-		{
 			"name": "Charlotte Hornets",
 			"identy": "charlotte-hornets",
 			"data": [83, 74, 86, 78, 67, 90],
