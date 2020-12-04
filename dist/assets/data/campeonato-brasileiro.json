@@ -26,119 +26,119 @@
 			"name": "Athletico Paranaense",
 			"identy": "athletico-paranaense",
 			"data": [86, 88, 81, 87, 78, 84],
-			"image": "assets/img/leagues/brazilian-serie-a/team-logo/Athletico-Paranaense-Logo.png"
+			"image": "assets/img/leagues/campeonato-brasileiro/athletico-paranaense.png"
 		},
 		{
-			"name": "Athletico Goianiense",
-			"identy": "athletico-goianiense",
+			"name": "Atletico Goianiense",
+			"identy": "atletico-goianiense",
 			"data": [86, 88, 81, 87, 78, 84],
-			"image": "assets/img/leagues/brazilian-serie-a/team-logo/Athletico-Paranaense-Logo.png"
+			"image": "assets/img/leagues/campeonato-brasileiro/atletico-goianiense.svg"
 		},		{
 			"name": "Atletico Mineiro",
-			"identy": "mineiro",
+			"identy": "atletico-mineiro",
 			"data": [89, 89, 93, 89, 79, 93],
-			"image": "assets/img/leagues/brazilian-serie-a/team-logo/Clube-Atletico-Mineiro-Logo.png"
+			"image": "assets/img/leagues/campeonato-brasileiro/atletico-mineiro.svg"
 		},
 		{
 			"name": "Bahia",
 			"identy": "bahia",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/brazilian-serie-a/team-logo/EC-Bahia-Logo.png"
+			"image": "assets/img/leagues/campeonato-brasileiro/bahia.svg"
 		},
 		{
 			"name": "Botafogo",
 			"identy": "botafogo",
 			"data": [89, 80, 94, 90, 87, 93],
-			"image": "assets/img/leagues/brazilian-serie-a/team-logo/Botafogo-FR-Logo.png"
+			"image": "assets/img/leagues/campeonato-brasileiro/botafogo.png"
 		},
 		{
 			"name": "Ceara",
 			"identy": "ceara",
 			"data": [89, 91, 89, 83, 84, 89],
-			"image": "assets/img/leagues/brazilian-serie-a/team-logo/Ceara-SC-Logo.png"
+			"image": "assets/img/leagues/campeonato-brasileiro/ceara.png"
 		},
 		{
 			"name": "Corinthians",
 			"identy": "corinthians",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/brazilian-serie-a/team-logo/SC-Corinthians-Paulista-Logo.png"
+			"image": "assets/img/leagues/campeonato-brasileiro/corinthians.png"
 		},
 		{
 			"name": "Coritiba",
 			"identy": "coritiba",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/brazilian-serie-a/team-logo/CS-Alagoano-Logo.png"
+			"image": "assets/img/leagues/campeonato-brasileiro/coritiba.png"
 		},
 		{
 			"name": "Flamengo",
 			"identy": "flamengo",
 			"data": [88, 79, 88, 88, 91, 93],
-			"image": "assets/img/leagues/brazilian-serie-a/team-logo/CR-Flamengo-Logo.png"
+			"image": "assets/img/leagues/campeonato-brasileiro/flamengo.png"
 		},
 		{
 			"name": "Fluminense",
 			"identy": "fluminense",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/brazilian-serie-a/team-logo/Fluminense-FC-Logo.png"
+			"image": "assets/img/leagues/campeonato-brasileiro/fluminense.png"
 		},
 		{
 			"name": "Fortaleza",
 			"identy": "fortaleza",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/brazilian-serie-a/team-logo/Fortaleza-EC-Logo-1.png"
+			"image": "assets/img/leagues/campeonato-brasileiro/fortaleza.svg"
 		},
 		{
 			"name": "Goias",
 			"identy": "goias",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/brazilian-serie-a/team-logo/Goias-EC-Logo.png"
+			"image": "assets/img/leagues/campeonato-brasileiro/goias.png"
 		},
 		{
 			"name": "Gremio",
 			"identy": "gremio",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/brazilian-serie-a/team-logo/Gremio-FBPA-Logo.png"
+			"image": "assets/img/leagues/campeonato-brasileiro/gremio.png"
 		},
 		{
 			"name": "Internacional",
 			"identy": "internacional",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/brazilian-serie-a/team-logo/SC-Internacional-Logo.png"
+			"image": "assets/img/leagues/campeonato-brasileiro/internacional.png"
 		},
 		{
 			"name": "Palmeiras",
 			"identy": "palmeiras",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/brazilian-serie-a/team-logo/SE-Palmeiras-Logo.png"
+			"image": "assets/img/leagues/campeonato-brasileiro/palmeiras.png"
 		},	
 		{
 			"name": "RB Bragantino",
 			"identy": "rb-bragantino",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/brazilian-serie-a/team-logo/SE-Palmeiras-Logo.png"
+			"image": "assets/img/leagues/campeonato-brasileiro/rb-bragantino.svg"
 		},		
 		{
 			"name": "Santos",
 			"identy": "santos",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/brazilian-serie-a/team-logo/Santos-FC-Logo.png"
+			"image": "assets/img/leagues/campeonato-brasileiro/santos.svg"
 		},
 		{
 			"name": "Sao Paulo",
 			"identy": "sao-paulo",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/brazilian-serie-a/team-logo/Sao-Paulo-FC-Logo-1.png"
+			"image": "assets/img/leagues/campeonato-brasileiro/sao-paulo.png"
 		},
 		{
 			"name": "Sport",
 			"identy": "sport",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/brazilian-serie-a/team-logo/Sao-Paulo-FC-Logo-1.png"
+			"image": "assets/img/leagues/campeonato-brasileiro/sport.svg"
 		},		{
 			"name": "Vasco",
 			"identy": "vasco",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/brazilian-serie-a/team-logo/CR-Vasco-da-Gama-Logo.png"
+			"image": "assets/img/leagues/campeonato-brasileiro/vasco.png"
 		}
 	]
 }
