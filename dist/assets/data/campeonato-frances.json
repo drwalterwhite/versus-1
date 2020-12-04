@@ -134,13 +134,13 @@
 			"name": "Saint Etienne",
 			"identy": "saint-etienne",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "https://esporteone.com/app/img/teams/soccer/saintetienne.png"
+			"image": "https://esporteone.com/app/img/soccer/saintetienne.png"
 		},
 		{
 			"name": "Strasbourg",
 			"identy": "strasbourg",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "https://esporteone.com/app/img/teams/soccer/strasbourg.png"
+			"image": "https://esporteone.com/app/img/soccer/strasbourg.png"
 		}
 	]
 }
