@@ -93,7 +93,7 @@ function GetVersus(url, pl1, pl2, bg) {
 					},
 					feature: {
 						saveAsImage: {
-							name: p1Data[0].name + '-x-' + p2Data[0].name + '-ao-vivo-online-no-multicanais',
+							name: p1Data[0].name + '-x-' + p2Data[0].name + '-Ao-Vivo-Online-No-Multicanais',
 							show: true,
 							pixelRatio: 1,
 							icon: 'image://' + SaveIcon + ''
