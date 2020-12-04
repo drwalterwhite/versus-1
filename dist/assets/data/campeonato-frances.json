@@ -26,121 +26,121 @@
 			"name": "Angers",
 			"identy": "angers",
 			"data": [86, 88, 81, 87, 78, 84],
-			"image": "assets/img/leagues/nfl/arizona-cardinals.svg"
+			"image": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/7868.png"
 		},
 		{
 			"name": "Bordeaux",
 			"identy": "bordeaux",
 			"data": [85, 78, 71, 78, 82, 75],
-			"image": "assets/img/leagues/nfl/atlanta-falcons.svg"
+			"image": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/159.png"
 		},
 		{
 			"name": "Brest",
 			"identy": "brest",
 			"data": [89, 80, 94, 90, 87, 93],
-			"image": "assets/img/leagues/nfl/baltimore-ravens.svg"
+			"image": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/6997.png"
 		},
 		{
 			"name": "Dijon",
 			"identy": "dijon",
 			"data": [89, 91, 89, 83, 84, 89],
-			"image": "assets/img/leagues/nfl/buffalo-bills.svg"
+			"image": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/3170.png"
 		},
 		{
 			"name": "Lens",
 			"identy": "lens",
 			"data": [82, 86, 84, 78, 83, 86],
-			"image": "assets/img/leagues/nfl/carolina-panthers.svg"
+			"image": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/175.png"
 		},
 		{
 			"name": "Lille",
 			"identy": "lille",
 			"data": [89, 89, 93, 89, 79, 93],
-			"image": "assets/img/leagues/nfl/chicago-bears.svg"
+			"image": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/166.png"
 		},
 		{
 			"name": "Lorient",
 			"identy": "lorient",
 			"data": [88, 79, 88, 88, 91, 93],
-			"image": "assets/img/leagues/nfl/cincinnati-bengals.svg"
+			"image": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/273.png"
 		},
 		{
 			"name": "Lyon",
 			"identy": "lyon",
 			"data": [89, 88, 89, 82, 87, 90],
-			"image": "assets/img/leagues/nfl/cleveland-browns.svg"
+			"image": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/167.png"
 		},
 		{
 			"name": "Olympique",
 			"identy": "olympique",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/nfl/dallas-cowboys.svg"
+			"image": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/176.png"
 		},
 		{
 			"name": "Metz",
 			"identy": "metz",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/nfl/denver-broncos.svg"
+			"image": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/177.png"
 		},
 		{
 			"name": "Monaco",
 			"identy": "monaco",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/nfl/detroit-lions.svg"
+			"image": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/174.png"
 		},
 		{
 			"name": "Montpellier",
 			"identy": "montpellier",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/nfl/green-bay-packers.svg"
+			"image": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/274.png"
 		},
 		{
 			"name": "Nantes",
 			"identy": "nantes",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/nfl/houston-texans.svg"
+			"image": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/165.png"
 		},
 		{
 			"name": "Nice",
 			"identy": "nice",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/nfl/indianapolis-colts.svg"
+			"image": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2502.png"
 		},
 		{
 			"name": "Nimes",
 			"identy": "nimes",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/nfl/jacksonville-jaguars.svg"
+			"image": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/7730.png"
 		},
 		{
 			"name": "PSG",
 			"identy": "psg",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/nfl/kansas-city-chiefs.svg"
+			"image": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/160.png"
 		},
 		{
 			"name": "Reims",
 			"identy": "reims",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/nfl/los-angeles-rams.svg"
+			"image": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/3243.png"
 		},
 		{
 			"name": "Rennes",
 			"identy": "rennes",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/nfl/los-angeles-chargers.svg"
+			"image": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/169.png"
 		},
 		{
 			"name": "Saint Etienne",
 			"identy": "saint-etienne",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/nfl/las-vegas-raiders.svg"
+			"image": "https://esporteone.com/app/img/teams/soccer/saintetienne.png"
 		},
 		{
 			"name": "Strasbourg",
 			"identy": "strasbourg",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/nfl/miami-dolphins.svg"
+			"image": "https://esporteone.com/app/img/teams/soccer/strasbourg.png"
 		}
 	]
 }
