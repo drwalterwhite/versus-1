@@ -26,121 +26,121 @@
 			"name": "Atalanta",
 			"identy": "atalanta",
 			"data": [86, 88, 81, 87, 78, 84],
-			"image": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/105.png"
+			"image": "assets/img/leagues/campeonato-italiano/atalanta.png"
 		},
 		{
 			"name": "Benevento",
 			"identy": "benevento",
 			"data": [85, 78, 71, 78, 82, 75],
-			"image": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/4059.png"
+			"image": "assets/img/leagues/campeonato-italiano/benevento.png"
 		},
 		{
 			"name": "Bologna",
 			"identy": "bologna",
 			"data": [89, 80, 94, 90, 87, 93],
-			"image": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/107.png"
+			"image": "assets/img/leagues/campeonato-italiano/bologna.png"
 		},
 		{
 			"name": "Cagliari",
 			"identy": "cagliari",
 			"data": [89, 91, 89, 83, 84, 89],
-			"image": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2925.png"
+			"image": "assets/img/leagues/campeonato-italiano/cagliari.png"
 		},
 		{
 			"name": "Crotone",
 			"identy": "crotone",
 			"data": [82, 86, 84, 78, 83, 86],
-			"image": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/3173.png"
+			"image": "assets/img/leagues/campeonato-italiano/crotone.png"
 		},
 		{
 			"name": "Fiorentina",
 			"identy": "fiorentina",
 			"data": [89, 89, 93, 89, 79, 93],
-			"image": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/109.png"
+			"image": "assets/img/leagues/campeonato-italiano/fiorentina.png"
 		},
 		{
 			"name": "Genoa",
 			"identy": "genoa",
 			"data": [88, 79, 88, 88, 91, 93],
-			"image": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/3263.png"
+			"image": "assets/img/leagues/campeonato-italiano/genoa.png"
 		},
 		{
 			"name": "Inter de Milao",
 			"identy": "inter-de-milao",
 			"data": [89, 88, 89, 82, 87, 90],
-			"image": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/110.png"
+			"image": "assets/img/leagues/campeonato-italiano/inter-de-milao.png"
 		},
 		{
 			"name": "Juventus",
 			"identy": "juventus",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/111.png"
+			"image": "assets/img/leagues/campeonato-italiano/juventus.png"
 		},
 		{
 			"name": "Lazio",
 			"identy": "lazio",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/112.png"
+			"image": "assets/img/leagues/campeonato-italiano/lazio.png"
 		},
 		{
 			"name": "Milan",
 			"identy": "milan",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/103.png"
+			"image": "assets/img/leagues/campeonato-italiano/milan.png"
 		},
 		{
 			"name": "Napoli",
 			"identy": "napoli",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/114.png"
+			"image": "assets/img/leagues/campeonato-italiano/napoli.png"
 		},
 		{
 			"name": "Roma",
 			"identy": "roma",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/104.png"
+			"image": "assets/img/leagues/campeonato-italiano/roma.png"
 		},
 		{
 			"name": "Parma",
 			"identy": "parma",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/115.png"
+			"image": "assets/img/leagues/campeonato-italiano/parma.png"
 		},
 		{
 			"name": "Sampdoria",
 			"identy": "sampdoria",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2734.png"
+			"image": "assets/img/leagues/campeonato-italiano/sampdoria.png"
 		},
 		{
 			"name": "Sassuolo",
 			"identy": "sassuolo",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/3997.png"
+			"image": "assets/img/leagues/campeonato-italiano/sassuolo.png"
 		},
 		{
 			"name": "Spezia",
 			"identy": "spezia",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/4056.png"
+			"image": "assets/img/leagues/campeonato-italiano/spezia.png"
 		},
 		{
 			"name": "Torino",
 			"identy": "torino",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/239.png"
+			"image": "assets/img/leagues/campeonato-italiano/torino.png"
 		},
 		{
 			"name": "Udinese",
 			"identy": "udinese",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/118.png"
+			"image": "assets/img/leagues/campeonato-italiano/udinese.png"
 		},
 		{
 			"name": "Verona",
 			"identy": "verona",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/119.png"
+			"image": "assets/img/leagues/campeonato-italiano/verona.png"
 		}
 	]
 }
