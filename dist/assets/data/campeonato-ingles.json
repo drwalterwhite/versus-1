@@ -26,121 +26,121 @@
 			"name": "Arsenal",
 			"identy": "arsenal",
 			"data": [86, 88, 81, 87, 78, 84],
-			"image": "assets/img/leagues/nfl/arizona-cardinals.svg"
+			"image": "assets/img/leagues/campeonato-ingles/arsenal.svg"
 		},
 		{
 			"name": "Aston Villa",
 			"identy": "aston-villa",
 			"data": [85, 78, 71, 78, 82, 75],
-			"image": "assets/img/leagues/nfl/atlanta-falcons.svg"
+			"image": "assets/img/leagues/campeonato-ingles/aston-villa.png"
 		},
 		{
 			"name": "Brighton",
 			"identy": "brighton",
 			"data": [89, 80, 94, 90, 87, 93],
-			"image": "assets/img/leagues/nfl/baltimore-ravens.svg"
+			"image": "assets/img/leagues/campeonato-ingles/brighton.png"
 		},
 		{
 			"name": "Burnley",
 			"identy": "burnley",
 			"data": [89, 91, 89, 83, 84, 89],
-			"image": "assets/img/leagues/nfl/buffalo-bills.svg"
+			"image": "assets/img/leagues/campeonato-ingles/burnley.png"
 		},
 		{
 			"name": "Chelsea",
 			"identy": "chelsea",
 			"data": [82, 86, 84, 78, 83, 86],
-			"image": "assets/img/leagues/nfl/carolina-panthers.svg"
+			"image": "assets/img/leagues/campeonato-ingles/chelsea.svg"
 		},
 		{
 			"name": "Crystal Palace",
 			"identy": "crystal-palace",
 			"data": [89, 89, 93, 89, 79, 93],
-			"image": "assets/img/leagues/nfl/chicago-bears.svg"
+			"image": "assets/img/leagues/campeonato-ingles/crystal-palace.png"
 		},
 		{
 			"name": "Everton",
 			"identy": "everton",
 			"data": [88, 79, 88, 88, 91, 93],
-			"image": "assets/img/leagues/nfl/cincinnati-bengals.svg"
+			"image": "assets/img/leagues/campeonato-ingles/everton.png"
 		},
 		{
 			"name": "Fulham",
 			"identy": "fulham",
 			"data": [89, 88, 89, 82, 87, 90],
-			"image": "assets/img/leagues/nfl/cleveland-browns.svg"
+			"image": "assets/img/leagues/campeonato-ingles/fulham.png"
 		},
 		{
 			"name": "Leeds United",
 			"identy": "leeds-united",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/nfl/dallas-cowboys.svg"
+			"image": "assets/img/leagues/campeonato-ingles/leeds-united.png"
 		},
 		{
 			"name": "Leicester",
 			"identy": "leicester",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/nfl/denver-broncos.svg"
+			"image": "assets/img/leagues/campeonato-ingles/leicester.png"
 		},
 		{
 			"name": "Liverpool",
 			"identy": "liverpool",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/nfl/detroit-lions.svg"
+			"image": "assets/img/leagues/campeonato-ingles/liverpool.svg"
 		},
 		{
 			"name": "Manchester City",
 			"identy": "manchester-city",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/nfl/green-bay-packers.svg"
+			"image": "assets/img/leagues/campeonato-ingles/manchester-city.svg"
 		},
 		{
 			"name": "Manchester United",
 			"identy": "manchester-united",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/nfl/houston-texans.svg"
+			"image": "assets/img/leagues/campeonato-ingles/manchester-united.svg"
 		},
 		{
 			"name": "Newcastle United",
 			"identy": "newcastle-united",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/nfl/indianapolis-colts.svg"
+			"image": "assets/img/leagues/campeonato-ingles/newcastle-united.png"
 		},
 		{
 			"name": "Sheffield United",
 			"identy": "sheffield-united",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/nfl/jacksonville-jaguars.svg"
+			"image": "assets/img/leagues/campeonato-ingles/sheffield-united.png"
 		},
 		{
 			"name": "Southampton",
 			"identy": "southampton",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/nfl/kansas-city-chiefs.svg"
+			"image": "assets/img/leagues/campeonato-ingles/southampton.png"
 		},
 		{
 			"name": "Tottenham",
 			"identy": "tottenham",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/nfl/las-vegas-raiders.svg"
+			"image": "assets/img/leagues/campeonato-ingles/tottenham.svg"
 		},
 		{
 			"name": "West Bromwich",
 			"identy": "west-bromwich",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/nfl/los-angeles-chargers.svg"
+			"image": "assets/img/leagues/campeonato-ingles/west-bromwich.png"
 		},
 		{
 			"name": "West Ham",
 			"identy": "west-ham",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/nfl/los-angeles-rams.svg"
+			"image": "assets/img/leagues/campeonato-ingles/west-ham.png"
 		},
 		{
 			"name": "Wolverhampton",
 			"identy": "wolverhampton",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/nfl/miami-dolphins.svg"
+			"image": "assets/img/leagues/campeonato-ingles/wolverhampton.png"
 		}
 	]
 }
