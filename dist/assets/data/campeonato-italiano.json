@@ -1,0 +1,146 @@
+{
+	"dataNames": [
+		{ "text": "Overall", "max": 100 },
+		{ "text": "Dribbling", "max": 100 },
+		{ "text": "Finishing", "max": 100 },
+		{ "text": "Shot Power", "max": 100 },
+		{ "text": "Stamina", "max": 100 },
+		{ "text": "Positioning", "max": 100 }
+	],
+	"colors": [
+		{ "name": "Green", "value": "#3BB273" },
+		{ "name": "Blue", "value": "#4D9DE0" },
+		{ "name": "Orange", "value": "#E56B2D" },
+		{ "name": "Yellow", "value": "#E1BC29" },
+		{ "name": "Purple", "value": "#7768AE" }
+	],
+	"bg": [
+		{ "name": "Green", "value": "rgba(0,0,0,.5)" },
+		{ "name": "Blue", "value": "rgba(255,200,156,.5)" },
+		{ "name": "Orange", "value": "#E56B2D" },
+		{ "name": "Yellow", "value": "#E1BC29" },
+		{ "name": "Purple", "value": "#7768AE" }
+	],
+	"players": [
+		{
+			"name": "Atalanta",
+			"identy": "atalanta",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/105.png"
+		},
+		{
+			"name": "Benevento",
+			"identy": "benevento",
+			"data": [85, 78, 71, 78, 82, 75],
+			"image": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/4059.png"
+		},
+		{
+			"name": "Bologna",
+			"identy": "bologna",
+			"data": [89, 80, 94, 90, 87, 93],
+			"image": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/107.png"
+		},
+		{
+			"name": "Cagliari",
+			"identy": "cagliari",
+			"data": [89, 91, 89, 83, 84, 89],
+			"image": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2925.png"
+		},
+		{
+			"name": "Crotone",
+			"identy": "crotone",
+			"data": [82, 86, 84, 78, 83, 86],
+			"image": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/3173.png"
+		},
+		{
+			"name": "Fiorentina",
+			"identy": "fiorentina",
+			"data": [89, 89, 93, 89, 79, 93],
+			"image": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/109.png"
+		},
+		{
+			"name": "Genoa",
+			"identy": "genoa",
+			"data": [88, 79, 88, 88, 91, 93],
+			"image": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/3263.png"
+		},
+		{
+			"name": "Inter de Milao",
+			"identy": "inter-de-milao",
+			"data": [89, 88, 89, 82, 87, 90],
+			"image": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/110.png"
+		},
+		{
+			"name": "Juventus",
+			"identy": "juventus",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/111.png"
+		},
+		{
+			"name": "Lazio",
+			"identy": "lazio",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/112.png"
+		},
+		{
+			"name": "Milan",
+			"identy": "milan",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/103.png"
+		},
+		{
+			"name": "Napoli",
+			"identy": "napoli",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/114.png"
+		},
+		{
+			"name": "Roma",
+			"identy": "roma",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/104.png"
+		},
+		{
+			"name": "Parma",
+			"identy": "parma",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/115.png"
+		},
+		{
+			"name": "Sampdoria",
+			"identy": "sampdoria",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2734.png"
+		},
+		{
+			"name": "Sassuolo",
+			"identy": "sassuolo",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/3997.png"
+		},
+		{
+			"name": "Spezia",
+			"identy": "spezia",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/4056.png"
+		},
+		{
+			"name": "Torino",
+			"identy": "torino",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/239.png"
+		},
+		{
+			"name": "Udinese",
+			"identy": "udinese",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/118.png"
+		},
+		{
+			"name": "Verona",
+			"identy": "verona",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/119.png"
+		}
+	]
+}

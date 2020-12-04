@@ -1,0 +1,146 @@
+{
+	"dataNames": [
+		{ "text": "Overall", "max": 100 },
+		{ "text": "Dribbling", "max": 100 },
+		{ "text": "Finishing", "max": 100 },
+		{ "text": "Shot Power", "max": 100 },
+		{ "text": "Stamina", "max": 100 },
+		{ "text": "Positioning", "max": 100 }
+	],
+	"colors": [
+		{ "name": "Green", "value": "#3BB273" },
+		{ "name": "Blue", "value": "#4D9DE0" },
+		{ "name": "Orange", "value": "#E56B2D" },
+		{ "name": "Yellow", "value": "#E1BC29" },
+		{ "name": "Purple", "value": "#7768AE" }
+	],
+	"bg": [
+		{ "name": "Green", "value": "rgba(0,0,0,.5)" },
+		{ "name": "Blue", "value": "rgba(255,200,156,.5)" },
+		{ "name": "Orange", "value": "#E56B2D" },
+		{ "name": "Yellow", "value": "#E1BC29" },
+		{ "name": "Purple", "value": "#7768AE" }
+	],
+	"players": [
+		{
+			"name": "Alaves",
+			"identy": "alaves",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/leagues/nfl/arizona-cardinals.svg"
+		},
+		{
+			"name": "Athletic Bilbao",
+			"identy": "athletic-bilbao",
+			"data": [85, 78, 71, 78, 82, 75],
+			"image": "assets/img/leagues/nfl/atlanta-falcons.svg"
+		},
+		{
+			"name": "Atletico de Madrid",
+			"identy": "atletico-de-madrid",
+			"data": [89, 80, 94, 90, 87, 93],
+			"image": "assets/img/leagues/nfl/baltimore-ravens.svg"
+		},
+		{
+			"name": "Barcelona",
+			"identy": "barcelona",
+			"data": [89, 91, 89, 83, 84, 89],
+			"image": "assets/img/leagues/nfl/buffalo-bills.svg"
+		},
+		{
+			"name": "Betis",
+			"identy": "betis",
+			"data": [82, 86, 84, 78, 83, 86],
+			"image": "assets/img/leagues/nfl/carolina-panthers.svg"
+		},
+		{
+			"name": "Cadiz",
+			"identy": "cadiz",
+			"data": [89, 89, 93, 89, 79, 93],
+			"image": "assets/img/leagues/nfl/chicago-bears.svg"
+		},
+		{
+			"name": "Celta de Vigo",
+			"identy": "celta-de-vigo",
+			"data": [88, 79, 88, 88, 91, 93],
+			"image": "assets/img/leagues/nfl/cincinnati-bengals.svg"
+		},
+		{
+			"name": "Eibar",
+			"identy": "eibar",
+			"data": [89, 88, 89, 82, 87, 90],
+			"image": "assets/img/leagues/nfl/cleveland-browns.svg"
+		},
+		{
+			"name": "Elche",
+			"identy": "elche",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/nfl/dallas-cowboys.svg"
+		},
+		{
+			"name": "Getafe",
+			"identy": "getafe",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/nfl/denver-broncos.svg"
+		},
+		{
+			"name": "Granada",
+			"identy": "granada",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/nfl/detroit-lions.svg"
+		},
+		{
+			"name": "Huesca",
+			"identy": "huesca",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/nfl/green-bay-packers.svg"
+		},
+		{
+			"name": "Levante",
+			"identy": "levante",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/nfl/houston-texans.svg"
+		},
+		{
+			"name": "Osasuna",
+			"identy": "osasuna",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/nfl/indianapolis-colts.svg"
+		},
+		{
+			"name": "Real Sociedad",
+			"identy": "real-sociedad",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/nfl/jacksonville-jaguars.svg"
+		},
+		{
+			"name": "Real Madrid",
+			"identy": "real-madrid",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/nfl/kansas-city-chiefs.svg"
+		},
+		{
+			"name": "Valladolid",
+			"identy": "valladolid",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/nfl/las-vegas-raiders.svg"
+		},
+		{
+			"name": "Sevilla",
+			"identy": "sevilla",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/nfl/los-angeles-chargers.svg"
+		},
+		{
+			"name": "Valencia",
+			"identy": "valencia",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/nfl/los-angeles-rams.svg"
+		},
+		{
+			"name": "Villarreal",
+			"identy": "villarreal",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/nfl/miami-dolphins.svg"
+		}
+	]
+}

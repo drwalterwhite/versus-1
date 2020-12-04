@@ -1,0 +1,146 @@
+{
+	"dataNames": [
+		{ "text": "Overall", "max": 100 },
+		{ "text": "Dribbling", "max": 100 },
+		{ "text": "Finishing", "max": 100 },
+		{ "text": "Shot Power", "max": 100 },
+		{ "text": "Stamina", "max": 100 },
+		{ "text": "Positioning", "max": 100 }
+	],
+	"colors": [
+		{ "name": "Green", "value": "#3BB273" },
+		{ "name": "Blue", "value": "#4D9DE0" },
+		{ "name": "Orange", "value": "#E56B2D" },
+		{ "name": "Yellow", "value": "#E1BC29" },
+		{ "name": "Purple", "value": "#7768AE" }
+	],
+	"bg": [
+		{ "name": "Green", "value": "rgba(0,0,0,.5)" },
+		{ "name": "Blue", "value": "rgba(255,200,156,.5)" },
+		{ "name": "Orange", "value": "#E56B2D" },
+		{ "name": "Yellow", "value": "#E1BC29" },
+		{ "name": "Purple", "value": "#7768AE" }
+	],
+	"players": [
+		{
+			"name": "America Mineiro",
+			"identy": "america-mineiro",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/leagues/brazilian-serie-a/team-logo/Athletico-Paranaense-Logo.png"
+		},
+		{
+			"name": "Avai",
+			"identy": "avai",
+			"data": [85, 78, 71, 78, 82, 75],
+			"image": "assets/img/leagues/brazilian-serie-a/team-logo/Avai-FC-Logo.png"
+		},
+		{
+			"name": "Botafogo-SP",
+			"identy": "botafogo-sp",
+			"data": [89, 80, 94, 90, 87, 93],
+			"image": "assets/img/leagues/brazilian-serie-a/team-logo/Botafogo-FR-Logo.png"
+		},
+		{
+			"name": "Brasil de Pelotas",
+			"identy": "brasil-de-pelotas",
+			"data": [89, 91, 89, 83, 84, 89],
+			"image": "assets/img/leagues/brazilian-serie-a/team-logo/Ceara-SC-Logo.png"
+		},
+		{
+			"name": "Chapecoense",
+			"identy": "chapecoense",
+			"data": [82, 86, 84, 78, 83, 86],
+			"image": "assets/img/leagues/brazilian-serie-a/team-logo/Chapecoense-AF-Logo.png"
+		},
+		{
+			"name": "Confianca",
+			"identy": "confianca",
+			"data": [82, 86, 84, 78, 83, 86],
+			"image": "assets/img/leagues/brazilian-serie-a/team-logo/Chapecoense-AF-Logo.png"
+		},
+		{
+			"name": "CRB",
+			"identy": "crb",
+			"data": [89, 89, 93, 89, 79, 93],
+			"image": "assets/img/leagues/brazilian-serie-a/team-logo/Clube-Atletico-Mineiro-Logo.png"
+		},
+		{
+			"name": "Cruzeiro",
+			"identy": "cruzeiro",
+			"data": [89, 88, 89, 82, 87, 90],
+			"image": "assets/img/leagues/brazilian-serie-a/team-logo/Cruzeiro-EC-Logo.png"
+		},
+		{
+			"name": "CSA",
+			"identy": "csa",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/brazilian-serie-a/team-logo/CS-Alagoano-Logo.png"
+		},
+		{
+			"name": "Cuiaba",
+			"identy": "cuiaba",
+			"data": [88, 79, 88, 88, 91, 93],
+			"image": "assets/img/leagues/brazilian-serie-a/team-logo/CR-Flamengo-Logo.png"
+		},
+		{
+			"name": "Figueirense",
+			"identy": "figueirense",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/brazilian-serie-a/team-logo/CR-Vasco-da-Gama-Logo.png"
+		},
+		{
+			"name": "Guarani",
+			"identy": "guarani",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/brazilian-serie-a/team-logo/EC-Bahia-Logo.png"
+		},
+		{
+			"name": "Juventude",
+			"identy": "juventude",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/brazilian-serie-a/team-logo/Fluminense-FC-Logo.png"
+		},
+		{
+			"name": "Nautico",
+			"identy": "nautico",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/brazilian-serie-a/team-logo/Fortaleza-EC-Logo-1.png"
+		},
+		{
+			"name": "Oeste",
+			"identy": "oeste",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/brazilian-serie-a/team-logo/Goias-EC-Logo.png"
+		},
+		{
+			"name": "Operario",
+			"identy": "operario",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/brazilian-serie-a/team-logo/Gremio-FBPA-Logo.png"
+		},
+		{
+			"name": "Parana",
+			"identy": "parana",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/brazilian-serie-a/team-logo/Santos-FC-Logo.png"
+		},
+		{
+			"name": "Ponte Preta",
+			"identy": "ponte-preta",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/brazilian-serie-a/team-logo/Sao-Paulo-FC-Logo-1.png"
+		},
+		{
+			"name": "Sampaio Correa",
+			"identy": "sampaio-correa",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/brazilian-serie-a/team-logo/SC-Corinthians-Paulista-Logo.png"
+		},
+		{
+			"name": "Vitoria",
+			"identy": "vitoria",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/brazilian-serie-a/team-logo/SE-Palmeiras-Logo.png"
+		}
+	]
+}

@@ -1,0 +1,146 @@
+{
+	"dataNames": [
+		{ "text": "Overall", "max": 100 },
+		{ "text": "Dribbling", "max": 100 },
+		{ "text": "Finishing", "max": 100 },
+		{ "text": "Shot Power", "max": 100 },
+		{ "text": "Stamina", "max": 100 },
+		{ "text": "Positioning", "max": 100 }
+	],
+	"colors": [
+		{ "name": "Green", "value": "#3BB273" },
+		{ "name": "Blue", "value": "#4D9DE0" },
+		{ "name": "Orange", "value": "#E56B2D" },
+		{ "name": "Yellow", "value": "#E1BC29" },
+		{ "name": "Purple", "value": "#7768AE" }
+	],
+	"bg": [
+		{ "name": "Green", "value": "rgba(0,0,0,.5)" },
+		{ "name": "Blue", "value": "rgba(255,200,156,.5)" },
+		{ "name": "Orange", "value": "#E56B2D" },
+		{ "name": "Yellow", "value": "#E1BC29" },
+		{ "name": "Purple", "value": "#7768AE" }
+	],
+	"players": [
+		{
+			"name": "Boa Esporte",
+			"identy": "boa-esporte",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/leagues/brazilian-serie-a/team-logo/Athletico-Paranaense-Logo.png"
+		},
+		{
+			"name": "Botafogo-PB",
+			"identy": "botafogo-pb",
+			"data": [85, 78, 71, 78, 82, 75],
+			"image": "assets/img/leagues/brazilian-serie-a/team-logo/Avai-FC-Logo.png"
+		},
+		{
+			"name": "Brusque",
+			"identy": "brusque",
+			"data": [89, 80, 94, 90, 87, 93],
+			"image": "assets/img/leagues/brazilian-serie-a/team-logo/Botafogo-FR-Logo.png"
+		},
+		{
+			"name": "Criciuma",
+			"identy": "criciuma",
+			"data": [89, 91, 89, 83, 84, 89],
+			"image": "assets/img/leagues/brazilian-serie-a/team-logo/Ceara-SC-Logo.png"
+		},
+		{
+			"name": "Ferroviario",
+			"identy": "ferroviario",
+			"data": [82, 86, 84, 78, 83, 86],
+			"image": "assets/img/leagues/brazilian-serie-a/team-logo/Chapecoense-AF-Logo.png"
+		},
+		{
+			"name": "Imperatriz",
+			"identy": "imperatriz",
+			"data": [89, 89, 93, 89, 79, 93],
+			"image": "assets/img/leagues/brazilian-serie-a/team-logo/Clube-Atletico-Mineiro-Logo.png"
+		},
+		{
+			"name": "Ituano",
+			"identy": "ituano",
+			"data": [88, 79, 88, 88, 91, 93],
+			"image": "assets/img/leagues/brazilian-serie-a/team-logo/CR-Flamengo-Logo.png"
+		},
+		{
+			"name": "Jacuipense",
+			"identy": "jacuipense",
+			"data": [89, 88, 89, 82, 87, 90],
+			"image": "assets/img/leagues/brazilian-serie-a/team-logo/Cruzeiro-EC-Logo.png"
+		},
+		{
+			"name": "Londrina",
+			"identy": "londrina",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/brazilian-serie-a/team-logo/CR-Vasco-da-Gama-Logo.png"
+		},
+		{
+			"name": "Manaus",
+			"identy": "manaus",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/brazilian-serie-a/team-logo/CS-Alagoano-Logo.png"
+		},
+		{
+			"name": "Paysandu",
+			"identy": "paysandu",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/brazilian-serie-a/team-logo/EC-Bahia-Logo.png"
+		},
+		{
+			"name": "Remo",
+			"identy": "remo",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/brazilian-serie-a/team-logo/Fluminense-FC-Logo.png"
+		},
+		{
+			"name": "Santa Cruz",
+			"identy": "santa-cruz",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/brazilian-serie-a/team-logo/Fortaleza-EC-Logo-1.png"
+		},
+		{
+			"name": "Sao Bento",
+			"identy": "sao-bento",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/brazilian-serie-a/team-logo/Goias-EC-Logo.png"
+		},
+		{
+			"name": "Sao Jose",
+			"identy": "sao-jose",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/brazilian-serie-a/team-logo/Gremio-FBPA-Logo.png"
+		},
+		{
+			"name": "Tombense",
+			"identy": "tombense",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/brazilian-serie-a/team-logo/Santos-FC-Logo.png"
+		},
+		{
+			"name": "Treze",
+			"identy": "treze",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/brazilian-serie-a/team-logo/Sao-Paulo-FC-Logo-1.png"
+		},
+		{
+			"name": "Vila Nova",
+			"identy": "vila-nova",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/brazilian-serie-a/team-logo/SC-Corinthians-Paulista-Logo.png"
+		},
+		{
+			"name": "Volta Redonda",
+			"identy": "volta-redonda",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/brazilian-serie-a/team-logo/SC-Internacional-Logo.png"
+		},
+		{
+			"name": "Ypiranga",
+			"identy": "ypiranga",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/brazilian-serie-a/team-logo/SE-Palmeiras-Logo.png"
+		}
+	]
+}
