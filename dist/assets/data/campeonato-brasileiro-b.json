@@ -44,7 +44,7 @@
 			"name": "Brasil de Pelotas",
 			"identy": "brasil-de-pelotas",
 			"data": [89, 91, 89, 83, 84, 89],
-			"image": "assets/img/leagues/campeonato-brasileiro-b/brasil-de-pelotas.svg"
+			"image": "assets/img/leagues/campeonato-brasileiro-b/brasil-de-pelotas.png"
 		},
 		{
 			"name": "Chapecoense",
@@ -74,7 +74,7 @@
 			"name": "CSA",
 			"identy": "csa",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/campeonato-brasileiro-b/csa.svg"
+			"image": "assets/img/leagues/campeonato-brasileiro-b/csa.png"
 		},
 		{
 			"name": "Cuiaba",
@@ -86,7 +86,7 @@
 			"name": "Figueirense",
 			"identy": "figueirense",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/campeonato-brasileiro-b/figueirense.svg"
+			"image": "assets/img/leagues/campeonato-brasileiro-b/figueirense.png"
 		},
 		{
 			"name": "Guarani",
@@ -122,7 +122,7 @@
 			"name": "Parana",
 			"identy": "parana",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/campeonato-brasileiro-b/parana.svg"
+			"image": "assets/img/leagues/campeonato-brasileiro-b/parana.png"
 		},
 		{
 			"name": "Ponte Preta",
@@ -140,7 +140,7 @@
 			"name": "Vitoria",
 			"identy": "vitoria",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/campeonato-brasileiro-b/vitoria.svg"
+			"image": "assets/img/leagues/campeonato-brasileiro-b/vitoria.png"
 		}
 	]
 }
