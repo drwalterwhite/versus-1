@@ -26,193 +26,193 @@
 			"name": "Arizona Cardinals",
 			"identy": "arizona-cardinals",
 			"data": [86, 88, 81, 87, 78, 84],
-			"image": "assets/img/leagues/nfl/arizona-cardinals.svg"
+			"image": "assets/img/leagues/nfl/arizona-cardinals.png"
 		},
 		{
 			"name": "Atlanta Falcons",
 			"identy": "atlanta-falcons",
 			"data": [85, 78, 71, 78, 82, 75],
-			"image": "assets/img/leagues/nfl/atlanta-falcons.svg"
+			"image": "assets/img/leagues/nfl/atlanta-falcons.png"
 		},
 		{
 			"name": "Baltimore Ravens",
 			"identy": "baltimore-ravens",
 			"data": [89, 80, 94, 90, 87, 93],
-			"image": "assets/img/leagues/nfl/baltimore-ravens.svg"
+			"image": "assets/img/leagues/nfl/baltimore-ravens.png"
 		},
 		{
 			"name": "Buffalo Bills",
 			"identy": "buffalo-bills",
 			"data": [89, 91, 89, 83, 84, 89],
-			"image": "assets/img/leagues/nfl/buffalo-bills.svg"
+			"image": "assets/img/leagues/nfl/buffalo-bills.png"
 		},
 		{
 			"name": "Carolina Panthers",
 			"identy": "carolina-panthers",
 			"data": [82, 86, 84, 78, 83, 86],
-			"image": "assets/img/leagues/nfl/carolina-panthers.svg"
+			"image": "assets/img/leagues/nfl/carolina-panthers.png"
 		},
 		{
 			"name": "Chicago Bears",
 			"identy": "chicago-bears",
 			"data": [89, 89, 93, 89, 79, 93],
-			"image": "assets/img/leagues/nfl/chicago-bears.svg"
+			"image": "assets/img/leagues/nfl/chicago-bears.png"
 		},
 		{
 			"name": "Cincinnati Bengals",
 			"identy": "cincinnati-bengals",
 			"data": [88, 79, 88, 88, 91, 93],
-			"image": "assets/img/leagues/nfl/cincinnati-bengals.svg"
+			"image": "assets/img/leagues/nfl/cincinnati-bengals.png"
 		},
 		{
 			"name": "Cleveland Browns",
 			"identy": "cleveland-browns",
 			"data": [89, 88, 89, 82, 87, 90],
-			"image": "assets/img/leagues/nfl/cleveland-browns.svg"
+			"image": "assets/img/leagues/nfl/cleveland-browns.png"
 		},
 		{
 			"name": "Dallas Cowboys",
 			"identy": "dallas-cowboys",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/nfl/dallas-cowboys.svg"
+			"image": "assets/img/leagues/nfl/dallas-cowboys.png"
 		},
 		{
 			"name": "Denver Broncos",
 			"identy": "denver-broncos",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/nfl/denver-broncos.svg"
+			"image": "assets/img/leagues/nfl/denver-broncos.png"
 		},
 		{
 			"name": "Detroit Lions",
 			"identy": "detroit-lions",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/nfl/detroit-lions.svg"
+			"image": "assets/img/leagues/nfl/detroit-lions.png"
 		},
 		{
 			"name": "Green Bay Packers",
 			"identy": "green-bay-packers",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/nfl/green-bay-packers.svg"
+			"image": "assets/img/leagues/nfl/green-bay-packers.png"
 		},
 		{
 			"name": "Houston Texans",
 			"identy": "houston-texans",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/nfl/houston-texans.svg"
+			"image": "assets/img/leagues/nfl/houston-texans.png"
 		},
 		{
 			"name": "Indianapolis Colts",
 			"identy": "indianapolis-colts",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/nfl/indianapolis-colts.svg"
+			"image": "assets/img/leagues/nfl/indianapolis-colts.png"
 		},
 		{
 			"name": "Jacksonville Jaguars",
 			"identy": "jacksonville-jaguars",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/nfl/jacksonville-jaguars.svg"
+			"image": "assets/img/leagues/nfl/jacksonville-jaguars.png"
 		},
 		{
 			"name": "Kansas City Chiefs",
 			"identy": "kansas-city-chiefs",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/nfl/kansas-city-chiefs.svg"
+			"image": "assets/img/leagues/nfl/kansas-city-chiefs.png"
 		},
 		{
 			"name": "Las Vegas Raiders",
 			"identy": "las-vegas-raiders",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/nfl/las-vegas-raiders.svg"
+			"image": "assets/img/leagues/nfl/las-vegas-raiders.png"
 		},
 		{
 			"name": "Los Angeles Chargers",
 			"identy": "los-angeles-chargers",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/nfl/los-angeles-chargers.svg"
+			"image": "assets/img/leagues/nfl/los-angeles-chargers.png"
 		},
 		{
 			"name": "Los Angeles Rams",
 			"identy": "los-angeles-rams",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/nfl/los-angeles-rams.svg"
+			"image": "assets/img/leagues/nfl/los-angeles-rams.png"
 		},
 		{
 			"name": "Miami Dolphins",
 			"identy": "miami-dolphins",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/nfl/miami-dolphins.svg"
+			"image": "assets/img/leagues/nfl/miami-dolphins.png"
 		},
 		{
 			"name": "Minnesota Vikings",
 			"identy": "minnesota-vikings",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/nfl/minnesota-vikings.svg"
+			"image": "assets/img/leagues/nfl/minnesota-vikings.png"
 		},
 		{
 			"name": "New England Patriots",
 			"identy": "new-england-patriots",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/nfl/new-england-patriots.svg"
+			"image": "assets/img/leagues/nfl/new-england-patriots.png"
 		},
 		{
 			"name": "New Orleans Saints",
 			"identy": "new-orleans-saints",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/nfl/new-orleans-saints.svg"
+			"image": "assets/img/leagues/nfl/new-orleans-saints.png"
 		},
 		{
 			"name": "New York Giants",
 			"identy": "new-york-giants",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/nfl/new-york-giants.svg"
+			"image": "assets/img/leagues/nfl/new-york-giants.png"
 		},
 		{
 			"name": "New York Jets",
 			"identy": "new-york-jets",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/nfl/new-york-jets.svg"
+			"image": "assets/img/leagues/nfl/new-york-jets.png"
 		},
 		{
 			"name": "Philadelphia Eagles",
 			"identy": "philadelphia-eagles",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/nfl/philadelphia-eagles.svg"
+			"image": "assets/img/leagues/nfl/philadelphia-eagles.png"
 		},
 		{
 			"name": "Pittsburgh Steelers",
 			"identy": "pittsburgh-steelers",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/nfl/pittsburgh-steelers.svg"
+			"image": "assets/img/leagues/nfl/pittsburgh-steelers.png"
 		},
 		{
 			"name": "San Francisco 49ers",
 			"identy": "san-francisco-49ers",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/nfl/san-francisco-49ers.svg"
+			"image": "assets/img/leagues/nfl/san-francisco-49ers.png"
 		},
 		{
 			"name": "Seattle Seahawks",
 			"identy": "seattle-seahawks",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/nfl/seattle-seahawks.svg"
+			"image": "assets/img/leagues/nfl/seattle-seahawks.png"
 		},
 		{
 			"name": "Tampa Bay Buccaneers",
 			"identy": "tampa-bay-buccaneers",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/nfl/tampa-bay-buccaneers.svg"
+			"image": "assets/img/leagues/nfl/tampa-bay-buccaneers.png"
 		},
 		{
 			"name": "Tennessee Titans",
 			"identy": "tennessee-titans",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/nfl/tennessee-titans.svg"
+			"image": "assets/img/leagues/nfl/tennessee-titans.png"
 		},
 		{
 			"name": "Washington Football Team",
 			"identy": "washington-football-team",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/nfl/washington-football-team.svg"
+			"image": "assets/img/leagues/nfl/washington-football-team.png"
 		}
 	]
 }
