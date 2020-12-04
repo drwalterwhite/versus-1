@@ -7,17 +7,17 @@ var width = document.getElementById('versus').offsetWidth;
 var radiusMax = width >= height ? height : width;
 
 if (localStorage.getItem('player1') === null) {
-	localStorage.setItem('player1', 'paranaense');
+	localStorage.setItem('player1', 'flamengo');
 }
 if (localStorage.getItem('player2') === null) {
-	localStorage.setItem('player2', 'awai');
+	localStorage.setItem('player2', 'corinthians');
 }
 
 if (localStorage.getItem('pvBg') === null) {
 	localStorage.setItem('pvBg', './assets/img/bg.png');
 }
 if (localStorage.getItem('jsonUrl') === null) {
-	localStorage.setItem('jsonUrl', 'brasil-league');
+	localStorage.setItem('jsonUrl', 'campeonato-brasileiro');
 }
 var SaveIcon = './assets/img/screenshot.svg';
 GetVersus(localStorage.getItem('jsonUrl'), localStorage.getItem('player1'), localStorage.getItem('player2'), localStorage.getItem('pvBg'));
