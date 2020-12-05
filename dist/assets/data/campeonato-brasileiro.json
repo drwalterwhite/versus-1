@@ -121,7 +121,7 @@
 			"name": "Santos",
 			"identy": "santos",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/campeonato-brasileiro/santos.svg"
+			"image": "assets/img/leagues/campeonato-brasileiro/santos.png"
 		},
 		{
 			"name": "Sao Paulo",
@@ -133,7 +133,7 @@
 			"name": "Sport",
 			"identy": "sport",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/campeonato-brasileiro/sport.svg"
+			"image": "assets/img/leagues/campeonato-brasileiro/sport.png"
 		},		{
 			"name": "Vasco",
 			"identy": "vasco",
