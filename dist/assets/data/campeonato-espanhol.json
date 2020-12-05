@@ -26,121 +26,121 @@
 			"name": "Alaves",
 			"identy": "alaves",
 			"data": [86, 88, 81, 87, 78, 84],
-			"image": "assets/img/leagues/nfl/arizona-cardinals.svg"
+			"image": "assets/img/leagues/campeonato-espanhol/alaves.png"
 		},
 		{
 			"name": "Athletic Bilbao",
 			"identy": "athletic-bilbao",
 			"data": [85, 78, 71, 78, 82, 75],
-			"image": "assets/img/leagues/nfl/atlanta-falcons.svg"
+			"image": "assets/img/leagues/campeonato-espanhol/athletic-bilbao.png"
 		},
 		{
 			"name": "Atletico de Madrid",
 			"identy": "atletico-de-madrid",
 			"data": [89, 80, 94, 90, 87, 93],
-			"image": "assets/img/leagues/nfl/baltimore-ravens.svg"
+			"image": "assets/img/leagues/campeonato-espanhol/atletico-de-madrid.svg"
 		},
 		{
 			"name": "Barcelona",
 			"identy": "barcelona",
 			"data": [89, 91, 89, 83, 84, 89],
-			"image": "assets/img/leagues/nfl/buffalo-bills.svg"
+			"image": "assets/img/leagues/campeonato-espanhol/barcelona.svg"
 		},
 		{
 			"name": "Betis",
 			"identy": "betis",
 			"data": [82, 86, 84, 78, 83, 86],
-			"image": "assets/img/leagues/nfl/carolina-panthers.svg"
+			"image": "assets/img/leagues/campeonato-espanhol/betis.png"
 		},
 		{
 			"name": "Cadiz",
 			"identy": "cadiz",
 			"data": [89, 89, 93, 89, 79, 93],
-			"image": "assets/img/leagues/nfl/chicago-bears.svg"
+			"image": "assets/img/leagues/campeonato-espanhol/cadiz.png"
 		},
 		{
 			"name": "Celta de Vigo",
 			"identy": "celta-de-vigo",
 			"data": [88, 79, 88, 88, 91, 93],
-			"image": "assets/img/leagues/nfl/cincinnati-bengals.svg"
+			"image": "assets/img/leagues/campeonato-espanhol/celta-de-vigo.png"
 		},
 		{
 			"name": "Eibar",
 			"identy": "eibar",
 			"data": [89, 88, 89, 82, 87, 90],
-			"image": "assets/img/leagues/nfl/cleveland-browns.svg"
+			"image": "assets/img/leagues/campeonato-espanhol/eibar.png"
 		},
 		{
 			"name": "Elche",
 			"identy": "elche",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/nfl/dallas-cowboys.svg"
+			"image": "assets/img/leagues/campeonato-espanhol/elche.png"
 		},
 		{
 			"name": "Getafe",
 			"identy": "getafe",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/nfl/denver-broncos.svg"
+			"image": "assets/img/leagues/campeonato-espanhol/getafe.png"
 		},
 		{
 			"name": "Granada",
 			"identy": "granada",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/nfl/detroit-lions.svg"
+			"image": "assets/img/leagues/campeonato-espanhol/granada.png"
 		},
 		{
 			"name": "Huesca",
 			"identy": "huesca",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/nfl/green-bay-packers.svg"
+			"image": "assets/img/leagues/campeonato-espanhol/huesca.png"
 		},
 		{
 			"name": "Levante",
 			"identy": "levante",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/nfl/houston-texans.svg"
+			"image": "assets/img/leagues/campeonato-espanhol/levante.png"
 		},
 		{
 			"name": "Osasuna",
 			"identy": "osasuna",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/nfl/indianapolis-colts.svg"
+			"image": "assets/img/leagues/campeonato-espanhol/osasuna.png"
 		},
 		{
 			"name": "Real Sociedad",
 			"identy": "real-sociedad",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/nfl/jacksonville-jaguars.svg"
+			"image": "assets/img/leagues/campeonato-espanhol/real-sociedad.png"
 		},
 		{
 			"name": "Real Madrid",
 			"identy": "real-madrid",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/nfl/kansas-city-chiefs.svg"
+			"image": "assets/img/leagues/campeonato-espanhol/real-madrid.svg"
 		},
 		{
 			"name": "Valladolid",
 			"identy": "valladolid",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/nfl/las-vegas-raiders.svg"
+			"image": "assets/img/leagues/campeonato-espanhol/valladolid.png"
 		},
 		{
 			"name": "Sevilla",
 			"identy": "sevilla",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/nfl/los-angeles-chargers.svg"
+			"image": "assets/img/leagues/campeonato-espanhol/sevilla.svg"
 		},
 		{
 			"name": "Valencia",
 			"identy": "valencia",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/nfl/los-angeles-rams.svg"
+			"image": "assets/img/leagues/campeonato-espanhol/valencia.svg"
 		},
 		{
 			"name": "Villarreal",
 			"identy": "villarreal",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/nfl/miami-dolphins.svg"
+			"image": "assets/img/leagues/campeonato-espanhol/villarreal.png"
 		}
 	]
 }
