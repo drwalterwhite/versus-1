@@ -116,7 +116,7 @@
 			"name": "Real Madrid",
 			"identy": "real-madrid",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/campeonato-espanhol/real-madrid.svg"
+			"image": "assets/img/leagues/campeonato-espanhol/real-madrid.png"
 		},
 		{
 			"name": "Valladolid",
@@ -134,7 +134,7 @@
 			"name": "Valencia",
 			"identy": "valencia",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/campeonato-espanhol/valencia.svg"
+			"image": "assets/img/leagues/campeonato-espanhol/valencia.png"
 		},
 		{
 			"name": "Villarreal",
