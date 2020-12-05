@@ -37,7 +37,7 @@
 			"name": "Atletico Mineiro",
 			"identy": "atletico-mineiro",
 			"data": [89, 89, 93, 89, 79, 93],
-			"image": "assets/img/leagues/campeonato-brasileiro/atletico-mineiro.svg"
+			"image": "assets/img/leagues/campeonato-brasileiro/atletico-mineiro.png"
 		},
 		{
 			"name": "Bahia",
@@ -85,7 +85,7 @@
 			"name": "Fortaleza",
 			"identy": "fortaleza",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/campeonato-brasileiro/fortaleza.svg"
+			"image": "assets/img/leagues/campeonato-brasileiro/fortaleza.png"
 		},
 		{
 			"name": "Goias",
@@ -115,7 +115,7 @@
 			"name": "RB Bragantino",
 			"identy": "rb-bragantino",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/campeonato-brasileiro/rb-bragantino.svg"
+			"image": "assets/img/leagues/campeonato-brasileiro/rb-bragantino.png"
 		},		
 		{
 			"name": "Santos",
