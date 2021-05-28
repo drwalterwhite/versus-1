@@ -23,10 +23,10 @@
 	],
 	"players": [
 		{
-			"name": "Boa Esporte",
-			"identy": "boa-esporte",
+			"name": "Altos",
+			"identy": "altos",
 			"data": [86, 88, 81, 87, 78, 84],
-			"image": "assets/img/leagues/campeonato-brasileiro-c/boa-esporte.svg"
+			"image": "assets/img/leagues/campeonato-brasileiro-c/altos.png"
 		},
 		{
 			"name": "Botafogo-PB",
@@ -35,10 +35,10 @@
 			"image": "assets/img/leagues/campeonato-brasileiro-c/botafogo-pb.svg"
 		},
 		{
-			"name": "Brusque",
-			"identy": "brusque",
-			"data": [89, 80, 94, 90, 87, 93],
-			"image": "assets/img/leagues/campeonato-brasileiro-c/brusque.svg"
+			"name": "Botafogo-SP",
+			"identy": "botafogo-sp",
+			"data": [85, 78, 71, 78, 82, 75],
+			"image": "assets/img/leagues/campeonato-brasileiro-c/botafogo-sp.svg"
 		},
 		{
 			"name": "Criciuma",
@@ -53,10 +53,16 @@
 			"image": "assets/img/leagues/campeonato-brasileiro-c/ferroviario.png"
 		},
 		{
-			"name": "Imperatriz",
-			"identy": "imperatriz",
-			"data": [89, 89, 93, 89, 79, 93],
-			"image": "assets/img/leagues/campeonato-brasileiro-c/imperatriz.png"
+			"name": "Figueirense",
+			"identy": "figueirense",
+			"data": [89, 91, 89, 83, 84, 89],
+			"image": "assets/img/leagues/campeonato-brasileiro-c/figueirense.svg"
+		},
+		{
+			"name": "Floresta",
+			"identy": "floresta",
+			"data": [89, 91, 89, 83, 84, 89],
+			"image": "assets/img/leagues/campeonato-brasileiro-c/floresta.png"
 		},
 		{
 			"name": "Ituano",
@@ -71,16 +77,34 @@
 			"image": "assets/img/leagues/campeonato-brasileiro-c/jacuipense.svg"
 		},
 		{
-			"name": "Londrina",
-			"identy": "londrina",
-			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/campeonato-brasileiro-c/londrina.svg"
-		},
-		{
 			"name": "Manaus",
 			"identy": "manaus",
 			"data": [83, 74, 86, 78, 67, 90],
 			"image": "assets/img/leagues/campeonato-brasileiro-c/manaus.png"
+		},
+		{
+			"name": "Mirassol",
+			"identy": "mirassol",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/campeonato-brasileiro-c/mirassol.png"
+		},
+		{
+			"name": "Novorizontino",
+			"identy": "novorizontino",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/campeonato-brasileiro-c/novorizontino.png"
+		},
+		{
+			"name": "Oeste",
+			"identy": "oeste",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/campeonato-brasileiro-c/oeste.svg"
+		},
+		{
+			"name": "Parana",
+			"identy": "parana",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/campeonato-brasileiro-c/parana.svg"
 		},
 		{
 			"name": "Paysandu",
@@ -89,22 +113,10 @@
 			"image": "assets/img/leagues/campeonato-brasileiro-c/paysandu.svg"
 		},
 		{
-			"name": "Remo",
-			"identy": "remo",
-			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/campeonato-brasileiro-c/remo.png"
-		},
-		{
 			"name": "Santa Cruz",
 			"identy": "santa-cruz",
 			"data": [83, 74, 86, 78, 67, 90],
 			"image": "assets/img/leagues/campeonato-brasileiro-c/santa-cruz.svg"
-		},
-		{
-			"name": "Sao Bento",
-			"identy": "sao-bento",
-			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/campeonato-brasileiro-c/sao-bento.svg"
 		},
 		{
 			"name": "Sao Jose",
@@ -117,18 +129,6 @@
 			"identy": "tombense",
 			"data": [83, 74, 86, 78, 67, 90],
 			"image": "assets/img/leagues/campeonato-brasileiro-c/tombense.svg"
-		},
-		{
-			"name": "Treze",
-			"identy": "treze",
-			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/campeonato-brasileiro-c/treze.png"
-		},
-		{
-			"name": "Vila Nova",
-			"identy": "vila-nova",
-			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/campeonato-brasileiro-c/vila-nova.svg"
 		},
 		{
 			"name": "Volta Redonda",
