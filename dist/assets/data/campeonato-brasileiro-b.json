@@ -32,7 +32,7 @@
 			"name": "Botafogo",
 			"identy": "botafogo",
 			"data": [89, 80, 94, 90, 87, 93],
-			"image": "assets/img/leagues/campeonato-brasileiro-b/botafogo.svg"
+			"image": "assets/img/leagues/campeonato-brasileiro-b/botafogo.png"
 		},
 		{
 			"name": "Brasil de Pelotas",
@@ -80,7 +80,7 @@
 			"name": "Goias",
 			"identy": "goias",
 			"data": [88, 79, 88, 88, 91, 93],
-			"image": "assets/img/leagues/campeonato-brasileiro-b/goias.svg"
+			"image": "assets/img/leagues/campeonato-brasileiro-b/goias.png"
 		},
 		{
 			"name": "Guarani",
@@ -116,7 +116,7 @@
 			"name": "Remo",
 			"identy": "remo",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/campeonato-brasileiro-b/remo.svg"
+			"image": "assets/img/leagues/campeonato-brasileiro-b/remo.png"
 		},
 		{
 			"name": "Sampaio Correa",
@@ -128,7 +128,7 @@
 			"name": "Vasco",
 			"identy": "vasco",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/campeonato-brasileiro-b/vasco.svg"
+			"image": "assets/img/leagues/campeonato-brasileiro-b/vasco.png"
 		},
 		{
 			"name": "Vila Nova",
