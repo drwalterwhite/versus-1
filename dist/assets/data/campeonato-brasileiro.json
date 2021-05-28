@@ -26,7 +26,7 @@
 			"name": "America Mineiro",
 			"identy": "america-mineiro",
 			"data": [86, 88, 81, 87, 78, 84],
-			"image": "assets/img/leagues/campeonato-brasileiro/america-mineiro.png"
+			"image": "assets/img/leagues/campeonato-brasileiro/america-mineiro.svg"
 		},
 		{
 			"name": "Athletico Paranaense",
@@ -61,7 +61,7 @@
 			"name": "Chapecoense",
 			"identy": "chapecoense",
 			"data": [89, 91, 89, 83, 84, 89],
-			"image": "assets/img/leagues/campeonato-brasileiro/chapecoense.png"
+			"image": "assets/img/leagues/campeonato-brasileiro/chapecoense.svg"
 		},
 		{
 			"name": "Corinthians",
@@ -73,7 +73,7 @@
 			"name": "Cuiaba",
 			"identy": "cuiaba",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/campeonato-brasileiro/cuiaba.png"
+			"image": "assets/img/leagues/campeonato-brasileiro/cuiaba.svg"
 		},
 		{
 			"name": "Flamengo",
@@ -109,7 +109,7 @@
 			"name": "Juventude",
 			"identy": "juventude",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/campeonato-brasileiro/juventude.png"
+			"image": "assets/img/leagues/campeonato-brasileiro/juventude.svg"
 		},
 		{
 			"name": "Palmeiras",
