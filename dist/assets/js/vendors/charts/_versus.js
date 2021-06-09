@@ -14,7 +14,7 @@ if (localStorage.getItem('player2') === null) {
 }
 
 if (localStorage.getItem('pvBg') === null) {
-	localStorage.setItem('pvBg', './assets/img/bg.png');
+	localStorage.setItem('pvBg', './assets/img/bgfut.png');
 }
 if (localStorage.getItem('jsonUrl') === null) {
 	localStorage.setItem('jsonUrl', 'campeonato-brasileiro');
