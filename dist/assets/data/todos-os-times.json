@@ -380,6 +380,271 @@
 			"identy": "ypiranga",
 			"data": [83, 74, 86, 78, 67, 90],
 			"image": "assets/img/leagues/campeonato-brasileiro-c/ypiranga.svg"
-		}		
+		},
+		{
+			"name": "Arminia",
+			"identy": "arminia",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/leagues/campeonato-alemao/arminia.png"
+		},
+		{
+			"name": "Augsburg",
+			"identy": "augsburg",
+			"data": [85, 78, 71, 78, 82, 75],
+			"image": "assets/img/leagues/campeonato-alemao/augsburg.png"
+		},
+		{
+			"name": "Bayer Leverkusen",
+			"identy": "bayer-leverkusen",
+			"data": [89, 80, 94, 90, 87, 93],
+			"image": "assets/img/leagues/campeonato-alemao/bayer-leverkusen.png"
+		},
+		{
+			"name": "Bayern de Munique",
+			"identy": "bayern-de-munique",
+			"data": [89, 91, 89, 83, 84, 89],
+			"image": "assets/img/leagues/campeonato-alemao/bayern-de-munique.png"
+		},
+		{
+			"name": "Bochum",
+			"identy": "bochum",
+			"data": [82, 86, 84, 78, 83, 86],
+			"image": "assets/img/leagues/campeonato-alemao/bochum.png"
+		},
+		{
+			"name": "Borussia Dortmund",
+			"identy": "borussia-dortmund",
+			"data": [89, 89, 93, 89, 79, 93],
+			"image": "assets/img/leagues/campeonato-alemao/borussia-dortmund.png"
+		},
+		{
+			"name": "Borussia Monchengladbach",
+			"identy": "borussia-monchengladbach",
+			"data": [88, 79, 88, 88, 91, 93],
+			"image": "assets/img/leagues/campeonato-alemao/borussia-monchengladbach.png"
+		},
+		{
+			"name": "Colonia",
+			"identy": "colonia",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/campeonato-alemao/colonia.png"
+		},
+		{
+			"name": "Eintracht Frankfurt",
+			"identy": "eintracht-frankfurt",
+			"data": [89, 88, 89, 82, 87, 90],
+			"image": "assets/img/leagues/campeonato-alemao/eintracht-frankfurt.png"
+		},
+		{
+			"name": "Freiburg",
+			"identy": "freiburg",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/campeonato-alemao/freiburg.png"
+		},
+		{
+			"name": "Greuther Furth",
+			"identy": "greuther-furth",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/campeonato-alemao/greuther-furth.png"
+		},
+		{
+			"name": "Hertha Berlin",
+			"identy": "hertha-berlin",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/campeonato-alemao/hertha-berlin.png"
+		},
+		{
+			"name": "Hoffenheim",
+			"identy": "hoffenheim",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/campeonato-alemao/hoffenheim.png"
+		},
+		{
+			"name": "Leipzig",
+			"identy": "leipzig",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/campeonato-alemao/leipzig.png"
+		},
+		{
+			"name": "Mainz",
+			"identy": "mainz",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/campeonato-alemao/mainz.png"
+		},
+		{
+			"name": "Stuttgart",
+			"identy": "stuttgart",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/campeonato-alemao/stuttgart.png"
+		},
+		{
+			"name": "Union Berlin",
+			"identy": "union-berlin",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/campeonato-alemao/union-berlin.png"
+		},
+		{
+			"name": "Wolfsburg",
+			"identy": "wolfsburg",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/campeonato-alemao/wolfsburg.png"
+		},
+		{
+			"name": "Aldosivi",
+			"identy": "aldosivi",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/leagues/campeonato-argentino/aldosivi.png"
+		},
+		{
+			"name": "Argentinos Juniors",
+			"identy": "argentinos-juniors",
+			"data": [85, 78, 71, 78, 82, 75],
+			"image": "assets/img/leagues/campeonato-argentino/argentinos-juniors.png"
+		},
+		{
+			"name": "Arsenal de Sarandí",
+			"identy": "arsenal-de-sarandí",
+			"data": [89, 80, 94, 90, 87, 93],
+			"image": "assets/img/leagues/campeonato-argentino/arsenal-de-sarandí.png"
+		},
+		{
+			"name": "Atletico Tucuman",
+			"identy": "atletico-tucuman",
+			"data": [89, 91, 89, 83, 84, 89],
+			"image": "assets/img/leagues/campeonato-argentino/atletico-tucuman.png"
+		},
+		{
+			"name": "Banfield",
+			"identy": "banfield",
+			"data": [82, 86, 84, 78, 83, 86],
+			"image": "assets/img/leagues/campeonato-argentino/banfield.png"
+		},
+		{
+			"name": "Boca Juniors",
+			"identy": "boca-juniors",
+			"data": [89, 89, 93, 89, 79, 93],
+			"image": "assets/img/leagues/campeonato-argentino/boca-juniors.png"
+		},
+		{
+			"name": "Central Cordoba",
+			"identy": "central-cordoba",
+			"data": [88, 79, 88, 88, 91, 93],
+			"image": "assets/img/leagues/campeonato-argentino/central-cordoba.png"
+		},
+		{
+			"name": "Colon",
+			"identy": "colon",
+			"data": [89, 88, 89, 82, 87, 90],
+			"image": "assets/img/leagues/campeonato-argentino/colon.png"
+		},
+		{
+			"name": "Defensa y Justicia",
+			"identy": "defensa-y-justicia",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/campeonato-argentino/defensa-y-justicia.png"
+		},
+		{
+			"name": "Estudiantes de La Plata",
+			"identy": "estudiantes-de-la-plata",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/campeonato-argentino/estudiantes-de-la-plata.png"
+		},
+		{
+			"name": "Gimnasia La Plata",
+			"identy": "gimnasia-la-plata",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/campeonato-argentino/gimnasia-la-plata.png"
+		},
+		{
+			"name": "Godoy Cruz",
+			"identy": "godoy-cruz",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/campeonato-argentino/godoy-cruz.png"
+		},
+		{
+			"name": "Huracan",
+			"identy": "huracan",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/campeonato-argentino/huracan.png"
+		},
+		{
+			"name": "Independiente",
+			"identy": "independiente",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/campeonato-argentino/independiente.png"
+		},
+		{
+			"name": "Lanus",
+			"identy": "lanus",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/campeonato-argentino/lanus.png"
+		},
+		{
+			"name": "Newells Old Boys",
+			"identy": "newells-old-boys",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/campeonato-argentino/newells-old-boys.png"
+		},
+		{
+			"name": "Patronato",
+			"identy": "patronato",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/campeonato-argentino/patronato.png"
+		},
+		{
+			"name": "Platense",
+			"identy": "platense",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/campeonato-argentino/platense.png"
+		},
+		{
+			"name": "Racing",
+			"identy": "racing",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/campeonato-argentino/racing.png"
+		},
+		{
+			"name": "River Plate",
+			"identy": "river-plate",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/campeonato-argentino/river-plate.png"
+		},
+		{
+			"name": "Rosario Central",
+			"identy": "rosario-central",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/campeonato-argentino/rosario-central.png"
+		},
+		{
+			"name": "San Lorenzo",
+			"identy": "san-lorenzo",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/campeonato-argentino/san-lorenzo.png"
+		},
+		{
+			"name": "Sarmiento",
+			"identy": "sarmiento",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/campeonato-argentino/sarmiento.png"
+		},
+		{
+			"name": "Talleres",
+			"identy": "talleres",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/campeonato-argentino/talleres.png"
+		},		{
+			"name": "Union Santa Fe",
+			"identy": "union-santa-fe",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/campeonato-argentino/union-santa-fe.png"
+		},
+		{
+			"name": "Velez Sarsfield",
+			"identy": "velez-sarsfield",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/campeonato-argentino/velez-sarsfield.png"
+		},
+
+		
 	]
 }
