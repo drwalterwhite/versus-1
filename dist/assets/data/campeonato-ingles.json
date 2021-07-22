@@ -35,6 +35,12 @@
 			"image": "assets/img/leagues/campeonato-ingles/aston-villa.png"
 		},
 		{
+			"name": "Brentford",
+			"identy": "brentford",
+			"data": [89, 80, 94, 90, 87, 93],
+			"image": "assets/img/leagues/campeonato-ingles/brentford.png"
+		},
+		{
 			"name": "Brighton",
 			"identy": "brighton",
 			"data": [89, 80, 94, 90, 87, 93],
@@ -63,12 +69,6 @@
 			"identy": "everton",
 			"data": [88, 79, 88, 88, 91, 93],
 			"image": "assets/img/leagues/campeonato-ingles/everton.png"
-		},
-		{
-			"name": "Fulham",
-			"identy": "fulham",
-			"data": [89, 88, 89, 82, 87, 90],
-			"image": "assets/img/leagues/campeonato-ingles/fulham.png"
 		},
 		{
 			"name": "Leeds United",
@@ -107,10 +107,10 @@
 			"image": "assets/img/leagues/campeonato-ingles/newcastle-united.png"
 		},
 		{
-			"name": "Sheffield United",
-			"identy": "sheffield-united",
+			"name": "Norwich",
+			"identy": "norwich",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/campeonato-ingles/sheffield-united.png"
+			"image": "assets/img/leagues/campeonato-ingles/norwich.png"
 		},
 		{
 			"name": "Southampton",
@@ -125,10 +125,10 @@
 			"image": "assets/img/leagues/campeonato-ingles/tottenham.png"
 		},
 		{
-			"name": "West Bromwich",
-			"identy": "west-bromwich",
+			"name": "Watford",
+			"identy": "watford",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/campeonato-ingles/west-bromwich.png"
+			"image": "assets/img/leagues/campeonato-ingles/watford.png"
 		},
 		{
 			"name": "West Ham",

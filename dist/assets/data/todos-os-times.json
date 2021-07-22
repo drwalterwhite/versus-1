@@ -643,6 +643,486 @@
 			"identy": "velez-sarsfield",
 			"data": [83, 74, 86, 78, 67, 90],
 			"image": "assets/img/leagues/campeonato-argentino/velez-sarsfield.png"
-		}	
+		},
+		{
+			"name": "Alaves",
+			"identy": "alaves",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/leagues/campeonato-espanhol/alaves.png"
+		},
+		{
+			"name": "Athletic Bilbao",
+			"identy": "athletic-bilbao",
+			"data": [85, 78, 71, 78, 82, 75],
+			"image": "assets/img/leagues/campeonato-espanhol/athletic-bilbao.png"
+		},
+		{
+			"name": "Atletico de Madrid",
+			"identy": "atletico-de-madrid",
+			"data": [89, 80, 94, 90, 87, 93],
+			"image": "assets/img/leagues/campeonato-espanhol/atletico-de-madrid.svg"
+		},
+		{
+			"name": "Barcelona",
+			"identy": "barcelona",
+			"data": [89, 91, 89, 83, 84, 89],
+			"image": "assets/img/leagues/campeonato-espanhol/barcelona.png"
+		},
+		{
+			"name": "Betis",
+			"identy": "betis",
+			"data": [82, 86, 84, 78, 83, 86],
+			"image": "assets/img/leagues/campeonato-espanhol/betis.png"
+		},
+		{
+			"name": "Cadiz",
+			"identy": "cadiz",
+			"data": [89, 89, 93, 89, 79, 93],
+			"image": "assets/img/leagues/campeonato-espanhol/cadiz.png"
+		},
+		{
+			"name": "Celta de Vigo",
+			"identy": "celta-de-vigo",
+			"data": [88, 79, 88, 88, 91, 93],
+			"image": "assets/img/leagues/campeonato-espanhol/celta-de-vigo.png"
+		},
+		{
+			"name": "Elche",
+			"identy": "elche",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/campeonato-espanhol/elche.png"
+		},
+		{
+			"name": "Espanyol",
+			"identy": "espanyol",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/campeonato-espanhol/espanyol.png"
+		},
+		{
+			"name": "Getafe",
+			"identy": "getafe",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/campeonato-espanhol/getafe.png"
+		},
+		{
+			"name": "Granada",
+			"identy": "granada",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/campeonato-espanhol/granada.png"
+		},
+		{
+			"name": "Levante",
+			"identy": "levante",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/campeonato-espanhol/levante.png"
+		},
+		{
+			"name": "Mallorca",
+			"identy": "mallorca",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/campeonato-espanhol/mallorca.png"
+		},
+		{
+			"name": "Osasuna",
+			"identy": "osasuna",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/campeonato-espanhol/osasuna.png"
+		},
+		{
+			"name": "Rayo Vallecano",
+			"identy": "rayo-vallecano",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/campeonato-espanhol/rayo-vallecano.png"
+		},
+		{
+			"name": "Real Madrid",
+			"identy": "real-madrid",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/campeonato-espanhol/real-madrid.png"
+		},
+		{
+			"name": "Real Sociedad",
+			"identy": "real-sociedad",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/campeonato-espanhol/real-sociedad.png"
+		},
+		{
+			"name": "Sevilla",
+			"identy": "sevilla",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/campeonato-espanhol/sevilla.png"
+		},
+		{
+			"name": "Valencia",
+			"identy": "valencia",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/campeonato-espanhol/valencia.png"
+		},
+		{
+			"name": "Villarreal",
+			"identy": "villarreal",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/campeonato-espanhol/villarreal.png"
+		},
+		{
+			"name": "Angers",
+			"identy": "angers",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/leagues/campeonato-frances/angers.png"
+		},
+		{
+			"name": "Bordeaux",
+			"identy": "bordeaux",
+			"data": [85, 78, 71, 78, 82, 75],
+			"image": "assets/img/leagues/campeonato-frances/bordeaux.png"
+		},
+		{
+			"name": "Brest",
+			"identy": "brest",
+			"data": [89, 80, 94, 90, 87, 93],
+			"image": "assets/img/leagues/campeonato-frances/brest.png"
+		},
+		{
+			"name": "Clermont Foot",
+			"identy": "clermont-foot",
+			"data": [89, 80, 94, 90, 87, 93],
+			"image": "assets/img/leagues/campeonato-frances/clermont-foot.png"
+		},
+		{
+			"name": "Lens",
+			"identy": "lens",
+			"data": [82, 86, 84, 78, 83, 86],
+			"image": "assets/img/leagues/campeonato-frances/lens.png"
+		},
+		{
+			"name": "Lille",
+			"identy": "lille",
+			"data": [89, 89, 93, 89, 79, 93],
+			"image": "assets/img/leagues/campeonato-frances/lille.png"
+		},
+		{
+			"name": "Lorient",
+			"identy": "lorient",
+			"data": [88, 79, 88, 88, 91, 93],
+			"image": "assets/img/leagues/campeonato-frances/lorient.png"
+		},
+		{
+			"name": "Lyon",
+			"identy": "lyon",
+			"data": [89, 88, 89, 82, 87, 90],
+			"image": "assets/img/leagues/campeonato-frances/lyon.png"
+		},
+		{
+			"name": "Olympique",
+			"identy": "olympique",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/campeonato-frances/olympique.png"
+		},
+		{
+			"name": "Metz",
+			"identy": "metz",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/campeonato-frances/metz.png"
+		},
+		{
+			"name": "Monaco",
+			"identy": "monaco",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/campeonato-frances/monaco.png"
+		},
+		{
+			"name": "Montpellier",
+			"identy": "montpellier",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/campeonato-frances/montpellier.png"
+		},
+		{
+			"name": "Nantes",
+			"identy": "nantes",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/campeonato-frances/nantes.png"
+		},
+		{
+			"name": "Nice",
+			"identy": "nice",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/campeonato-frances/nice.png"
+		},
+		{
+			"name": "PSG",
+			"identy": "psg",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/campeonato-frances/psg.png"
+		},
+		{
+			"name": "Reims",
+			"identy": "reims",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/campeonato-frances/reims.png"
+		},
+		{
+			"name": "Rennes",
+			"identy": "rennes",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/campeonato-frances/rennes.png"
+		},
+		{
+			"name": "Saint Etienne",
+			"identy": "saint-etienne",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/campeonato-frances/saint-etienne.png"
+		},
+		{
+			"name": "Strasbourg",
+			"identy": "strasbourg",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/campeonato-frances/strasbourg.png"
+		},
+		{
+			"name": "Troyes",
+			"identy": "troyes",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/campeonato-frances/troyes.png"
+		},
+		{
+			"name": "Arsenal",
+			"identy": "arsenal",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/leagues/campeonato-ingles/arsenal.png"
+		},
+		{
+			"name": "Aston Villa",
+			"identy": "aston-villa",
+			"data": [85, 78, 71, 78, 82, 75],
+			"image": "assets/img/leagues/campeonato-ingles/aston-villa.png"
+		},
+		{
+			"name": "Brentford",
+			"identy": "brentford",
+			"data": [89, 80, 94, 90, 87, 93],
+			"image": "assets/img/leagues/campeonato-ingles/brentford.png"
+		},
+		{
+			"name": "Brighton",
+			"identy": "brighton",
+			"data": [89, 80, 94, 90, 87, 93],
+			"image": "assets/img/leagues/campeonato-ingles/brighton.png"
+		},
+		{
+			"name": "Burnley",
+			"identy": "burnley",
+			"data": [89, 91, 89, 83, 84, 89],
+			"image": "assets/img/leagues/campeonato-ingles/burnley.png"
+		},
+		{
+			"name": "Chelsea",
+			"identy": "chelsea",
+			"data": [82, 86, 84, 78, 83, 86],
+			"image": "assets/img/leagues/campeonato-ingles/chelsea.svg"
+		},
+		{
+			"name": "Crystal Palace",
+			"identy": "crystal-palace",
+			"data": [89, 89, 93, 89, 79, 93],
+			"image": "assets/img/leagues/campeonato-ingles/crystal-palace.png"
+		},
+		{
+			"name": "Everton",
+			"identy": "everton",
+			"data": [88, 79, 88, 88, 91, 93],
+			"image": "assets/img/leagues/campeonato-ingles/everton.png"
+		},
+		{
+			"name": "Leeds United",
+			"identy": "leeds-united",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/campeonato-ingles/leeds-united.png"
+		},
+		{
+			"name": "Leicester",
+			"identy": "leicester",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/campeonato-ingles/leicester.png"
+		},
+		{
+			"name": "Liverpool",
+			"identy": "liverpool",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/campeonato-ingles/liverpool.png"
+		},
+		{
+			"name": "Manchester City",
+			"identy": "manchester-city",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/campeonato-ingles/manchester-city.svg"
+		},
+		{
+			"name": "Manchester United",
+			"identy": "manchester-united",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/campeonato-ingles/manchester-united.svg"
+		},
+		{
+			"name": "Newcastle United",
+			"identy": "newcastle-united",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/campeonato-ingles/newcastle-united.png"
+		},
+		{
+			"name": "Norwich",
+			"identy": "norwich",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/campeonato-ingles/norwich.png"
+		},
+		{
+			"name": "Southampton",
+			"identy": "southampton",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/campeonato-ingles/southampton.png"
+		},
+		{
+			"name": "Tottenham",
+			"identy": "tottenham",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/campeonato-ingles/tottenham.png"
+		},
+		{
+			"name": "Watford",
+			"identy": "watford",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/campeonato-ingles/watford.png"
+		},
+		{
+			"name": "West Ham",
+			"identy": "west-ham",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/campeonato-ingles/west-ham.png"
+		},
+		{
+			"name": "Wolverhampton",
+			"identy": "wolverhampton",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/campeonato-ingles/wolverhampton.png"
+		},
+		{
+			"name": "Atalanta",
+			"identy": "atalanta",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/leagues/campeonato-italiano/atalanta.png"
+		},
+		{
+			"name": "Bologna",
+			"identy": "bologna",
+			"data": [89, 80, 94, 90, 87, 93],
+			"image": "assets/img/leagues/campeonato-italiano/bologna.png"
+		},
+		{
+			"name": "Cagliari",
+			"identy": "cagliari",
+			"data": [89, 91, 89, 83, 84, 89],
+			"image": "assets/img/leagues/campeonato-italiano/cagliari.png"
+		},
+		{
+			"name": "Empoli",
+			"identy": "empoli",
+			"data": [89, 91, 89, 83, 84, 89],
+			"image": "assets/img/leagues/campeonato-italiano/empoli.png"
+		},
+		{
+			"name": "Fiorentina",
+			"identy": "fiorentina",
+			"data": [89, 89, 93, 89, 79, 93],
+			"image": "assets/img/leagues/campeonato-italiano/fiorentina.png"
+		},
+		{
+			"name": "Genoa",
+			"identy": "genoa",
+			"data": [88, 79, 88, 88, 91, 93],
+			"image": "assets/img/leagues/campeonato-italiano/genoa.png"
+		},
+		{
+			"name": "Inter de Milao",
+			"identy": "inter-de-milao",
+			"data": [89, 88, 89, 82, 87, 90],
+			"image": "assets/img/leagues/campeonato-italiano/inter-de-milao-novo.png"
+		},
+		{
+			"name": "Juventus",
+			"identy": "juventus",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/campeonato-italiano/juventus.png"
+		},
+		{
+			"name": "Lazio",
+			"identy": "lazio",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/campeonato-italiano/lazio.png"
+		},
+		{
+			"name": "Milan",
+			"identy": "milan",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/campeonato-italiano/milan.png"
+		},
+		{
+			"name": "Napoli",
+			"identy": "napoli",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/campeonato-italiano/napoli.png"
+		},
+		{
+			"name": "Roma",
+			"identy": "roma",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/campeonato-italiano/roma.png"
+		},
+		{
+			"name": "Salernitana",
+			"identy": "salernitana",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/campeonato-italiano/salernitana.png"
+		},
+		{
+			"name": "Sampdoria",
+			"identy": "sampdoria",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/campeonato-italiano/sampdoria.png"
+		},
+		{
+			"name": "Sassuolo",
+			"identy": "sassuolo",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/campeonato-italiano/sassuolo.png"
+		},
+		{
+			"name": "Spezia",
+			"identy": "spezia",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/campeonato-italiano/spezia.png"
+		},
+		{
+			"name": "Torino",
+			"identy": "torino",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/campeonato-italiano/torino.png"
+		},
+		{
+			"name": "Udinese",
+			"identy": "udinese",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/campeonato-italiano/udinese.png"
+		},
+		{
+			"name": "Verona",
+			"identy": "verona",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/campeonato-italiano/verona.png"
+		},
+		{
+			"name": "Venezia",
+			"identy": "venezia",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/campeonato-italiano/venezia.png"
+		}
 	]
 }

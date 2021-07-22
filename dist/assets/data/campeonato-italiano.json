@@ -29,12 +29,6 @@
 			"image": "assets/img/leagues/campeonato-italiano/atalanta.png"
 		},
 		{
-			"name": "Benevento",
-			"identy": "benevento",
-			"data": [85, 78, 71, 78, 82, 75],
-			"image": "assets/img/leagues/campeonato-italiano/benevento.png"
-		},
-		{
 			"name": "Bologna",
 			"identy": "bologna",
 			"data": [89, 80, 94, 90, 87, 93],
@@ -47,10 +41,10 @@
 			"image": "assets/img/leagues/campeonato-italiano/cagliari.png"
 		},
 		{
-			"name": "Crotone",
-			"identy": "crotone",
-			"data": [82, 86, 84, 78, 83, 86],
-			"image": "assets/img/leagues/campeonato-italiano/crotone.png"
+			"name": "Empoli",
+			"identy": "empoli",
+			"data": [89, 91, 89, 83, 84, 89],
+			"image": "assets/img/leagues/campeonato-italiano/empoli.png"
 		},
 		{
 			"name": "Fiorentina",
@@ -68,7 +62,7 @@
 			"name": "Inter de Milao",
 			"identy": "inter-de-milao",
 			"data": [89, 88, 89, 82, 87, 90],
-			"image": "assets/img/leagues/campeonato-italiano/inter-de-milao.png"
+			"image": "assets/img/leagues/campeonato-italiano/inter-de-milao-novo.png"
 		},
 		{
 			"name": "Juventus",
@@ -101,10 +95,10 @@
 			"image": "assets/img/leagues/campeonato-italiano/roma.png"
 		},
 		{
-			"name": "Parma",
-			"identy": "parma",
+			"name": "Salernitana",
+			"identy": "salernitana",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/campeonato-italiano/parma.png"
+			"image": "assets/img/leagues/campeonato-italiano/salernitana.png"
 		},
 		{
 			"name": "Sampdoria",
@@ -141,6 +135,12 @@
 			"identy": "verona",
 			"data": [83, 74, 86, 78, 67, 90],
 			"image": "assets/img/leagues/campeonato-italiano/verona.png"
+		},
+		{
+			"name": "Venezia",
+			"identy": "venezia",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/campeonato-italiano/venezia.png"
 		}
 	]
 }

@@ -65,16 +65,16 @@
 			"image": "assets/img/leagues/campeonato-espanhol/celta-de-vigo.png"
 		},
 		{
-			"name": "Eibar",
-			"identy": "eibar",
-			"data": [89, 88, 89, 82, 87, 90],
-			"image": "assets/img/leagues/campeonato-espanhol/eibar.png"
-		},
-		{
 			"name": "Elche",
 			"identy": "elche",
 			"data": [83, 74, 86, 78, 67, 90],
 			"image": "assets/img/leagues/campeonato-espanhol/elche.png"
+		},
+		{
+			"name": "Espanyol",
+			"identy": "espanyol",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/campeonato-espanhol/espanyol.png"
 		},
 		{
 			"name": "Getafe",
@@ -89,16 +89,16 @@
 			"image": "assets/img/leagues/campeonato-espanhol/granada.png"
 		},
 		{
-			"name": "Huesca",
-			"identy": "huesca",
-			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/campeonato-espanhol/huesca.png"
-		},
-		{
 			"name": "Levante",
 			"identy": "levante",
 			"data": [83, 74, 86, 78, 67, 90],
 			"image": "assets/img/leagues/campeonato-espanhol/levante.png"
+		},
+		{
+			"name": "Mallorca",
+			"identy": "mallorca",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/campeonato-espanhol/mallorca.png"
 		},
 		{
 			"name": "Osasuna",
@@ -107,10 +107,10 @@
 			"image": "assets/img/leagues/campeonato-espanhol/osasuna.png"
 		},
 		{
-			"name": "Real Sociedad",
-			"identy": "real-sociedad",
+			"name": "Rayo Vallecano",
+			"identy": "rayo-vallecano",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/campeonato-espanhol/real-sociedad.png"
+			"image": "assets/img/leagues/campeonato-espanhol/rayo-vallecano.png"
 		},
 		{
 			"name": "Real Madrid",
@@ -119,10 +119,10 @@
 			"image": "assets/img/leagues/campeonato-espanhol/real-madrid.png"
 		},
 		{
-			"name": "Valladolid",
-			"identy": "valladolid",
+			"name": "Real Sociedad",
+			"identy": "real-sociedad",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/campeonato-espanhol/valladolid.png"
+			"image": "assets/img/leagues/campeonato-espanhol/real-sociedad.png"
 		},
 		{
 			"name": "Sevilla",
