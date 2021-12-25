@@ -23,22 +23,10 @@
 	],
 	"players": [
 		{
-			"name": "Avai",
-			"identy": "avai",
-			"data": [85, 78, 71, 78, 82, 75],
-			"image": "assets/img/leagues/campeonato-brasileiro-b/avai.svg"
-		},
-		{
-			"name": "Botafogo",
-			"identy": "botafogo",
-			"data": [89, 80, 94, 90, 87, 93],
-			"image": "assets/img/leagues/campeonato-brasileiro-b/botafogo.png"
-		},
-		{
-			"name": "Brasil de Pelotas",
-			"identy": "brasil-de-pelotas",
-			"data": [89, 91, 89, 83, 84, 89],
-			"image": "assets/img/leagues/campeonato-brasileiro-b/brasil-de-pelotas.png"
+			"name": "Bahia",
+			"identy": "bahia",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/campeonato-brasileiro/bahia.svg"
 		},
 		{
 			"name": "Brusque",
@@ -47,28 +35,22 @@
 			"image": "assets/img/leagues/campeonato-brasileiro-b/brusque.svg"
 		},
 		{
+			"name": "Chapecoense",
+			"identy": "chapecoense",
+			"data": [89, 91, 89, 83, 84, 89],
+			"image": "assets/img/leagues/campeonato-brasileiro/chapecoense.svg"
+		},
+		{
 			"name": "CRB",
 			"identy": "crb",
 			"data": [89, 89, 93, 89, 79, 93],
 			"image": "assets/img/leagues/campeonato-brasileiro-b/crb.svg"
 		},
 		{
-			"name": "CSA",
-			"identy": "csa",
-			"data": [82, 86, 84, 78, 83, 86],
-			"image": "assets/img/leagues/campeonato-brasileiro-b/csa.svg"
-		},
-		{
-			"name": "Confianca",
-			"identy": "confianca",
-			"data": [82, 86, 84, 78, 83, 86],
-			"image": "assets/img/leagues/campeonato-brasileiro-b/confianca.svg"
-		},
-		{
-			"name": "Coritiba",
-			"identy": "coritiba",
-			"data": [82, 86, 84, 78, 83, 86],
-			"image": "assets/img/leagues/campeonato-brasileiro-b/coritiba.png"
+			"name": "Criciuma",
+			"identy": "criciuma",
+			"data": [89, 91, 89, 83, 84, 89],
+			"image": "assets/img/leagues/campeonato-brasileiro-c/criciuma2.png"
 		},
 		{
 			"name": "Cruzeiro",
@@ -77,16 +59,28 @@
 			"image": "assets/img/leagues/campeonato-brasileiro-b/cruzeiro.svg"
 		},
 		{
-			"name": "Goias",
-			"identy": "goias",
-			"data": [88, 79, 88, 88, 91, 93],
-			"image": "assets/img/leagues/campeonato-brasileiro-b/goias.png"
+			"name": "CSA",
+			"identy": "csa",
+			"data": [82, 86, 84, 78, 83, 86],
+			"image": "assets/img/leagues/campeonato-brasileiro-b/csa.svg"
 		},
 		{
 			"name": "Guarani",
 			"identy": "guarani",
 			"data": [83, 74, 86, 78, 67, 90],
 			"image": "assets/img/leagues/campeonato-brasileiro-b/guarani.svg"
+		},
+		{
+			"name": "Gremio",
+			"identy": "gremio",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/campeonato-brasileiro/gremio.png"
+		},
+		{
+			"name": "Ituano",
+			"identy": "ituano",
+			"data": [88, 79, 88, 88, 91, 93],
+			"image": "assets/img/leagues/campeonato-brasileiro-c/ituano.svg"
 		},
 		{
 			"name": "Londrina",
@@ -113,16 +107,22 @@
 			"image": "assets/img/leagues/campeonato-brasileiro-b/ponte-preta.svg"
 		},
 		{
-			"name": "Remo",
-			"identy": "remo",
-			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/campeonato-brasileiro-b/remo.png"
-		},
-		{
 			"name": "Sampaio Correa",
 			"identy": "sampaio-correa",
 			"data": [83, 74, 86, 78, 67, 90],
 			"image": "assets/img/leagues/campeonato-brasileiro-b/sampaio-correa.svg"
+		},
+		{
+			"name": "Sport",
+			"identy": "sport",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/campeonato-brasileiro/sport.png"
+		},
+		{
+			"name": "Tombense",
+			"identy": "tombense",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/campeonato-brasileiro-c/tombense.svg"
 		},
 		{
 			"name": "Vasco",
@@ -135,12 +135,6 @@
 			"identy": "vila-nova",
 			"data": [83, 74, 86, 78, 67, 90],
 			"image": "assets/img/leagues/campeonato-brasileiro-b/vila-nova.svg"
-		},
-		{
-			"name": "Vitoria",
-			"identy": "vitoria",
-			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/campeonato-brasileiro-b/vitoria.png"
 		}
 	]
 }
