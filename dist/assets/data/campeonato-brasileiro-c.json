@@ -26,7 +26,7 @@
 			"name": "ABC",
 			"identy": "abc",
 			"data": [89, 91, 89, 83, 84, 89],
-			"image": "assets/img/leagues/logos/abc.png"
+			"image": "assets/img/leagues/campeonato-brasileiro-c/abc.png"
 		},
 		{
 			"name": "Altos",
@@ -38,13 +38,13 @@
 			"name": "Aparecidense",
 			"identy": "aparecidense",
 			"data": [89, 91, 89, 83, 84, 89],
-			"image": "assets/img/leagues/logos/aparecidense.png"
+			"image": "assets/img/leagues/campeonato-brasileiro-c/aparecidense.png"
 		},
 		{
 			"name": "Atletico CE",
 			"identy": "atletico-ce",
 			"data": [89, 91, 89, 83, 84, 89],
-			"image": "assets/img/leagues/logos/atleticoce.png"
+			"image": "assets/img/leagues/campeonato-brasileiro-c/atleticoce.png"
 		},
 		{
 			"name": "Botafogo PB",
@@ -68,7 +68,7 @@
 			"name": "Campinense",
 			"identy": "campinense",
 			"data": [89, 91, 89, 83, 84, 89],
-			"image": "assets/img/leagues/logos/campinense.png"
+			"image": "assets/img/leagues/campeonato-brasileiro-c/campinense.png"
 		},
 		{
 			"name": "Confianca",
