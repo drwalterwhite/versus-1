@@ -532,114 +532,6 @@
 			"image": "assets/img/leagues/campeonato-argentino/velez-sarsfield.png"
 		},
 		{
-			"name": "Alianza Lima",
-			"identy": "alianza-lima",
-			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/sul-americanos/alianza-lima.png"
-		},
-		{
-			"name": "Always Ready",
-			"identy": "always-ready",
-			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/sul-americanos/always-ready.png"
-		},
-		{
-			"name": "Caracas",
-			"identy": "caracas",
-			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/sul-americanos/caracas.png"
-		},
-		{
-			"name": "Colo Colo",
-			"identy": "colo-colo",
-			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/sul-americanos/colo-colo.png"
-		},
-		{
-			"name": "Deportivo Cali",
-			"identy": "deportivo-cali",
-			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/sul-americanos/deportivo-cali.png"
-		},
-		{
-			"name": "Deportivo Táchira",
-			"identy": "deportivo-tachira",
-			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/sul-americanos/deportivo-tachira.png"
-		},
-		{
-			"name": "Emelec",
-			"identy": "emelec",
-			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/sul-americanos/emelec.png"
-		},
-		{
-			"name": "Estudiantes",
-			"identy": "estudiantes",
-			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/sul-americanos/estudiantes.png"
-		},
-		{
-			"name": "Independiente Del Valle",
-			"identy": "independiente-del-valle",
-			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/sul-americanos/independiente-del-valle.png"
-		},
-		{
-			"name": "Independiente Petrolero",
-			"identy": "independiente-petrolero",
-			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/sul-americanos/independiente-petrolero.png"
-		},
-		{
-			"name": "Libertad",
-			"identy": "libertad",
-			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/sul-americanos/libertad.png"
-		},
-		{
-			"name": "Nacional URU",
-			"identy": "nacional-uru",
-			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/sul-americanos/nacional-uru.png"
-		},
-		{
-			"name": "Olimpia",
-			"identy": "olimpia",
-			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/sul-americanos/olimpia.png"
-		},
-		{
-			"name": "Peñarol",
-			"identy": "penarol",
-			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/sul-americanos/penarol.png"
-		},
-		{
-			"name": "Sporting Cristal",
-			"identy": "sporting-cristal",
-			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/sul-americanos/sporting-cristal.png"
-		},
-		{
-			"name": "The Strongest",
-			"identy": "the-strongest",
-			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/sul-americanos/the-strongest.png"
-		},
-		{
-			"name": "Tolima",
-			"identy": "tolima",
-			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/sul-americanos/tolima.png"
-		},
-		{
-			"name": "Universidad Católica",
-			"identy": "universidad-catolica",
-			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/sul-americanos/universidad-catolica.png"
-		},	
-		{
 			"name": "Arminia",
 			"identy": "arminia",
 			"data": [86, 88, 81, 87, 78, 84],
@@ -1226,6 +1118,108 @@
 			"identy": "venezia",
 			"data": [83, 74, 86, 78, 67, 90],
 			"image": "assets/img/leagues/campeonato-italiano/venezia.png"
+		},
+		{
+			"name": "Alianza Lima",
+			"identy": "alianza-lima",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/sul-americanos/alianza-lima.png"
+		},
+		{
+			"name": "Always Ready",
+			"identy": "always-ready",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/sul-americanos/always-ready.png"
+		},
+		{
+			"name": "Caracas",
+			"identy": "caracas",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/sul-americanos/caracas.png"
+		},
+		{
+			"name": "Colo Colo",
+			"identy": "colo-colo",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/sul-americanos/colo-colo.png"
+		},
+		{
+			"name": "Deportivo Cali",
+			"identy": "deportivo-cali",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/sul-americanos/deportivo-cali.png"
+		},
+		{
+			"name": "Deportivo Táchira",
+			"identy": "deportivo-tachira",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/sul-americanos/deportivo-tachira.png"
+		},
+		{
+			"name": "Emelec",
+			"identy": "emelec",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/sul-americanos/emelec.png"
+		},
+		{
+			"name": "Independiente Del Valle",
+			"identy": "independiente-del-valle",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/sul-americanos/independiente-del-valle.png"
+		},
+		{
+			"name": "Independiente Petrolero",
+			"identy": "independiente-petrolero",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/sul-americanos/independiente-petrolero.png"
+		},
+		{
+			"name": "Libertad",
+			"identy": "libertad",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/sul-americanos/libertad.png"
+		},
+		{
+			"name": "Nacional URU",
+			"identy": "nacional-uru",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/sul-americanos/nacional-uru.png"
+		},
+		{
+			"name": "Olimpia",
+			"identy": "olimpia",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/sul-americanos/olimpia.png"
+		},
+		{
+			"name": "Peñarol",
+			"identy": "penarol",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/sul-americanos/penarol.png"
+		},
+		{
+			"name": "Sporting Cristal",
+			"identy": "sporting-cristal",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/sul-americanos/sporting-cristal.png"
+		},
+		{
+			"name": "The Strongest",
+			"identy": "the-strongest",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/sul-americanos/the-strongest.png"
+		},
+		{
+			"name": "Tolima",
+			"identy": "tolima",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/sul-americanos/tolima.png"
+		},
+		{
+			"name": "Universidad Católica",
+			"identy": "universidad-catolica",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/sul-americanos/universidad-catolica.png"
 		}
 	]
 }
