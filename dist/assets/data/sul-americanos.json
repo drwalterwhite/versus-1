@@ -1,0 +1,289 @@
+{
+	"dataNames": [
+		{ "text": "Overall", "max": 100 },
+		{ "text": "Dribbling", "max": 100 },
+		{ "text": "Finishing", "max": 100 },
+		{ "text": "Shot Power", "max": 100 },
+		{ "text": "Stamina", "max": 100 },
+		{ "text": "Positioning", "max": 100 }
+	],
+	"colors": [
+		{ "name": "Green", "value": "#3BB273" },
+		{ "name": "Blue", "value": "#4D9DE0" },
+		{ "name": "Orange", "value": "#E56B2D" },
+		{ "name": "Yellow", "value": "#E1BC29" },
+		{ "name": "Purple", "value": "#7768AE" }
+	],
+	"bg": [
+		{ "name": "Green", "value": "rgba(0,0,0,.5)" },
+		{ "name": "Blue", "value": "rgba(255,200,156,.5)" },
+		{ "name": "Orange", "value": "#E56B2D" },
+		{ "name": "Yellow", "value": "#E1BC29" },
+		{ "name": "Purple", "value": "#7768AE" }
+	],
+	"players": [
+		{
+			"name": "Aldosivi",
+			"identy": "aldosivi",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/leagues/campeonato-argentino/aldosivi.png"
+		},
+		{
+			"name": "Argentinos Juniors",
+			"identy": "argentinos-juniors",
+			"data": [85, 78, 71, 78, 82, 75],
+			"image": "assets/img/leagues/campeonato-argentino/argentinos-juniors.png"
+		},
+		{
+			"name": "Arsenal de Sarandí",
+			"identy": "arsenal-de-sarandí",
+			"data": [89, 80, 94, 90, 87, 93],
+			"image": "assets/img/leagues/campeonato-argentino/arsenal-de-sarandí.png"
+		},
+		{
+			"name": "Atletico Tucuman",
+			"identy": "atletico-tucuman",
+			"data": [89, 91, 89, 83, 84, 89],
+			"image": "assets/img/leagues/campeonato-argentino/atletico-tucuman.png"
+		},
+		{
+			"name": "Banfield",
+			"identy": "banfield",
+			"data": [82, 86, 84, 78, 83, 86],
+			"image": "assets/img/leagues/campeonato-argentino/banfield.png"
+		},
+		{
+			"name": "Boca Juniors",
+			"identy": "boca-juniors",
+			"data": [89, 89, 93, 89, 79, 93],
+			"image": "assets/img/leagues/campeonato-argentino/boca-juniors.png"
+		},
+		{
+			"name": "Central Cordoba",
+			"identy": "central-cordoba",
+			"data": [88, 79, 88, 88, 91, 93],
+			"image": "assets/img/leagues/campeonato-argentino/central-cordoba.png"
+		},
+		{
+			"name": "Colon",
+			"identy": "colon",
+			"data": [89, 88, 89, 82, 87, 90],
+			"image": "assets/img/leagues/campeonato-argentino/colon.png"
+		},
+		{
+			"name": "Defensa y Justicia",
+			"identy": "defensa-y-justicia",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/campeonato-argentino/defensa-y-justicia.png"
+		},
+		{
+			"name": "Estudiantes de La Plata",
+			"identy": "estudiantes-de-la-plata",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/campeonato-argentino/estudiantes-de-la-plata.png"
+		},
+		{
+			"name": "Gimnasia La Plata",
+			"identy": "gimnasia-la-plata",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/campeonato-argentino/gimnasia-la-plata.png"
+		},
+		{
+			"name": "Godoy Cruz",
+			"identy": "godoy-cruz",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/campeonato-argentino/godoy-cruz.png"
+		},
+		{
+			"name": "Huracan",
+			"identy": "huracan",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/campeonato-argentino/huracan.png"
+		},
+		{
+			"name": "Independiente",
+			"identy": "independiente",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/campeonato-argentino/independiente.png"
+		},
+		{
+			"name": "Lanus",
+			"identy": "lanus",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/campeonato-argentino/lanus.png"
+		},
+		{
+			"name": "Newells Old Boys",
+			"identy": "newells-old-boys",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/campeonato-argentino/newells-old-boys.png"
+		},
+		{
+			"name": "Patronato",
+			"identy": "patronato",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/campeonato-argentino/patronato.png"
+		},
+		{
+			"name": "Platense",
+			"identy": "platense",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/campeonato-argentino/platense.png"
+		},
+		{
+			"name": "Racing",
+			"identy": "racing",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/campeonato-argentino/racing.png"
+		},
+		{
+			"name": "River Plate",
+			"identy": "river-plate",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/campeonato-argentino/river-plate.png"
+		},
+		{
+			"name": "Rosario Central",
+			"identy": "rosario-central",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/campeonato-argentino/rosario-central.png"
+		},
+		{
+			"name": "San Lorenzo",
+			"identy": "san-lorenzo",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/campeonato-argentino/san-lorenzo.png"
+		},
+		{
+			"name": "Sarmiento",
+			"identy": "sarmiento",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/campeonato-argentino/sarmiento.png"
+		},
+		{
+			"name": "Talleres",
+			"identy": "talleres",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/campeonato-argentino/talleres.png"
+		},		{
+			"name": "Union Santa Fe",
+			"identy": "union-santa-fe",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/campeonato-argentino/union-santa-fe.png"
+		},
+		{
+			"name": "Velez Sarsfield",
+			"identy": "velez-sarsfield",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/campeonato-argentino/velez-sarsfield.png"
+		},
+		{
+			"name": "Alianza Lima",
+			"identy": "alianza-lima",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/sul-americanos/alianza-lima.png"
+		},
+		{
+			"name": "Always Ready",
+			"identy": "always-ready",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/sul-americanos/always-ready.png"
+		},
+		{
+			"name": "Caracas",
+			"identy": "caracas",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/sul-americanos/caracas.png"
+		},
+		{
+			"name": "Colo Colo",
+			"identy": "colo-colo",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/sul-americanos/colo-colo.png"
+		},
+		{
+			"name": "Deportivo Cali",
+			"identy": "deportivo-cali",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/sul-americanos/deportivo-cali.png"
+		},
+		{
+			"name": "Deportivo Táchira",
+			"identy": "deportivo-tachira",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/sul-americanos/deportivo-tachira.png"
+		},
+		{
+			"name": "Emelec",
+			"identy": "emelec",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/sul-americanos/emelec.png"
+		},
+		{
+			"name": "Estudiantes",
+			"identy": "estudiantes",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/sul-americanos/estudiantes.png"
+		},
+		{
+			"name": "Independiente Del Valle",
+			"identy": "independiente-del-valle",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/sul-americanos/independiente-del-valle.png"
+		},
+		{
+			"name": "Independiente Petrolero",
+			"identy": "independiente-petrolero",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/sul-americanos/independiente-petrolero.png"
+		},
+		{
+			"name": "Libertad",
+			"identy": "libertad",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/sul-americanos/libertad.png"
+		},
+		{
+			"name": "Nacional URU",
+			"identy": "nacional-uru",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/sul-americanos/nacional-uru.png"
+		},
+		{
+			"name": "Olimpia",
+			"identy": "olimpia",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/sul-americanos/olimpia.png"
+		},
+		{
+			"name": "Peñarol",
+			"identy": "penarol",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/sul-americanos/penarol.png"
+		},
+		{
+			"name": "Sporting Cristal",
+			"identy": "sporting-cristal",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/sul-americanos/sporting-cristal.png"
+		},
+		{
+			"name": "The Strongest",
+			"identy": "the-strongest",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/sul-americanos/the-strongest.png"
+		},
+		{
+			"name": "Tolima",
+			"identy": "tolima",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/sul-americanos/tolima.png"
+		},
+		{
+			"name": "Universidad Católica",
+			"identy": "universidad-catolica",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/sul-americanos/universidad-catolica.png"
+		}		
+	]
+}

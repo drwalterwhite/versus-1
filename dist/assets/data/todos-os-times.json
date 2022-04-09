@@ -23,34 +23,46 @@
 	],
 	"players": [
 		{
-			"name": "America Mineiro",
-			"identy": "america-mineiro",
+			"name": "America MG",
+			"identy": "america-mg",
 			"data": [86, 88, 81, 87, 78, 84],
 			"image": "assets/img/leagues/campeonato-brasileiro/america-mineiro.svg"
 		},
 		{
-			"name": "Athletico Paranaense",
-			"identy": "athletico-paranaense",
+			"name": "Athletico PR",
+			"identy": "athletico-pr",
 			"data": [86, 88, 81, 87, 78, 84],
 			"image": "assets/img/leagues/campeonato-brasileiro/athletico-paranaense.png"
 		},
 		{
-			"name": "Atletico Goianiense",
-			"identy": "atletico-goianiense",
+			"name": "Atletico GO",
+			"identy": "atletico-go",
 			"data": [86, 88, 81, 87, 78, 84],
 			"image": "assets/img/leagues/campeonato-brasileiro/atletico-goianiense.svg"
 		},		{
-			"name": "Atletico Mineiro",
-			"identy": "atletico-mineiro",
+			"name": "Atletico MG",
+			"identy": "atletico-mg",
 			"data": [89, 89, 93, 89, 79, 93],
-			"image": "assets/img/leagues/campeonato-brasileiro/atletico-mineiro.png"
+			"image": "assets/img/leagues/campeonato-brasileiro/atletico-mineiro-new.png"
 		},
 		{
-			"name": "Bahia",
-			"identy": "bahia",
-			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/campeonato-brasileiro/bahia.svg"
+			"name": "Avai",
+			"identy": "avai",
+			"data": [85, 78, 71, 78, 82, 75],
+			"image": "assets/img/leagues/campeonato-brasileiro-b/avai.svg"
 		},
+		{
+			"name": "Botafogo",
+			"identy": "botafogo",
+			"data": [89, 80, 94, 90, 87, 93],
+			"image": "assets/img/leagues/campeonato-brasileiro-b/botafogo.png"
+		},
+			{
+			"name": "Bragantino",
+			"identy": "bragantino",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/campeonato-brasileiro/rb-bragantino.png"
+		},		
 		{
 			"name": "Ceara",
 			"identy": "ceara",
@@ -58,16 +70,16 @@
 			"image": "assets/img/leagues/campeonato-brasileiro/ceara.png"
 		},
 		{
-			"name": "Chapecoense",
-			"identy": "chapecoense",
-			"data": [89, 91, 89, 83, 84, 89],
-			"image": "assets/img/leagues/campeonato-brasileiro/chapecoense.svg"
-		},
-		{
 			"name": "Corinthians",
 			"identy": "corinthians",
 			"data": [83, 74, 86, 78, 67, 90],
 			"image": "assets/img/leagues/campeonato-brasileiro/corinthians.png"
+		},
+		{
+			"name": "Coritiba",
+			"identy": "coritiba",
+			"data": [82, 86, 84, 78, 83, 86],
+			"image": "assets/img/leagues/campeonato-brasileiro-b/coritiba.png"
 		},
 		{
 			"name": "Cuiaba",
@@ -94,10 +106,10 @@
 			"image": "assets/img/leagues/campeonato-brasileiro/fortaleza.png"
 		},
 		{
-			"name": "Gremio",
-			"identy": "gremio",
-			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/campeonato-brasileiro/gremio.png"
+			"name": "Goias",
+			"identy": "goias",
+			"data": [88, 79, 88, 88, 91, 93],
+			"image": "assets/img/leagues/campeonato-brasileiro-b/goias.png"
 		},
 		{
 			"name": "Internacional",
@@ -118,22 +130,10 @@
 			"image": "assets/img/leagues/campeonato-brasileiro/palmeiras.png"
 		},	
 		{
-			"name": "RedBull Bragantino",
-			"identy": "rb-bragantino",
-			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/campeonato-brasileiro/rb-bragantino.png"
-		},		
-		{
 			"name": "Santos",
 			"identy": "santos",
 			"data": [83, 74, 86, 78, 67, 90],
 			"image": "assets/img/leagues/campeonato-brasileiro/santos.png"
-		},
-		{
-			"name": "Sport",
-			"identy": "sport",
-			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/campeonato-brasileiro/sport.png"
 		},
 		{
 			"name": "Sao Paulo",
@@ -142,22 +142,10 @@
 			"image": "assets/img/leagues/campeonato-brasileiro/sao-paulo.png"
 		},
 		{
-			"name": "Avai",
-			"identy": "avai",
-			"data": [85, 78, 71, 78, 82, 75],
-			"image": "assets/img/leagues/campeonato-brasileiro-b/avai.svg"
-		},
-		{
-			"name": "Botafogo",
-			"identy": "botafogo",
-			"data": [89, 80, 94, 90, 87, 93],
-			"image": "assets/img/leagues/campeonato-brasileiro-b/botafogo.png"
-		},
-		{
-			"name": "Brasil de Pelotas",
-			"identy": "brasil-de-pelotas",
-			"data": [89, 91, 89, 83, 84, 89],
-			"image": "assets/img/leagues/campeonato-brasileiro-b/brasil-de-pelotas.png"
+			"name": "Bahia",
+			"identy": "bahia",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/campeonato-brasileiro/bahia.svg"
 		},
 		{
 			"name": "Brusque",
@@ -166,28 +154,22 @@
 			"image": "assets/img/leagues/campeonato-brasileiro-b/brusque.svg"
 		},
 		{
+			"name": "Chapecoense",
+			"identy": "chapecoense",
+			"data": [89, 91, 89, 83, 84, 89],
+			"image": "assets/img/leagues/campeonato-brasileiro/chapecoense.svg"
+		},
+		{
 			"name": "CRB",
 			"identy": "crb",
 			"data": [89, 89, 93, 89, 79, 93],
 			"image": "assets/img/leagues/campeonato-brasileiro-b/crb.svg"
 		},
 		{
-			"name": "CSA",
-			"identy": "csa",
-			"data": [82, 86, 84, 78, 83, 86],
-			"image": "assets/img/leagues/campeonato-brasileiro-b/csa.svg"
-		},
-		{
-			"name": "Confianca",
-			"identy": "confianca",
-			"data": [82, 86, 84, 78, 83, 86],
-			"image": "assets/img/leagues/campeonato-brasileiro-b/confianca.svg"
-		},
-		{
-			"name": "Coritiba",
-			"identy": "coritiba",
-			"data": [82, 86, 84, 78, 83, 86],
-			"image": "assets/img/leagues/campeonato-brasileiro-b/coritiba.png"
+			"name": "Criciuma",
+			"identy": "criciuma",
+			"data": [89, 91, 89, 83, 84, 89],
+			"image": "assets/img/leagues/campeonato-brasileiro-c/criciuma2.png"
 		},
 		{
 			"name": "Cruzeiro",
@@ -196,10 +178,10 @@
 			"image": "assets/img/leagues/campeonato-brasileiro-b/cruzeiro.svg"
 		},
 		{
-			"name": "Goias",
-			"identy": "goias",
-			"data": [88, 79, 88, 88, 91, 93],
-			"image": "assets/img/leagues/campeonato-brasileiro-b/goias.png"
+			"name": "CSA",
+			"identy": "csa",
+			"data": [82, 86, 84, 78, 83, 86],
+			"image": "assets/img/leagues/campeonato-brasileiro-b/csa.svg"
 		},
 		{
 			"name": "Guarani",
@@ -208,10 +190,22 @@
 			"image": "assets/img/leagues/campeonato-brasileiro-b/guarani.svg"
 		},
 		{
+			"name": "Gremio",
+			"identy": "gremio",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/campeonato-brasileiro/gremio.png"
+		},
+		{
+			"name": "Ituano",
+			"identy": "ituano",
+			"data": [88, 79, 88, 88, 91, 93],
+			"image": "assets/img/leagues/campeonato-brasileiro-c/ituano.svg"
+		},
+		{
 			"name": "Londrina",
 			"identy": "londrina",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/campeonato-brasileiro-b/londrina.svg"
+			"image": "assets/img/leagues/campeonato-brasileiro-b/londrina-new.png"
 		},
 		{
 			"name": "Nautico",
@@ -232,16 +226,22 @@
 			"image": "assets/img/leagues/campeonato-brasileiro-b/ponte-preta.svg"
 		},
 		{
-			"name": "Remo",
-			"identy": "remo",
-			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/campeonato-brasileiro-b/remo.png"
-		},
-		{
 			"name": "Sampaio Correa",
 			"identy": "sampaio-correa",
 			"data": [83, 74, 86, 78, 67, 90],
 			"image": "assets/img/leagues/campeonato-brasileiro-b/sampaio-correa.svg"
+		},
+		{
+			"name": "Sport",
+			"identy": "sport",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/campeonato-brasileiro/sport.png"
+		},
+		{
+			"name": "Tombense",
+			"identy": "tombense",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/campeonato-brasileiro-c/tombense.svg"
 		},
 		{
 			"name": "Vasco",
@@ -253,14 +253,14 @@
 			"name": "Vila Nova",
 			"identy": "vila-nova",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/campeonato-brasileiro-b/vila-nova.svg"
-		},
+			"image": "assets/img/leagues/campeonato-brasileiro-b/vila-nova-new.png"
+		},	
 		{
-			"name": "Vitoria",
-			"identy": "vitoria",
-			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/campeonato-brasileiro-b/vitoria.png"
-		},		
+			"name": "ABC",
+			"identy": "abc",
+			"data": [89, 91, 89, 83, 84, 89],
+			"image": "assets/img/leagues/campeonato-brasileiro-c/abc.png"
+		},
 		{
 			"name": "Altos",
 			"identy": "altos",
@@ -268,22 +268,46 @@
 			"image": "assets/img/leagues/campeonato-brasileiro-c/altos.png"
 		},
 		{
-			"name": "Botafogo-PB",
+			"name": "Aparecidense",
+			"identy": "aparecidense",
+			"data": [89, 91, 89, 83, 84, 89],
+			"image": "assets/img/leagues/campeonato-brasileiro-c/aparecidense.png"
+		},
+		{
+			"name": "Atletico CE",
+			"identy": "atletico-ce",
+			"data": [89, 91, 89, 83, 84, 89],
+			"image": "assets/img/leagues/campeonato-brasileiro-c/atletico-ce.png"
+		},
+		{
+			"name": "Botafogo PB",
 			"identy": "botafogo-pb",
 			"data": [85, 78, 71, 78, 82, 75],
 			"image": "assets/img/leagues/campeonato-brasileiro-c/botafogo-pb.svg"
 		},
 		{
-			"name": "Botafogo-SP",
+			"name": "Botafogo SP",
 			"identy": "botafogo-sp",
 			"data": [85, 78, 71, 78, 82, 75],
 			"image": "assets/img/leagues/campeonato-brasileiro-c/botafogo-sp.svg"
 		},
 		{
-			"name": "Criciuma",
-			"identy": "criciuma",
+			"name": "Brasil de Pelotas",
+			"identy": "brasil-de-pelotas",
 			"data": [89, 91, 89, 83, 84, 89],
-			"image": "assets/img/leagues/campeonato-brasileiro-c/criciuma2.png"
+			"image": "assets/img/leagues/campeonato-brasileiro-b/brasil-de-pelotas.png"
+		},
+		{
+			"name": "Campinense",
+			"identy": "campinense",
+			"data": [89, 91, 89, 83, 84, 89],
+			"image": "assets/img/leagues/campeonato-brasileiro-c/campinense.png"
+		},
+		{
+			"name": "Confianca",
+			"identy": "confianca",
+			"data": [82, 86, 84, 78, 83, 86],
+			"image": "assets/img/leagues/campeonato-brasileiro-b/confianca.svg"
 		},
 		{
 			"name": "Ferroviario",
@@ -304,18 +328,6 @@
 			"image": "assets/img/leagues/campeonato-brasileiro-c/floresta.png"
 		},
 		{
-			"name": "Ituano",
-			"identy": "ituano",
-			"data": [88, 79, 88, 88, 91, 93],
-			"image": "assets/img/leagues/campeonato-brasileiro-c/ituano.svg"
-		},
-		{
-			"name": "Jacuipense",
-			"identy": "jacuipense",
-			"data": [89, 88, 89, 82, 87, 90],
-			"image": "assets/img/leagues/campeonato-brasileiro-c/jacuipense.svg"
-		},
-		{
 			"name": "Manaus",
 			"identy": "manaus",
 			"data": [83, 74, 86, 78, 67, 90],
@@ -328,34 +340,16 @@
 			"image": "assets/img/leagues/campeonato-brasileiro-c/mirassol.png"
 		},
 		{
-			"name": "Novorizontino",
-			"identy": "novorizontino",
-			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/campeonato-brasileiro-c/novorizontino.png"
-		},
-		{
-			"name": "Oeste",
-			"identy": "oeste",
-			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/campeonato-brasileiro-c/oeste.svg"
-		},
-		{
-			"name": "Parana",
-			"identy": "parana",
-			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/campeonato-brasileiro-c/parana.png"
-		},
-		{
 			"name": "Paysandu",
 			"identy": "paysandu",
 			"data": [83, 74, 86, 78, 67, 90],
 			"image": "assets/img/leagues/campeonato-brasileiro-c/paysandu.svg"
 		},
 		{
-			"name": "Santa Cruz",
-			"identy": "santa-cruz",
+			"name": "Remo",
+			"identy": "remo",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/campeonato-brasileiro-c/santa-cruz.svg"
+			"image": "assets/img/leagues/campeonato-brasileiro-b/remo.png"
 		},
 		{
 			"name": "Sao Jose",
@@ -364,10 +358,10 @@
 			"image": "assets/img/leagues/campeonato-brasileiro-c/sao-jose.svg"
 		},
 		{
-			"name": "Tombense",
-			"identy": "tombense",
+			"name": "Vitoria",
+			"identy": "vitoria",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/campeonato-brasileiro-c/tombense.svg"
+			"image": "assets/img/leagues/campeonato-brasileiro-b/vitoria.png"
 		},
 		{
 			"name": "Volta Redonda",
@@ -381,114 +375,7 @@
 			"data": [83, 74, 86, 78, 67, 90],
 			"image": "assets/img/leagues/campeonato-brasileiro-c/ypiranga.svg"
 		},
-		{
-			"name": "Arminia",
-			"identy": "arminia",
-			"data": [86, 88, 81, 87, 78, 84],
-			"image": "assets/img/leagues/campeonato-alemao/arminia.png"
-		},
-		{
-			"name": "Augsburg",
-			"identy": "augsburg",
-			"data": [85, 78, 71, 78, 82, 75],
-			"image": "assets/img/leagues/campeonato-alemao/augsburg.png"
-		},
-		{
-			"name": "Bayer Leverkusen",
-			"identy": "bayer-leverkusen",
-			"data": [89, 80, 94, 90, 87, 93],
-			"image": "assets/img/leagues/campeonato-alemao/bayer-leverkusen.png"
-		},
-		{
-			"name": "Bayern de Munique",
-			"identy": "bayern-de-munique",
-			"data": [89, 91, 89, 83, 84, 89],
-			"image": "assets/img/leagues/campeonato-alemao/bayern-de-munique.png"
-		},
-		{
-			"name": "Bochum",
-			"identy": "bochum",
-			"data": [82, 86, 84, 78, 83, 86],
-			"image": "assets/img/leagues/campeonato-alemao/bochum.png"
-		},
-		{
-			"name": "Borussia Dortmund",
-			"identy": "borussia-dortmund",
-			"data": [89, 89, 93, 89, 79, 93],
-			"image": "assets/img/leagues/campeonato-alemao/borussia-dortmund.png"
-		},
-		{
-			"name": "Borussia Monchengladbach",
-			"identy": "borussia-monchengladbach",
-			"data": [88, 79, 88, 88, 91, 93],
-			"image": "assets/img/leagues/campeonato-alemao/borussia-monchengladbach.png"
-		},
-		{
-			"name": "Colonia",
-			"identy": "colonia",
-			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/campeonato-alemao/colonia.png"
-		},
-		{
-			"name": "Eintracht Frankfurt",
-			"identy": "eintracht-frankfurt",
-			"data": [89, 88, 89, 82, 87, 90],
-			"image": "assets/img/leagues/campeonato-alemao/eintracht-frankfurt.png"
-		},
-		{
-			"name": "Freiburg",
-			"identy": "freiburg",
-			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/campeonato-alemao/freiburg.png"
-		},
-		{
-			"name": "Greuther Furth",
-			"identy": "greuther-furth",
-			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/campeonato-alemao/greuther-furth.png"
-		},
-		{
-			"name": "Hertha Berlin",
-			"identy": "hertha-berlin",
-			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/campeonato-alemao/hertha-berlin.png"
-		},
-		{
-			"name": "Hoffenheim",
-			"identy": "hoffenheim",
-			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/campeonato-alemao/hoffenheim.png"
-		},
-		{
-			"name": "Leipzig",
-			"identy": "leipzig",
-			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/campeonato-alemao/leipzig.png"
-		},
-		{
-			"name": "Mainz",
-			"identy": "mainz",
-			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/campeonato-alemao/mainz.png"
-		},
-		{
-			"name": "Stuttgart",
-			"identy": "stuttgart",
-			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/campeonato-alemao/stuttgart.png"
-		},
-		{
-			"name": "Union Berlin",
-			"identy": "union-berlin",
-			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/campeonato-alemao/union-berlin.png"
-		},
-		{
-			"name": "Wolfsburg",
-			"identy": "wolfsburg",
-			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/campeonato-alemao/wolfsburg.png"
-		},
+		
 		{
 			"name": "Aldosivi",
 			"identy": "aldosivi",
@@ -643,6 +530,222 @@
 			"identy": "velez-sarsfield",
 			"data": [83, 74, 86, 78, 67, 90],
 			"image": "assets/img/leagues/campeonato-argentino/velez-sarsfield.png"
+		},
+		{
+			"name": "Alianza Lima",
+			"identy": "alianza-lima",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/sul-americanos/alianza-lima.png"
+		},
+		{
+			"name": "Always Ready",
+			"identy": "always-ready",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/sul-americanos/always-ready.png"
+		},
+		{
+			"name": "Caracas",
+			"identy": "caracas",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/sul-americanos/caracas.png"
+		},
+		{
+			"name": "Colo Colo",
+			"identy": "colo-colo",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/sul-americanos/colo-colo.png"
+		},
+		{
+			"name": "Deportivo Cali",
+			"identy": "deportivo-cali",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/sul-americanos/deportivo-cali.png"
+		},
+		{
+			"name": "Deportivo Táchira",
+			"identy": "deportivo-tachira",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/sul-americanos/deportivo-tachira.png"
+		},
+		{
+			"name": "Emelec",
+			"identy": "emelec",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/sul-americanos/emelec.png"
+		},
+		{
+			"name": "Estudiantes",
+			"identy": "estudiantes",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/sul-americanos/estudiantes.png"
+		},
+		{
+			"name": "Independiente Del Valle",
+			"identy": "independiente-del-valle",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/sul-americanos/independiente-del-valle.png"
+		},
+		{
+			"name": "Independiente Petrolero",
+			"identy": "independiente-petrolero",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/sul-americanos/independiente-petrolero.png"
+		},
+		{
+			"name": "Libertad",
+			"identy": "libertad",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/sul-americanos/libertad.png"
+		},
+		{
+			"name": "Nacional URU",
+			"identy": "nacional-uru",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/sul-americanos/nacional-uru.png"
+		},
+		{
+			"name": "Olimpia",
+			"identy": "olimpia",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/sul-americanos/olimpia.png"
+		},
+		{
+			"name": "Peñarol",
+			"identy": "penarol",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/sul-americanos/penarol.png"
+		},
+		{
+			"name": "Sporting Cristal",
+			"identy": "sporting-cristal",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/sul-americanos/sporting-cristal.png"
+		},
+		{
+			"name": "The Strongest",
+			"identy": "the-strongest",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/sul-americanos/the-strongest.png"
+		},
+		{
+			"name": "Tolima",
+			"identy": "tolima",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/sul-americanos/tolima.png"
+		},
+		{
+			"name": "Universidad Católica",
+			"identy": "universidad-catolica",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/sul-americanos/universidad-catolica.png"
+		},	
+		{
+			"name": "Arminia",
+			"identy": "arminia",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/leagues/campeonato-alemao/arminia.png"
+		},
+		{
+			"name": "Augsburg",
+			"identy": "augsburg",
+			"data": [85, 78, 71, 78, 82, 75],
+			"image": "assets/img/leagues/campeonato-alemao/augsburg.png"
+		},
+		{
+			"name": "Bayer Leverkusen",
+			"identy": "bayer-leverkusen",
+			"data": [89, 80, 94, 90, 87, 93],
+			"image": "assets/img/leagues/campeonato-alemao/bayer-leverkusen.png"
+		},
+		{
+			"name": "Bayern de Munique",
+			"identy": "bayern-de-munique",
+			"data": [89, 91, 89, 83, 84, 89],
+			"image": "assets/img/leagues/campeonato-alemao/bayern-de-munique.png"
+		},
+		{
+			"name": "Bochum",
+			"identy": "bochum",
+			"data": [82, 86, 84, 78, 83, 86],
+			"image": "assets/img/leagues/campeonato-alemao/bochum.png"
+		},
+		{
+			"name": "Borussia Dortmund",
+			"identy": "borussia-dortmund",
+			"data": [89, 89, 93, 89, 79, 93],
+			"image": "assets/img/leagues/campeonato-alemao/borussia-dortmund.png"
+		},
+		{
+			"name": "Borussia Monchengladbach",
+			"identy": "borussia-monchengladbach",
+			"data": [88, 79, 88, 88, 91, 93],
+			"image": "assets/img/leagues/campeonato-alemao/borussia-monchengladbach.png"
+		},
+		{
+			"name": "Colonia",
+			"identy": "colonia",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/campeonato-alemao/colonia.png"
+		},
+		{
+			"name": "Eintracht Frankfurt",
+			"identy": "eintracht-frankfurt",
+			"data": [89, 88, 89, 82, 87, 90],
+			"image": "assets/img/leagues/campeonato-alemao/eintracht-frankfurt.png"
+		},
+		{
+			"name": "Freiburg",
+			"identy": "freiburg",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/campeonato-alemao/freiburg.png"
+		},
+		{
+			"name": "Greuther Furth",
+			"identy": "greuther-furth",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/campeonato-alemao/greuther-furth.png"
+		},
+		{
+			"name": "Hertha Berlin",
+			"identy": "hertha-berlin",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/campeonato-alemao/hertha-berlin.png"
+		},
+		{
+			"name": "Hoffenheim",
+			"identy": "hoffenheim",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/campeonato-alemao/hoffenheim.png"
+		},
+		{
+			"name": "Leipzig",
+			"identy": "leipzig",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/campeonato-alemao/leipzig.png"
+		},
+		{
+			"name": "Mainz",
+			"identy": "mainz",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/campeonato-alemao/mainz.png"
+		},
+		{
+			"name": "Stuttgart",
+			"identy": "stuttgart",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/campeonato-alemao/stuttgart.png"
+		},
+		{
+			"name": "Union Berlin",
+			"identy": "union-berlin",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/campeonato-alemao/union-berlin.png"
+		},
+		{
+			"name": "Wolfsburg",
+			"identy": "wolfsburg",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/campeonato-alemao/wolfsburg.png"
 		},
 		{
 			"name": "Alaves",
@@ -1056,7 +1159,7 @@
 			"name": "Lazio",
 			"identy": "lazio",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/campeonato-italiano/lazio.png"
+			"image": "assets/img/leagues/campeonato-italiano/lazio-new.png"
 		},
 		{
 			"name": "Milan",
