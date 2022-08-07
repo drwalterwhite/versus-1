@@ -644,12 +644,12 @@
 			"identy": "wolfsburg",
 			"data": [83, 74, 86, 78, 67, 90],
 			"image": "assets/img/leagues/campeonato-alemao/wolfsburg.png"
-		},		
+		},
 		{
-			"name": "Alaves",
-			"identy": "alaves",
+			"name": "Almeria",
+			"identy": "almeria",
 			"data": [86, 88, 81, 87, 78, 84],
-			"image": "assets/img/leagues/campeonato-espanhol/alaves.png"
+			"image": "assets/img/leagues/campeonato-espanhol/almeria.png"
 		},
 		{
 			"name": "Athletic Bilbao",
@@ -658,7 +658,7 @@
 			"image": "assets/img/leagues/campeonato-espanhol/athletic-bilbao.png"
 		},
 		{
-			"name": "Atletico de Madrid",
+			"name": "Atletico Madrid",
 			"identy": "atletico-de-madrid",
 			"data": [89, 80, 94, 90, 87, 93],
 			"image": "assets/img/leagues/campeonato-espanhol/atletico-de-madrid.svg"
@@ -706,16 +706,10 @@
 			"image": "assets/img/leagues/campeonato-espanhol/getafe.png"
 		},
 		{
-			"name": "Granada",
-			"identy": "granada",
+			"name": "Girona",
+			"identy": "girona",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/campeonato-espanhol/granada.png"
-		},
-		{
-			"name": "Levante",
-			"identy": "levante",
-			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/campeonato-espanhol/levante.png"
+			"image": "assets/img/leagues/campeonato-espanhol/girona.png"
 		},
 		{
 			"name": "Mallorca",
@@ -758,6 +752,12 @@
 			"identy": "valencia",
 			"data": [83, 74, 86, 78, 67, 90],
 			"image": "assets/img/leagues/campeonato-espanhol/valencia.png"
+		},
+		{
+			"name": "Valladolid",
+			"identy": "valladolid",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/campeonato-espanhol/valladolid.png"
 		},
 		{
 			"name": "Villarreal",
