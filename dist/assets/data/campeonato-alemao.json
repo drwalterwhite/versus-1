@@ -92,7 +92,7 @@
 			"name": "Leipzig",
 			"identy": "leipzig",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/campeonato-alemao/leipzig.png"
+			"image": "assets/img/leagues/campeonato-alemao/leipzig-2.png"
 		},
 		{
 			"name": "Mainz",
@@ -122,7 +122,7 @@
 			"name": "Werder Bremen",
 			"identy": "werder-bremen",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/campeonato-alemao/werder-bremen.png"
+			"image": "assets/img/leagues/campeonato-alemao/werder-bremen-2.png"
 		},
 		{
 			"name": "Wolfsburg",
