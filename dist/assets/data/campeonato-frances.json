@@ -23,16 +23,22 @@
 	],
 	"players": [
 		{
+			"name": "Ajaccio",
+			"identy": "ajaccio",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/leagues/campeonato-frances/ajaccio.png"
+		},
+		{
+			"name": "Auxerre",
+			"identy": "auxerre",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/leagues/campeonato-frances/auxerre.png"
+		},
+		{
 			"name": "Angers",
 			"identy": "angers",
 			"data": [86, 88, 81, 87, 78, 84],
 			"image": "assets/img/leagues/campeonato-frances/angers.png"
-		},
-		{
-			"name": "Bordeaux",
-			"identy": "bordeaux",
-			"data": [85, 78, 71, 78, 82, 75],
-			"image": "assets/img/leagues/campeonato-frances/bordeaux.png"
 		},
 		{
 			"name": "Brest",
@@ -77,12 +83,6 @@
 			"image": "assets/img/leagues/campeonato-frances/olympique.png"
 		},
 		{
-			"name": "Metz",
-			"identy": "metz",
-			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/campeonato-frances/metz.png"
-		},
-		{
 			"name": "Monaco",
 			"identy": "monaco",
 			"data": [83, 74, 86, 78, 67, 90],
@@ -125,16 +125,16 @@
 			"image": "assets/img/leagues/campeonato-frances/rennes.png"
 		},
 		{
-			"name": "Saint Etienne",
-			"identy": "saint-etienne",
-			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/campeonato-frances/saint-etienne.png"
-		},
-		{
 			"name": "Strasbourg",
 			"identy": "strasbourg",
 			"data": [83, 74, 86, 78, 67, 90],
 			"image": "assets/img/leagues/campeonato-frances/strasbourg.png"
+		},
+		{
+			"name": "Toulouse",
+			"identy": "toulouse",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/campeonato-frances/toulouse.png"
 		},
 		{
 			"name": "Troyes",
