@@ -35,10 +35,10 @@
 			"image": "assets/img/leagues/campeonato-italiano/bologna.png"
 		},
 		{
-			"name": "Cagliari",
-			"identy": "cagliari",
-			"data": [89, 91, 89, 83, 84, 89],
-			"image": "assets/img/leagues/campeonato-italiano/cagliari.png"
+			"name": "Cremonese",
+			"identy": "cremonese",
+			"data": [89, 80, 94, 90, 87, 93],
+			"image": "assets/img/leagues/campeonato-italiano/cremonese.png"
 		},
 		{
 			"name": "Empoli",
@@ -53,12 +53,6 @@
 			"image": "assets/img/leagues/campeonato-italiano/fiorentina.png"
 		},
 		{
-			"name": "Genoa",
-			"identy": "genoa",
-			"data": [88, 79, 88, 88, 91, 93],
-			"image": "assets/img/leagues/campeonato-italiano/genoa.png"
-		},
-		{
 			"name": "Inter de Milao",
 			"identy": "inter-de-milao",
 			"data": [89, 88, 89, 82, 87, 90],
@@ -71,6 +65,12 @@
 			"image": "assets/img/leagues/campeonato-italiano/juventus-novo.png"
 		},
 		{
+			"name": "Lecce",
+			"identy": "lecce",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/campeonato-italiano/lecce.png"
+		},
+		{
 			"name": "Lazio",
 			"identy": "lazio",
 			"data": [83, 74, 86, 78, 67, 90],
@@ -81,6 +81,12 @@
 			"identy": "milan",
 			"data": [83, 74, 86, 78, 67, 90],
 			"image": "assets/img/leagues/campeonato-italiano/milan.png"
+		},
+		{
+			"name": "Monza",
+			"identy": "monza",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/campeonato-italiano/monza.png"
 		},
 		{
 			"name": "Napoli",
@@ -135,12 +141,6 @@
 			"identy": "verona",
 			"data": [83, 74, 86, 78, 67, 90],
 			"image": "assets/img/leagues/campeonato-italiano/verona.png"
-		},
-		{
-			"name": "Venezia",
-			"identy": "venezia",
-			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/campeonato-italiano/venezia.png"
 		}
 	]
 }
