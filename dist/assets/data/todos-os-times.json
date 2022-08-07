@@ -898,6 +898,12 @@
 			"image": "assets/img/leagues/campeonato-ingles/aston-villa.png"
 		},
 		{
+			"name": "Bournemouth",
+			"identy": "bournemouth",
+			"data": [89, 80, 94, 90, 87, 93],
+			"image": "assets/img/leagues/campeonato-ingles/bournemouth.png"
+		},
+		{
 			"name": "Brentford",
 			"identy": "brentford",
 			"data": [89, 80, 94, 90, 87, 93],
@@ -908,12 +914,6 @@
 			"identy": "brighton",
 			"data": [89, 80, 94, 90, 87, 93],
 			"image": "assets/img/leagues/campeonato-ingles/brighton.png"
-		},
-		{
-			"name": "Burnley",
-			"identy": "burnley",
-			"data": [89, 91, 89, 83, 84, 89],
-			"image": "assets/img/leagues/campeonato-ingles/burnley.png"
 		},
 		{
 			"name": "Chelsea",
@@ -932,6 +932,12 @@
 			"identy": "everton",
 			"data": [88, 79, 88, 88, 91, 93],
 			"image": "assets/img/leagues/campeonato-ingles/everton.png"
+		},
+		{
+			"name": "Fulham",
+			"identy": "fulham",
+			"data": [88, 79, 88, 88, 91, 93],
+			"image": "assets/img/leagues/campeonato-ingles/fulham.png"
 		},
 		{
 			"name": "Leeds United",
@@ -970,10 +976,10 @@
 			"image": "assets/img/leagues/campeonato-ingles/newcastle-united.png"
 		},
 		{
-			"name": "Norwich",
-			"identy": "norwich",
+			"name": "Nottingham Forest",
+			"identy": "nottingham-forest",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/campeonato-ingles/norwich.png"
+			"image": "assets/img/leagues/campeonato-ingles/nottingham-forest.png"
 		},
 		{
 			"name": "Southampton",
@@ -988,12 +994,6 @@
 			"image": "assets/img/leagues/campeonato-ingles/tottenham.png"
 		},
 		{
-			"name": "Watford",
-			"identy": "watford",
-			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/campeonato-ingles/watford.png"
-		},
-		{
 			"name": "West Ham",
 			"identy": "west-ham",
 			"data": [83, 74, 86, 78, 67, 90],
@@ -1004,7 +1004,7 @@
 			"identy": "wolverhampton",
 			"data": [83, 74, 86, 78, 67, 90],
 			"image": "assets/img/leagues/campeonato-ingles/wolverhampton.png"
-		},
+		},	
 		{
 			"name": "Atalanta",
 			"identy": "atalanta",
