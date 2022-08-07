@@ -538,12 +538,6 @@
 			"image": "assets/img/leagues/campeonato-argentino/velez-sarsfield.png"
 		},
 		{
-			"name": "Arminia",
-			"identy": "arminia",
-			"data": [86, 88, 81, 87, 78, 84],
-			"image": "assets/img/leagues/campeonato-alemao/arminia.png"
-		},
-		{
 			"name": "Augsburg",
 			"identy": "augsburg",
 			"data": [85, 78, 71, 78, 82, 75],
@@ -598,12 +592,6 @@
 			"image": "assets/img/leagues/campeonato-alemao/freiburg.png"
 		},
 		{
-			"name": "Greuther Furth",
-			"identy": "greuther-furth",
-			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/campeonato-alemao/greuther-furth.png"
-		},
-		{
 			"name": "Hertha Berlin",
 			"identy": "hertha-berlin",
 			"data": [83, 74, 86, 78, 67, 90],
@@ -619,7 +607,7 @@
 			"name": "Leipzig",
 			"identy": "leipzig",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/campeonato-alemao/leipzig.png"
+			"image": "assets/img/leagues/campeonato-alemao/leipzig-2.png"
 		},
 		{
 			"name": "Mainz",
@@ -634,17 +622,29 @@
 			"image": "assets/img/leagues/campeonato-alemao/stuttgart.png"
 		},
 		{
+			"name": "Schalke",
+			"identy": "schalke",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/campeonato-alemao/schalke.png"
+		},
+		{
 			"name": "Union Berlin",
 			"identy": "union-berlin",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/campeonato-alemao/union-berlin.png"
+			"image": "assets/img/leagues/campeonato-alemao/union-berlin-2.png"
+		},
+		{
+			"name": "Werder Bremen",
+			"identy": "werder-bremen",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/campeonato-alemao/werder-bremen-2.png"
 		},
 		{
 			"name": "Wolfsburg",
 			"identy": "wolfsburg",
 			"data": [83, 74, 86, 78, 67, 90],
 			"image": "assets/img/leagues/campeonato-alemao/wolfsburg.png"
-		},
+		},		
 		{
 			"name": "Alaves",
 			"identy": "alaves",
