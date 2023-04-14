@@ -23,16 +23,22 @@
 	],
 	"players": [
 		{
-			"name": "ABC",
-			"identy": "abc",
-			"data": [89, 91, 89, 83, 84, 89],
-			"image": "assets/img/leagues/campeonato-brasileiro-c/abc.png"
-		},
-		{
 			"name": "Altos",
 			"identy": "altos",
 			"data": [86, 88, 81, 87, 78, 84],
 			"image": "assets/img/leagues/campeonato-brasileiro-c/altos.png"
+		},
+		{
+			"name": "Amazonas",
+			"identy": "amazonas",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/leagues/campeonato-brasileiro-c/amazonas.png"
+		},
+		{
+			"name": "América-RN",
+			"identy": "america-rn",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/leagues/campeonato-brasileiro-c/america-rn.png"
 		},
 		{
 			"name": "Aparecidense",
@@ -41,46 +47,28 @@
 			"image": "assets/img/leagues/campeonato-brasileiro-c/aparecidense.png"
 		},
 		{
-			"name": "Atletico CE",
-			"identy": "atletico-ce",
-			"data": [89, 91, 89, 83, 84, 89],
-			"image": "assets/img/leagues/campeonato-brasileiro-c/atletico-ce.png"
-		},
-		{
-			"name": "Botafogo PB",
+			"name": "Botafogo-PB",
 			"identy": "botafogo-pb",
 			"data": [85, 78, 71, 78, 82, 75],
 			"image": "assets/img/leagues/campeonato-brasileiro-c/botafogo-pb.svg"
 		},
 		{
-			"name": "Botafogo SP",
-			"identy": "botafogo-sp",
-			"data": [85, 78, 71, 78, 82, 75],
-			"image": "assets/img/leagues/campeonato-brasileiro-c/botafogo-sp.svg"
+			"name": "Brusque",
+			"identy": "brusque",
+			"data": [82, 86, 84, 78, 83, 86],
+			"image": "assets/img/leagues/campeonato-brasileiro-b/brusque.svg"
 		},
 		{
-			"name": "Brasil de Pelotas",
-			"identy": "brasil-de-pelotas",
-			"data": [89, 91, 89, 83, 84, 89],
-			"image": "assets/img/leagues/campeonato-brasileiro-b/brasil-de-pelotas.png"
+			"name": "CSA",
+			"identy": "csa",
+			"data": [82, 86, 84, 78, 83, 86],
+			"image": "assets/img/leagues/campeonato-brasileiro-b/csa.svg"
 		},
 		{
-			"name": "Campinense",
-			"identy": "campinense",
-			"data": [89, 91, 89, 83, 84, 89],
-			"image": "assets/img/leagues/campeonato-brasileiro-c/campinense.png"
-		},
-		{
-			"name": "Confianca",
+			"name": "Confiança",
 			"identy": "confianca",
 			"data": [82, 86, 84, 78, 83, 86],
 			"image": "assets/img/leagues/campeonato-brasileiro-b/confianca.svg"
-		},
-		{
-			"name": "Ferroviario",
-			"identy": "ferroviario",
-			"data": [82, 86, 84, 78, 83, 86],
-			"image": "assets/img/leagues/campeonato-brasileiro-c/ferroviario.png"
 		},
 		{
 			"name": "Figueirense",
@@ -101,10 +89,16 @@
 			"image": "assets/img/leagues/campeonato-brasileiro-c/manaus2.png"
 		},
 		{
-			"name": "Mirassol",
-			"identy": "mirassol",
+			"name": "Naútico",
+			"identy": "nautico",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/campeonato-brasileiro-c/mirassol.png"
+			"image": "assets/img/leagues/campeonato-brasileiro-b/nautico.svg"
+		},
+		{
+			"name": "Operário",
+			"identy": "operario",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/campeonato-brasileiro-b/operario.svg"
 		},
 		{
 			"name": "Paysandu",
@@ -113,22 +107,28 @@
 			"image": "assets/img/leagues/campeonato-brasileiro-c/paysandu.svg"
 		},
 		{
+			"name": "Pouso Alegre",
+			"identy": "pouso-alegre",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/leagues/campeonato-brasileiro-c/pouso-alegre.png"
+		},
+		{
 			"name": "Remo",
 			"identy": "remo",
 			"data": [83, 74, 86, 78, 67, 90],
 			"image": "assets/img/leagues/campeonato-brasileiro-b/remo.png"
 		},
 		{
-			"name": "Sao Jose",
+			"name": "São Bernardo",
+			"identy": "sao-bernardo",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/leagues/campeonato-brasileiro-c/sao-bernardo.png"
+		},
+		{
+			"name": "São José",
 			"identy": "sao-jose",
 			"data": [83, 74, 86, 78, 67, 90],
 			"image": "assets/img/leagues/campeonato-brasileiro-c/sao-jose.svg"
-		},
-		{
-			"name": "Vitoria",
-			"identy": "vitoria",
-			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/campeonato-brasileiro-b/vitoria.png"
 		},
 		{
 			"name": "Volta Redonda",

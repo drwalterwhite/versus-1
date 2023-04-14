@@ -23,51 +23,34 @@
 	],
 	"players": [
 		{
-			"name": "America MG",
+			"name": "América MG",
 			"identy": "america-mg",
 			"data": [86, 88, 81, 87, 78, 84],
 			"image": "assets/img/leagues/campeonato-brasileiro/america-mineiro.svg"
 		},
 		{
-			"name": "Athletico PR",
+			"name": "Athletico-PR",
 			"identy": "athletico-pr",
 			"data": [86, 88, 81, 87, 78, 84],
 			"image": "assets/img/leagues/campeonato-brasileiro/athletico-paranaense.png"
 		},
 		{
-			"name": "Atletico GO",
-			"identy": "atletico-go",
-			"data": [86, 88, 81, 87, 78, 84],
-			"image": "assets/img/leagues/campeonato-brasileiro/atletico-goianiense.svg"
-		},		{
-			"name": "Atletico MG",
+			"name": "Atlético-MG",
 			"identy": "atletico-mg",
 			"data": [89, 89, 93, 89, 79, 93],
 			"image": "assets/img/leagues/campeonato-brasileiro/atletico-mineiro-new.png"
 		},
 		{
-			"name": "Avai",
-			"identy": "avai",
-			"data": [85, 78, 71, 78, 82, 75],
-			"image": "assets/img/leagues/campeonato-brasileiro-b/avai.svg"
+			"name": "Bahia",
+			"identy": "bahia",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/campeonato-brasileiro/bahia.svg"
 		},
 		{
 			"name": "Botafogo",
 			"identy": "botafogo",
 			"data": [89, 80, 94, 90, 87, 93],
 			"image": "assets/img/leagues/campeonato-brasileiro-b/botafogo.png"
-		},
-			{
-			"name": "Bragantino",
-			"identy": "bragantino",
-			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/campeonato-brasileiro/rb-bragantino.png"
-		},		
-		{
-			"name": "Ceara",
-			"identy": "ceara",
-			"data": [89, 91, 89, 83, 84, 89],
-			"image": "assets/img/leagues/campeonato-brasileiro/ceara.png"
 		},
 		{
 			"name": "Corinthians",
@@ -80,6 +63,12 @@
 			"identy": "coritiba",
 			"data": [82, 86, 84, 78, 83, 86],
 			"image": "assets/img/leagues/campeonato-brasileiro-b/coritiba.png"
+		},
+		{
+			"name": "Cruzeiro",
+			"identy": "cruzeiro",
+			"data": [89, 88, 89, 82, 87, 90],
+			"image": "assets/img/leagues/campeonato-brasileiro-b/cruzeiro.svg"
 		},
 		{
 			"name": "Cuiaba",
@@ -106,10 +95,16 @@
 			"image": "assets/img/leagues/campeonato-brasileiro/fortaleza.png"
 		},
 		{
-			"name": "Goias",
+			"name": "Goiás",
 			"identy": "goias",
 			"data": [88, 79, 88, 88, 91, 93],
 			"image": "assets/img/leagues/campeonato-brasileiro-b/goias.png"
+		},
+		{
+			"name": "Grêmio",
+			"identy": "gremio",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/campeonato-brasileiro/gremio.png"
 		},
 		{
 			"name": "Internacional",
@@ -118,17 +113,17 @@
 			"image": "assets/img/leagues/campeonato-brasileiro/internacional.png"
 		},
 		{
-			"name": "Juventude",
-			"identy": "juventude",
-			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/campeonato-brasileiro/juventude.svg"
-		},
-		{
 			"name": "Palmeiras",
 			"identy": "palmeiras",
 			"data": [83, 74, 86, 78, 67, 90],
 			"image": "assets/img/leagues/campeonato-brasileiro/palmeiras.png"
-		},	
+		},
+		{
+			"name": "Bragantino",
+			"identy": "bragantino",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/campeonato-brasileiro/rb-bragantino.png"
+		},
 		{
 			"name": "Santos",
 			"identy": "santos",
@@ -136,10 +131,16 @@
 			"image": "assets/img/leagues/campeonato-brasileiro/santos.png"
 		},
 		{
-			"name": "Sao Paulo",
+			"name": "São Paulo",
 			"identy": "sao-paulo",
 			"data": [83, 74, 86, 78, 67, 90],
 			"image": "assets/img/leagues/campeonato-brasileiro/sao-paulo.png"
+		},
+		{
+			"name": "Vasco",
+			"identy": "vasco",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/campeonato-brasileiro-b/vasco.png"
 		}
 	]
 }
