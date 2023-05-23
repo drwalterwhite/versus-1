@@ -1400,6 +1400,516 @@
 			"identy": "uruguai",
 			"data": [83, 74, 86, 78, 67, 90],
 			"image": "assets/img/leagues/selecoes/uruguai.png"
+		},
+		{
+			"name": "Alianza Lima",
+			"identy": "alianza-lima",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/sul-americanos/alianza-lima.png"
+		},
+		{
+			"name": "Always Ready",
+			"identy": "always-ready",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/sul-americanos/always-ready.png"
+		},
+		{
+			"name": "Caracas",
+			"identy": "caracas",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/sul-americanos/caracas.png"
+		},
+		{
+			"name": "Colo Colo",
+			"identy": "colo-colo",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/sul-americanos/colo-colo.png"
+		},
+		{
+			"name": "Deportivo Cali",
+			"identy": "deportivo-cali",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/sul-americanos/deportivo-cali.png"
+		},
+		{
+			"name": "Deportivo Táchira",
+			"identy": "deportivo-tachira",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/sul-americanos/deportivo-tachira.png"
+		},
+		{
+			"name": "Emelec",
+			"identy": "emelec",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/sul-americanos/emelec.png"
+		},
+		{
+			"name": "Independiente Del Valle",
+			"identy": "independiente-del-valle",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/sul-americanos/independiente-del-valle.png"
+		},
+		{
+			"name": "Independiente Petrolero",
+			"identy": "independiente-petrolero",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/sul-americanos/independiente-petrolero.png"
+		},
+		{
+			"name": "Libertad",
+			"identy": "libertad",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/sul-americanos/libertad.png"
+		},
+		{
+			"name": "Nacional-URU",
+			"identy": "nacional-uru",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/sul-americanos/nacional-uru.png"
+		},
+		{
+			"name": "Olimpia",
+			"identy": "olimpia",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/sul-americanos/olimpia.png"
+		},
+		{
+			"name": "Peñarol",
+			"identy": "penarol",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/sul-americanos/penarol.png"
+		},
+		{
+			"name": "Sporting Cristal",
+			"identy": "sporting-cristal",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/sul-americanos/sporting-cristal.png"
+		},
+		{
+			"name": "The Strongest",
+			"identy": "the-strongest",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/sul-americanos/the-strongest.png"
+		},
+		{
+			"name": "Tolima",
+			"identy": "tolima",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/sul-americanos/tolima.png"
+		},
+		{
+			"name": "Universidad Católica",
+			"identy": "universidad-catolica",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/sul-americanos/universidad-catolica.png"
+		},
+		{
+			"name": "9 de Octubre",
+			"identy": "9-de-octubre",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/sul-americanos/9-de-octubre.png"
+		},
+		{
+			"name": "Aguilas",
+			"identy": "aguilas",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/sul-americanos/aguilas.png"
+		},
+		{
+			"name": "Ameliano",
+			"identy": "ameliano",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/sul-americanos/ameliano.png"
+		},
+		{
+			"name": "América de Cali",
+			"identy": "america-de-cali",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/sul-americanos/america-de-cali.png"
+		},
+		{
+			"name": "Aragua",
+			"identy": "aragua",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/sul-americanos/aragua.png"
+		},
+		{
+			"name": "Arenteiro",
+			"identy": "arenteiro",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/sul-americanos/arenteiro.png"
+		},
+		{
+			"name": "Atlético Juniors",
+			"identy": "atletico-juniors",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/sul-americanos/atletico-juniors.png"
+		},
+		{
+			"name": "Atlético Nacional",
+			"identy": "atletico-nacional",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/sul-americanos/atletico-nacional.png"
+		},
+		{
+			"name": "Aucas",
+			"identy": "aucas",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/sul-americanos/aucas.png"
+		},
+		{
+			"name": "Audax Italiano",
+			"identy": "audax-italiano",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/sul-americanos/audax-italiano.png"
+		},
+		{
+			"name": "Ayacucho",
+			"identy": "ayacucho",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/sul-americanos/ayacucho.png"
+		},
+		{
+			"name": "Barcelona-EQU",
+			"identy": "barcelona-equ",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/sul-americanos/barcelona-equ.png"
+		},
+		{
+			"name": "Belgrano",
+			"identy": "belgrano",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/sul-americanos/belgrano.png"
+		},
+		{
+			"name": "Binacional",
+			"identy": "binacional",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/sul-americanos/binacional.png"
+		},
+		{
+			"name": "Blooming",
+			"identy": "blooming",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/sul-americanos/blooming.png"
+		},
+		{
+			"name": "Bolivar",
+			"identy": "bolivar",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/sul-americanos/bolivar.png"
+		},
+		{
+			"name": "Boston River",
+			"identy": "boston-river",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/sul-americanos/boston-river.png"
+		},
+		{
+			"name": "Carabobo",
+			"identy": "carabobo",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/sul-americanos/carabobo.png"
+		},
+		{
+			"name": "Cerro Porteño",
+			"identy": "cerro-porteno",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/sul-americanos/cerro-porteno.png"
+		},
+		{
+			"name": "Cesar Vallejo",
+			"identy": "cesar-vallejo",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/sul-americanos/cesar-vallejo.png"
+		},
+		{
+			"name": "Cobresal",
+			"identy": "cobresal",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/sul-americanos/cobresal.png"
+		},
+		{
+			"name": "Córdoba",
+			"identy": "cordoba",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/sul-americanos/cordoba.png"
+		},
+		{
+			"name": "Curicó Unido",
+			"identy": "curico-unido",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/sul-americanos/curico-unido.jpg"
+		},
+		{
+			"name": "Danubio",
+			"identy": "danubio",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/sul-americanos/danubio.png"
+		},
+		{
+			"name": "Defensor",
+			"identy": "defensor",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/sul-americanos/defensor.png"
+		},
+		{
+			"name": "Delfin",
+			"identy": "delfin",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/sul-americanos/delfin.png"
+		},
+		{
+			"name": "Deportivo La Guaira",
+			"identy": "deportivo-la-guaira",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/sul-americanos/deportivo-la-guaira.png"
+		},
+		{
+			"name": "Deportivo Lara",
+			"identy": "deportivo-lara",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/sul-americanos/deportivo-lara.png"
+		},
+		{
+			"name": "Deportivo Pereira",
+			"identy": "deportivo-pereira",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/sul-americanos/deportivo-pereira.png"
+		},
+		{
+			"name": "Deportivo Tachira",
+			"identy": "deportivo-tachira",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/sul-americanos/deportivo-tachira.png"
+		},
+		{
+			"name": "El Nacional",
+			"identy": "el-nacional.png",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/sul-americanos/el-nacional.png.png"
+		},
+		{
+			"name": "Estudiantes de Mérida",
+			"identy": "estudiantes-de-merida",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/sul-americanos/estudiantes-de-merida.png"
+		},
+		{
+			"name": "Everton de Vina del Mar",
+			"identy": "everton-de-vina-del-mar",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/sul-americanos/everton-de-vina-del-mar.png"
+		},
+		{
+			"name": "General Caballero",
+			"identy": "general-caballero",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/sul-americanos/general-caballero.png"
+		},
+		{
+			"name": "Guabira",
+			"identy": "guabira",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/sul-americanos/guabira.png"
+		},
+		{
+			"name": "Guairena",
+			"identy": "guairena",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/sul-americanos/guairena.png"
+		},
+		{
+			"name": "Guarani-PAR",
+			"identy": "guarani-par",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/sul-americanos/guarani-par.png"
+		},
+		{
+			"name": "Guarani-URU",
+			"identy": "guarani-uru",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/sul-americanos/guarani-uru.png"
+		},
+		{
+			"name": "Huancayo",
+			"identy": "huancayo",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/sul-americanos/huancayo.png"
+		},
+		{
+			"name": "Independiente Medellin",
+			"identy": "independiente-medellin",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/sul-americanos/independiente-medellin.png"
+		},
+		{
+			"name": "Independiente Santa Fé",
+			"identy": "independiente-santa-fe",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/sul-americanos/independiente-santa-fe.png"
+		},
+		{
+			"name": "Instituto Córdoba",
+			"identy": "instituto-cordoba",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/sul-americanos/instituto-cordoba.png"
+		},
+		{
+			"name": "Jorge Wilsterman",
+			"identy": "jorge-wilsterman",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/sul-americanos/jorge-wilsterman.png"
+		},
+		{
+			"name": "Junior Barranquila",
+			"identy": "junior-barranquila",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/sul-americanos/junior-barranquila.png"
+		},
+		{
+			"name": "La Equidad",
+			"identy": "la-equidad",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/sul-americanos/la-equidad.png"
+		},
+		{
+			"name": "LDU",
+			"identy": "ldu",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/sul-americanos/ldu.png"
+		},
+		{
+			"name": "Liverpool-URU",
+			"identy": "liverpool-uru",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/sul-americanos/liverpool-uru.png"
+		},
+		{
+			"name": "Magallanes",
+			"identy": "magallanes",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/sul-americanos/magallanes.png"
+		},
+		{
+			"name": "Melgar",
+			"identy": "melgar",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/sul-americanos/melgar.png"
+		},
+		{
+			"name": "Metropolitanos",
+			"identy": "metropolitanos",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/sul-americanos/metropolitanos.png"
+		},
+		{
+			"name": "Milionarios",
+			"identy": "milionarios",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/sul-americanos/milionarios.png"
+		},
+		{
+			"name": "Monagas",
+			"identy": "monagas",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/sul-americanos/monagas.png"
+		},
+		{
+			"name": "Montevideo City Torque",
+			"identy": "montevideo-city-torque",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/sul-americanos/montevideo-city-torque.png"
+		},
+		{
+			"name": "Nacional-BOL",
+			"identy": "nacional-bol",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/sul-americanos/nacional-bol.png"
+		},
+		{
+			"name": "Nacional-PAR",
+			"identy": "nacional-par",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/sul-americanos/nacional-par.png"
+		},
+		{
+			"name": "Nacional-URU",
+			"identy": "nacional-uru",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/sul-americanos/nacional-uru.png"
+		},
+		{
+			"name": "Nublense",
+			"identy": "nublense",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/sul-americanos/nublense.png"
+		},
+		{
+			"name": "Oriente Petrolero",
+			"identy": "oriente-petrolero",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/sul-americanos/oriente-petrolero.png"
+		},
+		{
+			"name": "Palestino",
+			"identy": "palestino",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/sul-americanos/palestino.png"
+		},
+		{
+			"name": "Puerto Cabello",
+			"identy": "puerto-cabello",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/sul-americanos/puerto-cabello.png"
+		},
+		{
+			"name": "Pumas",
+			"identy": "pumas",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/sul-americanos/pumas.png"
+		},
+		{
+			"name": "River Plate-PAR",
+			"identy": "river-plate-par",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/sul-americanos/river-plate-par.png"
+		},
+		{
+			"name": "Tacuary",
+			"identy": "tacuary",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/sul-americanos/tacuary.png"
+		},
+		{
+			"name": "Tigre",
+			"identy": "tigre",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/sul-americanos/tigre.png"
+		},
+		{
+			"name": "Union La Calera",
+			"identy": "union-la-calera",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/sul-americanos/union-la-calera.png"
+		},
+		{
+			"name": "Universidad Católica-EQU",
+			"identy": "universidad-catolica-equ",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/sul-americanos/universidad-catolica-equ.png"
+		},
+		{
+			"name": "Universitario",
+			"identy": "universitario",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/sul-americanos/universitario.png"
+		},
+		{
+			"name": "Zamora",
+			"identy": "zamora",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/sul-americanos/zamora.png"
 		}
 	]
 }
