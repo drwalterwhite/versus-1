@@ -1,0 +1,1226 @@
+{
+	"dataNames": [
+		{ "text": "Overall", "max": 100 },
+		{ "text": "Dribbling", "max": 100 },
+		{ "text": "Finishing", "max": 100 },
+		{ "text": "Shot Power", "max": 100 },
+		{ "text": "Stamina", "max": 100 },
+		{ "text": "Positioning", "max": 100 }
+	],
+	"colors": [
+		{ "name": "Green", "value": "#3BB273" },
+		{ "name": "Blue", "value": "#4D9DE0" },
+		{ "name": "Orange", "value": "#E56B2D" },
+		{ "name": "Yellow", "value": "#E1BC29" },
+		{ "name": "Purple", "value": "#7768AE" }
+	],
+	"bg": [
+		{ "name": "Green", "value": "rgba(0,0,0,.5)" },
+		{ "name": "Blue", "value": "rgba(255,200,156,.5)" },
+		{ "name": "Orange", "value": "#E56B2D" },
+		{ "name": "Yellow", "value": "#E1BC29" },
+		{ "name": "Purple", "value": "#7768AE" }
+	],
+	"players": [
+		{
+			"name": "4 de Julho",
+			"identy": "4-de-julho",
+			"data": [89, 91, 89, 83, 84, 89],
+			"image": "assets/img/countries/brasileiros/4-de-julho.png"
+		},
+		{
+			"name": "7 de Setembro-PE",
+			"identy": "7-de-setembro-pe",
+			"data": [89, 91, 89, 83, 84, 89],
+			"image": "assets/img/countries/brasileiros/7-de-setembro-pe.png"
+		},
+		{
+			"name": "ABC",
+			"identy": "abc",
+			"data": [89, 91, 89, 83, 84, 89],
+			"image": "assets/img/countries/brasileiros/abc.png"
+		},
+		{
+			"name": "Afogados",
+			"identy": "afogados",
+			"data": [89, 91, 89, 83, 84, 89],
+			"image": "assets/img/countries/brasileiros/afogados.png"
+		},
+		{
+			"name": "Agua Santa",
+			"identy": "agua-santa",
+			"data": [89, 91, 89, 83, 84, 89],
+			"image": "assets/img/countries/brasileiros/agua-santa.png"
+		},
+		{
+			"name": "Águia de Marabá",
+			"identy": "aguia-de-maraba",
+			"data": [89, 91, 89, 83, 84, 89],
+			"image": "assets/img/countries/brasileiros/aguia-de-maraba.png"
+		},
+		{
+			"name": "Águia Negra",
+			"identy": "aguia-negra",
+			"data": [89, 91, 89, 83, 84, 89],
+			"image": "assets/img/countries/brasileiros/aguia-negra.png"
+		},
+		{
+			"name": "Aimoré",
+			"identy": "aimore",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/countries/brasileiros/aimore.png"
+		},
+		{
+			"name": "Alagoinhas",
+			"identy": "alagoinhas",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/countries/brasileiros/alagoinhas.png"
+		},
+		{
+			"name": "Aliança",
+			"identy": "alianca",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/countries/brasileiros/alianca.png"
+		},
+		{
+			"name": "Altos",
+			"identy": "altos",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/countries/brasileiros/altos.png"
+		},
+		{
+			"name": "Amazonas",
+			"identy": "amazonas",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/countries/brasileiros/amazonas.png"
+		},
+		{
+			"name": "Amazônia IFC",
+			"identy": "amazoniaifc",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/countries/brasileiros/amazoniaifc.png"
+		},
+		{
+			"name": "América-MG",
+			"identy": "america-mg",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/countries/brasileiros/america-mg.svg"
+		},
+		{
+			"name": "América-RN",
+			"identy": "america-rn",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/countries/brasileiros/america-rn.png"
+		},
+		{
+			"name": "Anápolis",
+			"identy": "anapolis",
+			"data": [89, 91, 89, 83, 84, 89],
+			"image": "assets/img/countries/brasileiros/anapolis.png"
+		},
+		{
+			"name": "Aparecidense",
+			"identy": "aparecidense",
+			"data": [89, 91, 89, 83, 84, 89],
+			"image": "assets/img/countries/brasileiros/aparecidense.png"
+		},
+		{
+			"name": "Aruko",
+			"identy": "aruko",
+			"data": [89, 91, 89, 83, 84, 89],
+			"image": "assets/img/countries/brasileiros/aruko.png"
+		},
+		{
+			"name": "Asa",
+			"identy": "asa",
+			"data": [89, 91, 89, 83, 84, 89],
+			"image": "assets/img/countries/brasileiros/asa.png"
+		},
+		{
+			"name": "Athletic-MG",
+			"identy": "athletic-mg",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/countries/brasileiros/athletic-mg.png"
+		},
+		{
+			"name": "Athletico-PR",
+			"identy": "athletico-pr",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/countries/brasileiros/athletico-pr.png"
+		},
+		{
+			"name": "Atlético-CE",
+			"identy": "atletico-ce",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/countries/brasileiros/atletico-ce.png"
+		},
+		{
+			"name": "Atlético-GO",
+			"identy": "atletico-go",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/countries/brasileiros/atletico-goianiense.svg"
+		},
+		{
+			"name": "Atlético-MG",
+			"identy": "atletico-mg",
+			"data": [89, 89, 93, 89, 79, 93],
+			"image": "assets/img/countries/brasileiros/atletico-mg.png"
+		},
+		{
+			"name": "Atlético-SC",
+			"identy": "atletico-sc",
+			"data": [89, 89, 93, 89, 79, 93],
+			"image": "assets/img/countries/brasileiros/atletico-sc.png"
+		},
+		{
+			"name": "Audax",
+			"identy": "audax",
+			"data": [85, 78, 71, 78, 82, 75],
+			"image": "assets/img/countries/brasileiros/audax.png"
+		},
+		{
+			"name": "Audax-RJ",
+			"identy": "audax-rj",
+			"data": [85, 78, 71, 78, 82, 75],
+			"image": "assets/img/countries/brasileiros/audax-rj.png"
+		},
+		{
+			"name": "Avaí",
+			"identy": "avai",
+			"data": [85, 78, 71, 78, 82, 75],
+			"image": "assets/img/countries/brasileiros/avai.svg"
+		},
+		{
+			"name": "Avenida",
+			"identy": "avenida",
+			"data": [85, 78, 71, 78, 82, 75],
+			"image": "assets/img/countries/brasileiros/avenida.png"
+		},
+		{
+			"name": "Azuriz",
+			"identy": "azuriz",
+			"data": [85, 78, 71, 78, 82, 75],
+			"image": "assets/img/countries/brasileiros/azuriz.png"
+		},
+		{
+			"name": "Bahia",
+			"identy": "bahia",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/brasileiros/bahia.svg"
+		},
+		{
+			"name": "Bahia de Feira",
+			"identy": "bahia-de-feira",
+			"data": [85, 78, 71, 78, 82, 75],
+			"image": "assets/img/countries/brasileiros/bahia-de-feira.png"
+		},
+		{
+			"name": "Bangu",
+			"identy": "bangu",
+			"data": [85, 78, 71, 78, 82, 75],
+			"image": "assets/img/countries/brasileiros/bangu.png"
+		},
+		{
+			"name": "Barbalha",
+			"identy": "barbalha",
+			"data": [85, 78, 71, 78, 82, 75],
+			"image": "assets/img/countries/brasileiros/barbalha.png"
+		},
+		{
+			"name": "Barcelona-BA",
+			"identy": "barcelona-ba",
+			"data": [85, 78, 71, 78, 82, 75],
+			"image": "assets/img/countries/brasileiros/barcelona-ba.png"
+		},
+		{
+			"name": "Barra FC",
+			"identy": "barra-fc",
+			"data": [85, 78, 71, 78, 82, 75],
+			"image": "assets/img/countries/brasileiros/barra-fc.png"
+		},
+		{
+			"name": "Boa Esporte",
+			"identy": "boa-esporte",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/brasileiros/boa-esporte.svg"
+		},
+		{
+			"name": "Boa Vista-RJ",
+			"identy": "boa-vista-rj",
+			"data": [85, 78, 71, 78, 82, 75],
+			"image": "assets/img/countries/brasileiros/boa-vista-rj.png"
+		},
+		{
+			"name": "Botafogo",
+			"identy": "botafogo",
+			"data": [89, 80, 94, 90, 87, 93],
+			"image": "assets/img/countries/brasileiros/botafogo.png"
+		},
+		{
+			"name": "Botafogo-PB",
+			"identy": "botafogo-pb",
+			"data": [85, 78, 71, 78, 82, 75],
+			"image": "assets/img/countries/brasileiros/botafogo-pb.svg"
+		},
+		{
+			"name": "Botafogo-SP",
+			"identy": "botafogo-sp",
+			"data": [85, 78, 71, 78, 82, 75],
+			"image": "assets/img/countries/brasileiros/botafogo-sp.svg"
+		},
+		{
+			"name": "Bragantino-PA",
+			"identy": "bragantino-pa",
+			"data": [82, 86, 84, 78, 83, 86],
+			"image": "assets/img/countries/brasileiros/bragantino-pa.png"
+		},
+		{
+			"name": "Brasil de Pelotas",
+			"identy": "brasil-de-pelotas",
+			"data": [82, 86, 84, 78, 83, 86],
+			"image": "assets/img/countries/brasileiros/brasil-de-pelotas.png"
+		},
+		{
+			"name": "Brasiliense",
+			"identy": "brasiliense",
+			"data": [82, 86, 84, 78, 83, 86],
+			"image": "assets/img/countries/brasileiros/brasiliense.png"
+		},
+		{
+			"name": "Brusque",
+			"identy": "brusque",
+			"data": [82, 86, 84, 78, 83, 86],
+			"image": "assets/img/countries/brasileiros/brusque.svg"
+		},
+		{
+			"name": "Caeté",
+			"identy": "caete",
+			"data": [82, 86, 84, 78, 83, 86],
+			"image": "assets/img/countries/brasileiros/caete.png"
+		},
+		{
+			"name": "Caldense",
+			"identy": "Caldense",
+			"data": [82, 86, 84, 78, 83, 86],
+			"image": "assets/img/countries/brasileiros/caldense.png"
+		},
+		{
+			"name": "Camburiu",
+			"identy": "Camburiu",
+			"data": [82, 86, 84, 78, 83, 86],
+			"image": "assets/img/countries/brasileiros/camburiu.png"
+		},
+		{
+			"name": "Campinense",
+			"identy": "campinense",
+			"data": [82, 86, 84, 78, 83, 86],
+			"image": "assets/img/countries/brasileiros/campinense.png"
+		},
+		{
+			"name": "Caruaru City",
+			"identy": "caruaru-city",
+			"data": [82, 86, 84, 78, 83, 86],
+			"image": "assets/img/countries/brasileiros/caruaru-city.png"
+		},
+		{
+			"name": "Cascavel",
+			"identy": "cascavel-fc",
+			"data": [82, 86, 84, 78, 83, 86],
+			"image": "assets/img/countries/brasileiros/cascavel-fc.png"
+		},
+		{
+			"name": "Castanhal",
+			"identy": "castanhal",
+			"data": [82, 86, 84, 78, 83, 86],
+			"image": "assets/img/countries/brasileiros/castanhal.png"
+		},
+		{
+			"name": "Caucaia",
+			"identy": "caucaia",
+			"data": [82, 86, 84, 78, 83, 86],
+			"image": "assets/img/countries/brasileiros/caucaia.png"
+		},
+		{
+			"name": "Caxias",
+			"identy": "caxias",
+			"data": [82, 86, 84, 78, 83, 86],
+			"image": "assets/img/countries/brasileiros/caxias.png"
+		},
+		{
+			"name": "Ceará",
+			"identy": "ceara",
+			"data": [89, 91, 89, 83, 84, 89],
+			"image": "assets/img/countries/brasileiros/ceara.png"
+		},
+		{
+			"name": "Ceilândia",
+			"identy": "ceilandia",
+			"data": [89, 91, 89, 83, 84, 89],
+			"image": "assets/img/countries/brasileiros/ceilandia.png"
+		},
+		{
+			"name": "Central",
+			"identy": "central",
+			"data": [89, 91, 89, 83, 84, 89],
+			"image": "assets/img/countries/brasileiros/central.png"
+		},
+		{
+			"name": "Chapecoense",
+			"identy": "chapecoense",
+			"data": [89, 91, 89, 83, 84, 89],
+			"image": "assets/img/countries/brasileiros/chapecoense.svg"
+		},
+		{
+			"name": "Cianorte",
+			"identy": "cianorte",
+			"data": [82, 86, 84, 78, 83, 86],
+			"image": "assets/img/countries/brasileiros/cianorte.png"
+		},
+		{
+			"name": "Coimbra",
+			"identy": "coimbra",
+			"data": [82, 86, 84, 78, 83, 86],
+			"image": "assets/img/countries/brasileiros/coimbra.png"
+		},
+		{
+			"name": "Concórdia",
+			"identy": "concordia",
+			"data": [82, 86, 84, 78, 83, 86],
+			"image": "assets/img/countries/brasileiros/concordia.png"
+		},
+		{
+			"name": "Confiança",
+			"identy": "confianca",
+			"data": [82, 86, 84, 78, 83, 86],
+			"image": "assets/img/countries/brasileiros/confianca.svg"
+		},
+		{
+			"name": "Cordino",
+			"identy": "cordino",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/brasileiros/cordino.png"
+		},
+		{
+			"name": "Corinthians",
+			"identy": "corinthians",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/brasileiros/corinthians.png"
+		},
+		{
+			"name": "Coritiba",
+			"identy": "coritiba",
+			"data": [82, 86, 84, 78, 83, 86],
+			"image": "assets/img/countries/brasileiros/coritiba.png"
+		},
+		{
+			"name": "Coruripe",
+			"identy": "coruripe",
+			"data": [82, 86, 84, 78, 83, 86],
+			"image": "assets/img/countries/brasileiros/coruripe.png"
+		},
+		{
+			"name": "Crac",
+			"identy": "crac",
+			"data": [82, 86, 84, 78, 83, 86],
+			"image": "assets/img/countries/brasileiros/crac.png"
+		},
+		{
+			"name": "Crato",
+			"identy": "crato",
+			"data": [82, 86, 84, 78, 83, 86],
+			"image": "assets/img/countries/brasileiros/crato.png"
+		},
+		{
+			"name": "CRB",
+			"identy": "crb",
+			"data": [89, 89, 93, 89, 79, 93],
+			"image": "assets/img/countries/brasileiros/crb.svg"
+		},
+		{
+			"name": "Criciúma",
+			"identy": "criciuma",
+			"data": [89, 91, 89, 83, 84, 89],
+			"image": "assets/img/countries/brasileiros/criciuma.png"
+		},
+		{
+			"name": "Cruzeiro",
+			"identy": "cruzeiro",
+			"data": [89, 88, 89, 82, 87, 90],
+			"image": "assets/img/countries/brasileiros/cruzeiro.svg"
+		},
+		{
+			"name": "Cruzeiro-AL",
+			"identy": "cruzeiro-al",
+			"data": [82, 86, 84, 78, 83, 86],
+			"image": "assets/img/countries/brasileiros/cruzeiro-al.png"
+		},
+		{
+			"name": "CSA",
+			"identy": "csa",
+			"data": [82, 86, 84, 78, 83, 86],
+			"image": "assets/img/countries/brasileiros/csa.svg"
+		},
+		{
+			"name": "CSE",
+			"identy": "cse",
+			"data": [82, 86, 84, 78, 83, 86],
+			"image": "assets/img/countries/brasileiros/cse.png"
+		},
+		{
+			"name": "Cuiaba",
+			"identy": "cuiaba",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/brasileiros/cuiaba.svg"
+		},
+		{
+			"name": "Democrata",
+			"identy": "democrata",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/brasileiros/democrata.png"
+		},
+		{
+			"name": "Democrata-GV",
+			"identy": "democrata-gv",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/brasileiros/democrata-gv.png"
+		},
+		{
+			"name": "Doce Mel",
+			"identy": "doce-mel",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/brasileiros/doce-mel.png"
+		},
+		{
+			"name": "Esportivo",
+			"identy": "esportivo",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/brasileiros/esportivo.png"
+		},
+		{
+			"name": "Ferroviária",
+			"identy": "ferroviaria",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/brasileiros/ferroviaria.png"
+		},
+		{
+			"name": "Ferroviário",
+			"identy": "ferroviario",
+			"data": [89, 91, 89, 83, 84, 89],
+			"image": "assets/img/countries/brasileiros/ferroviario.png"
+		},
+		{
+			"name": "Figueirense",
+			"identy": "figueirense",
+			"data": [89, 91, 89, 83, 84, 89],
+			"image": "assets/img/countries/brasileiros/figueirense.png"
+		},
+		{
+			"name": "Flamengo",
+			"identy": "flamengo",
+			"data": [88, 79, 88, 88, 91, 93],
+			"image": "assets/img/countries/brasileiros/flamengo.png"
+		},
+		{
+			"name": "Floresta",
+			"identy": "floresta",
+			"data": [89, 91, 89, 83, 84, 89],
+			"image": "assets/img/countries/brasileiros/floresta.png"
+		},
+		{
+			"name": "Fluminense",
+			"identy": "fluminense",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/brasileiros/fluminense.png"
+		},
+		{
+			"name": "Fluminense-PI",
+			"identy": "fluminense-pi",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/brasileiros/fluminense-pi.png"
+		},
+		{
+			"name": "Fortaleza",
+			"identy": "fortaleza",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/brasileiros/fortaleza.png"
+		},
+		{
+			"name": "Foz do Iguaçu",
+			"identy": "foz-do-iguacu",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/brasileiros/foz-do-iguacu.png"
+		},
+		{
+			"name": "Gavião Kyikatejê",
+			"identy": "gaviao-kyikateje",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/brasileiros/gaviao-kyikateje.png"
+		},
+		{
+			"name": "Globo-FC",
+			"identy": "globo-fc",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/brasileiros/globo-fc.png"
+		},
+		{
+			"name": "Goianésia",
+			"identy": "goianesia",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/brasileiros/goianesia.png"
+		},
+		{
+			"name": "Goiânia",
+			"identy": "goiania",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/brasileiros/goiania.png"
+		},
+		{
+			"name": "Goiás",
+			"identy": "goias",
+			"data": [88, 79, 88, 88, 91, 93],
+			"image": "assets/img/countries/brasileiros/goias.png"
+		},
+		{
+			"name": "Goiatuba",
+			"identy": "goiatuba",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/brasileiros/goiatuba.png"
+		},
+		{
+			"name": "Grêmio",
+			"identy": "gremio",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/brasileiros/gremio.png"
+		},
+		{
+			"name": "Grêmio Anápolis",
+			"identy": "gremio-anapolis",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/brasileiros/gremio-anapolis.png"
+		},
+		{
+			"name": "Guarani",
+			"identy": "guarani",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/brasileiros/guarani.svg"
+		},
+		{
+			"name": "Guarani-BA",
+			"identy": "guarani-ba",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/brasileiros/guarani-ba.png"
+		},
+		{
+			"name": "Hercilio Luz",
+			"identy": "hercilio-luz",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/brasileiros/hercilio-luz.png"
+		},
+		{
+			"name": "Humaitá",
+			"identy": "humaita",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/brasileiros/humaita.png"
+		},
+		{
+			"name": "Íbis",
+			"identy": "ibis",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/brasileiros/ibis.png"
+		},
+		{
+			"name": "Icasa",
+			"identy": "icasa",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/brasileiros/icasa.png"
+		},
+		{
+			"name": "Iguatu",
+			"identy": "iguatu",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/brasileiros/iguatu.png"
+		},
+		{
+			"name": "Imperatriz",
+			"identy": "imperatriz",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/brasileiros/imperatriz.png"
+		},
+		{
+			"name": "Independente-PA",
+			"identy": "independente-pa",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/brasileiros/independente-pa.png"
+		},
+		{
+			"name": "Inhumas",
+			"identy": "inhumas",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/brasileiros/inhumas.png"
+		},
+		{
+			"name": "Inter de Limeira",
+			"identy": "inter-de-limeira",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/brasileiros/inter-de-limeira.png"
+		},
+		{
+			"name": "Internacional",
+			"identy": "internacional",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/brasileiros/internacional.png"
+		},
+		{
+			"name": "Ipatinga",
+			"identy": "ipatinga",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/brasileiros/ipatinga.png"
+		},
+		{
+			"name": "Iporá",
+			"identy": "ipora",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/brasileiros/ipora.png"
+		},
+		{
+			"name": "Itabuna",
+			"identy": "itabuna",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/brasileiros/itabuna.png"
+		},
+		{
+			"name": "Ituano",
+			"identy": "ituano",
+			"data": [88, 79, 88, 88, 91, 93],
+			"image": "assets/img/countries/brasileiros/ituano.svg"
+		},
+		{
+			"name": "Itupiranga",
+			"identy": "itupiranga",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/brasileiros/itupiranga.png"
+		},
+		{
+			"name": "Jacuipense",
+			"identy": "jacuipense",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/brasileiros/jacuipense.svg"
+		},
+		{
+			"name": "Jaraguá",
+			"identy": "jaragua",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/brasileiros/jaragua.png"
+		},
+		{
+			"name": "Jataiense",
+			"identy": "jataiense",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/brasileiros/jataiense.png"
+		},
+		{
+			"name": "Juazeirense",
+			"identy": "juazeirense",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/brasileiros/juazeirense.png"
+		},
+		{
+			"name": "Juventude",
+			"identy": "juventude",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/brasileiros/juventude.svg"
+		},
+		{
+			"name": "Juventus-SC",
+			"identy": "juventus-sc",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/brasileiros/juventus-sc.png"
+		},
+		{
+			"name": "Lagarto",
+			"identy": "lagarto",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/brasileiros/lagarto.png"
+		},
+		{
+			"name": "Londrina",
+			"identy": "londrina",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/brasileiros/londrina.png"
+		},
+		{
+			"name": "Luverdense",
+			"identy": "luverdense",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/brasileiros/luverdense.png"
+		},
+		{
+			"name": "Macaé",
+			"identy": "macae",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/brasileiros/macae.png"
+		},
+		{
+			"name": "Madureira",
+			"identy": "madureira",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/brasileiros/madureira.png"
+		},
+		{
+			"name": "Maguary",
+			"identy": "maguary",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/brasileiros/maguary.png"
+		},
+		{
+			"name": "Manaus",
+			"identy": "manaus",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/brasileiros/manaus.png"
+		},
+		{
+			"name": "Maracanã",
+			"identy": "maracana",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/brasileiros/maracana.png"
+		},
+		{
+			"name": "Marcílio Dias",
+			"identy": "marcilio-dias",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/brasileiros/marcilio-dias.png"
+		},
+		{
+			"name": "Maricá",
+			"identy": "marica",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/brasileiros/marica.png"
+		},
+		{
+			"name": "Marília",
+			"identy": "marilia",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/brasileiros/marilia.png"
+		},
+		{
+			"name": "Maringá",
+			"identy": "maringa",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/brasileiros/maringa.png"
+		},
+		{
+			"name": "Metropolitano",
+			"identy": "metropolitano",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/brasileiros/metropolitano.png"
+		},
+		{
+			"name": "Mirassol",
+			"identy": "mirassol",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/brasileiros/mirassol.png"
+		},
+		{
+			"name": "Morrinhos",
+			"identy": "morrinhos",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/brasileiros/morrinhos.png"
+		},
+		{
+			"name": "Moto Club",
+			"identy": "moto-club",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/brasileiros/moto-club.png"
+		},
+		{
+			"name": "Murici",
+			"identy": "murici",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/brasileiros/murici.png"
+		},
+		{
+			"name": "Naútico",
+			"identy": "nautico",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/brasileiros/nautico.svg"
+		},
+		{
+			"name": "Nova Iguaçu",
+			"identy": "nova-iguacu",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/brasileiros/nova-iguacu.png"
+		},
+		{
+			"name": "Nova Mutum",
+			"identy": "nova-mutum",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/brasileiros/nova-mutum.png"
+		},
+		{
+			"name": "Nova Venécia",
+			"identy": "nova-venecia",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/brasileiros/nova-venecia.png"
+		},
+		{
+			"name": "Novo Hamburgo",
+			"identy": "novo-hamburgo",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/brasileiros/novo-hamburgo.png"
+		},
+		{
+			"name": "Novorizontino",
+			"identy": "novorizontino",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/brasileiros/novorizontino.png"
+		},
+		{
+			"name": "Oeste",
+			"identy": "oeste",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/brasileiros/oeste.svg"
+		},
+		{
+			"name": "Operário",
+			"identy": "operario",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/brasileiros/operario.svg"
+		},
+		{
+			"name": "Operário-MS",
+			"identy": "operario-ms",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/brasileiros/operario-ms.png"
+		},
+		{
+			"name": "Pacajus",
+			"identy": "pacajus",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/brasileiros/pacajus.png"
+		},
+		{
+			"name": "Palmeiras",
+			"identy": "palmeiras",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/brasileiros/palmeiras.png"
+		},
+		{
+			"name": "Paragominas",
+			"identy": "paragominas",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/brasileiros/paragominas.png"
+		},
+		{
+			"name": "Paraná",
+			"identy": "parana",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/brasileiros/parana.png"
+		},
+		{
+			"name": "Patrocinense",
+			"identy": "patrocinense",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/brasileiros/patrocinense.png"
+		},
+		{
+			"name": "Paysandu",
+			"identy": "paysandu",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/brasileiros/paysandu.svg"
+		},
+		{
+			"name": "Pelotas",
+			"identy": "pelotas",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/brasileiros/pelotas.png"
+		},
+		{
+			"name": "Petrolina",
+			"identy": "petrolina",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/brasileiros/petrolina.png"
+		},
+		{
+			"name": "Poconé",
+			"identy": "pocone",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/brasileiros/pocone.png"
+		},
+		{
+			"name": "Ponte Preta",
+			"identy": "ponte-preta",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/brasileiros/ponte-preta.svg"
+		},
+		{
+			"name": "Porto-PE",
+			"identy": "porto-pe",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/brasileiros/porto-pe.png"
+		},
+		{
+			"name": "Portuguesa",
+			"identy": "portuguesa",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/brasileiros/portuguesa.png"
+		},
+		{
+			"name": "Portuguesa-RJ",
+			"identy": "portuguesa-rj",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/brasileiros/portuguesa-rj.png"
+		},
+		{
+			"name": "Pouso Alegre",
+			"identy": "pouso-alegre",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/countries/brasileiros/pouso-alegre.png"
+		},
+		{
+			"name": "Próspera",
+			"identy": "prospera",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/brasileiros/prospera.png"
+		},
+		{
+			"name": "RB Bragantino",
+			"identy": "rb-bragantino",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/brasileiros/rb-bragantino.png"
+		},
+		{
+			"name": "Remo",
+			"identy": "remo",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/brasileiros/remo.png"
+		},
+		{
+			"name": "Resende",
+			"identy": "resende",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/brasileiros/resende.png"
+		},
+		{
+			"name": "Retrô",
+			"identy": "retro",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/brasileiros/retro.png"
+		},
+		{
+			"name": "Rio Branco-AC",
+			"identy": "rio-branco-ac",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/brasileiros/rio-branco-ac.png"
+		},
+		{
+			"name": "Rio Branco-PR",
+			"identy": "rio-branco-pr",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/brasileiros/rio-branco-pr.png"
+		},
+		{
+			"name": "Salgueiro",
+			"identy": "salgueiro",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/brasileiros/salgueiro.png"
+		},
+		{
+			"name": "Sampaio Corrêa",
+			"identy": "sampaio-correa",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/brasileiros/sampaio-correa.svg"
+		},
+		{
+			"name": "Santa Cruz",
+			"identy": "santa-cruz",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/brasileiros/santa-cruz.svg"
+		},
+		{
+			"name": "Santa Cruz-RS",
+			"identy": "santa-cruz-rs",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/brasileiros/santa-cruz-rs.png"
+		},
+		{
+			"name": "Santo André",
+			"identy": "santo-andre",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/brasileiros/santo-andre.png"
+		},
+		{
+			"name": "Santos",
+			"identy": "santos",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/brasileiros/santos.png"
+		},
+		{
+			"name": "São Bento",
+			"identy": "sao-bento",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/countries/brasileiros/sao-bento.svg"
+		},
+		{
+			"name": "São Bernardo",
+			"identy": "sao-bernardo",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/countries/brasileiros/sao-bernardo.png"
+		},
+		{
+			"name": "São Caetano",
+			"identy": "sao-caetano",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/brasileiros/sao-caetano.png"
+		},
+		{
+			"name": "São José",
+			"identy": "sao-jose",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/brasileiros/sao-jose.svg"
+		},
+		{
+			"name": "São Joseense",
+			"identy": "sao-joseense",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/brasileiros/sao-joseense.png"
+		},
+		{
+			"name": "São Luiz-RS",
+			"identy": "sao-luiz-rs",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/brasileiros/sao-luiz-rs.png"
+		},
+		{
+			"name": "São Paulo",
+			"identy": "sao-paulo",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/brasileiros/sao-paulo.png"
+		},
+		{
+			"name": "São Raimundo-RR",
+			"identy": "sao-raimundo-rr",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/brasileiros/sao-raimundo-rr.png"
+		},
+		{
+			"name": "Sergipe",
+			"identy": "sergipe",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/brasileiros/sergipe.png"
+		},
+		{
+			"name": "Sport",
+			"identy": "sport",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/brasileiros/sport.png"
+		},
+		{
+			"name": "Tocantinópolis",
+			"identy": "tocantinopolis",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/brasileiros/tocantinopolis.png"
+		},
+		{
+			"name": "Tombense",
+			"identy": "tombense",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/brasileiros/tombense.svg"
+		},
+		{
+			"name": "Trem-AP",
+			"identy": "trem-ap",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/brasileiros/trem-ap.png"
+		},
+		{
+			"name": "Treze-PB",
+			"identy": "treze-pb",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/brasileiros/treze-pb.png"
+		},
+		{
+			"name": "Tuna Luso",
+			"identy": "tuna-luso",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/brasileiros/tuna-luso.png"
+		},
+		{
+			"name": "Uberlândia",
+			"identy": "uberlandia",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/brasileiros/uberlandia.png"
+		},
+		{
+			"name": "União Frederiquense",
+			"identy": "uniao-frederiquense",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/brasileiros/uniao-frederiquense.png"
+		},
+		{
+			"name": "União-PR",
+			"identy": "uniao-pr",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/brasileiros/uniao-pr.png"
+		},
+		{
+			"name": "União Rondonópolis",
+			"identy": "uniao-rondonopolis",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/brasileiros/uniao-rondonopolis.png"
+		},
+		{
+			"name": "URT",
+			"identy": "urt",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/brasileiros/urt.png"
+		},
+		{
+			"name": "Vasco",
+			"identy": "vasco",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/brasileiros/vasco.png"
+		},
+		{
+			"name": "Vila Nova",
+			"identy": "vila-nova",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/brasileiros/vila-nova.png"
+		},
+		{
+			"name": "Villa Nova",
+			"identy": "villa-nova",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/brasileiros/villa-nova.png"
+		},
+		{
+			"name": "Vitória",
+			"identy": "vitoria",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/brasileiros/vitoria.png"
+		},
+		{
+			"name": "Vitória da Conquista",
+			"identy": "vitoria-da-conquista",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/brasileiros/vitoria-da-conquista.png"
+		},
+		{
+			"name": "Vitória-ES",
+			"identy": "vitoria-es",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/brasileiros/vitoria-es.png"
+		},
+		{
+			"name": "Volta Redonda",
+			"identy": "volta-redonda",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/brasileiros/volta-redonda.svg"
+		},
+		{
+			"name": "Ypiranga",
+			"identy": "ypiranga",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/brasileiros/ypiranga.svg"
+		}
+	]
+}
