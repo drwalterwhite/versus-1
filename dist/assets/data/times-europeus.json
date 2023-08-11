@@ -1157,6 +1157,12 @@
 			"image": "assets/img/countries/europeus/millwall.png"
 		},
 		{
+			"name": "Modena",
+			"identy": "modena",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/countries/europeus/modena.png"
+		},
+		{
 			"name": "Molde",
 			"identy": "molde",
 			"data": [86, 88, 81, 87, 78, 84],
