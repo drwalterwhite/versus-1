@@ -737,6 +737,12 @@
 			"image": "assets/img/countries/europeus/freiburg.png"
 		},
 		{
+			"name": "Frosinone",
+			"identy": "frosinone",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/europeus/frosinone.png"
+		},
+		{
 			"name": "Fulham",
 			"identy": "fulham",
 			"data": [88, 79, 88, 88, 91, 93],
@@ -851,6 +857,12 @@
 			"image": "assets/img/countries/europeus/hapoel-beer-sheva.png"
 		},
 		{
+			"name": "Heidenheim",
+			"identy": "heidenheim",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/countries/europeus/heidenheim.png"
+		},
+		{
 			"name": "Heracles",
 			"identy": "heracles",
 			"data": [86, 88, 81, 87, 78, 84],
@@ -963,6 +975,12 @@
 			"identy": "la-coruna",
 			"data": [86, 88, 81, 87, 78, 84],
 			"image": "assets/img/countries/europeus/la-coruna.png"
+		},
+		{
+			"name": "Las Palmas",
+			"identy": "las-palmas",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/europeus/las-palmas.png"
 		},
 		{
 			"name": "Lazio",
