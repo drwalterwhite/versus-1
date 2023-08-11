@@ -1908,7 +1908,7 @@
 		},
 		{
 			"name": "Alavés",
-			"identy": "almeria",
+			"identy": "alaves",
 			"data": [86, 88, 81, 87, 78, 84],
 			"image": "assets/img/countries/europeus/alaves.png"
 		},
@@ -2079,6 +2079,12 @@
 			"identy": "bergerac",
 			"data": [86, 88, 81, 87, 78, 84],
 			"image": "assets/img/countries/europeus/bergerac.png"
+		},
+		{
+			"name": "Bersenbruck",
+			"identy": "bersenbruck",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/countries/europeus/bersenbruck.png"
 		},
 		{
 			"name": "Besiktas",
@@ -3003,6 +3009,12 @@
 			"identy": "millwall",
 			"data": [86, 88, 81, 87, 78, 84],
 			"image": "assets/img/countries/europeus/millwall.png"
+		},
+		{
+			"name": "Modena",
+			"identy": "modena",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/countries/europeus/modena.png"
 		},
 		{
 			"name": "Molde",
