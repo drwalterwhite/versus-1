@@ -227,6 +227,12 @@
 			"image": "assets/img/countries/europeus/bergerac.png"
 		},
 		{
+			"name": "Bersenbruck",
+			"identy": "bersenbruck",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/countries/europeus/bersenbruck.png"
+		},
+		{
 			"name": "Besiktas",
 			"identy": "besiktas",
 			"data": [86, 88, 81, 87, 78, 84],
