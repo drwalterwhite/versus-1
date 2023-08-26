@@ -1961,6 +1961,12 @@
 			"image": "assets/img/countries/europeus/aston-villa.png"
 		},
 		{
+			"name": "Astoria Walldorf",
+			"identy": "astoria-walldorf",
+			"data": [85, 78, 71, 78, 82, 75],
+			"image": "assets/img/countries/europeus/astoria-walldorf.png"
+		},
+		{
 			"name": "Atalanta",
 			"identy": "atalanta",
 			"data": [86, 88, 81, 87, 78, 84],
@@ -2013,6 +2019,12 @@
 			"identy": "babelsberg",
 			"data": [86, 88, 81, 87, 78, 84],
 			"image": "assets/img/countries/europeus/babelsberg.png"
+		},
+		{
+			"name": "Balingen",
+			"identy": "balingen",
+			"data": [89, 91, 89, 83, 84, 89],
+			"image": "assets/img/countries/europeus/balingen.png"
 		},
 		{
 			"name": "Barcelona",
@@ -2873,6 +2885,12 @@
 			"image": "assets/img/countries/europeus/legia-varsovia.png"
 		},
 		{
+			"name": "Le Havre",
+			"identy": "le-havre",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/countries/europeus/le-havre.png"
+		},
+		{
 			"name": "Leicester",
 			"identy": "leicester",
 			"data": [83, 74, 86, 78, 67, 90],
@@ -2913,6 +2931,12 @@
 			"identy": "liverpool",
 			"data": [83, 74, 86, 78, 67, 90],
 			"image": "assets/img/countries/europeus/liverpool.png"
+		},
+		{
+			"name": "Lokomotiv Leipzig",
+			"identy": "lokomotive-leipzig",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/countries/europeus/lokomotive-leipzig.png"
 		},
 		{
 			"name": "Lokomotiv Moscou",
@@ -3173,6 +3197,12 @@
 			"image": "assets/img/countries/europeus/paderborn.png"
 		},
 		{
+			"name": "Panathinaikos",
+			"identy": "panathinaikos",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/countries/europeus/panathinaikos.png"
+		},
+		{
 			"name": "PAOK",
 			"identy": "paok",
 			"data": [86, 88, 81, 87, 78, 84],
@@ -3266,7 +3296,7 @@
 			"name": "RB Salzburg",
 			"identy": "rb-salzburg",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/countries/brasileiros/rb-salzburg.png"
+			"image": "assets/img/countries/europeus/rb-salzburg.png"
 		},
 		{
 			"name": "Reading",
@@ -3405,6 +3435,12 @@
 			"identy": "schalke",
 			"data": [83, 74, 86, 78, 67, 90],
 			"image": "assets/img/countries/europeus/schalke.png"
+		},
+		{
+			"name": "Schott Mainz",
+			"identy": "schott-mainz",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/europeus/schott-mainz.png"
 		},
 		{
 			"name": "Sevilla",
@@ -3579,6 +3615,12 @@
 			"identy": "tenerife",
 			"data": [86, 88, 81, 87, 78, 84],
 			"image": "assets/img/countries/europeus/tenerife.png"
+		},
+		{
+			"name": "Ternana",
+			"identy": "ternana",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/countries/europeus/ternana.png"
 		},
 		{
 			"name": "Tondela",
