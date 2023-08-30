@@ -2453,6 +2453,12 @@
 			"image": "assets/img/countries/europeus/dinamo-zagreb.png"
 		},		
 		{
+			"name": "Doncaster",
+			"identy": "doncaster",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/countries/europeus/doncaster.png"
+		},
+		{
 			"name": "Duisburg",
 			"identy": "duisburg",
 			"data": [86, 88, 81, 87, 78, 84],
