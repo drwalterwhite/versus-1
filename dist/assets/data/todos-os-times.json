@@ -3293,6 +3293,12 @@
 			"image": "assets/img/countries/europeus/rangers.png"
 		},
 		{
+			"name": "Rakow Czestochowa",
+			"identy": "rakow-czestochowa",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/countries/europeus/rakow-czestochowa.png"
+		},
+		{
 			"name": "Rapid Vienna",
 			"identy": "rapid-vienna",
 			"data": [86, 88, 81, 87, 78, 84],
