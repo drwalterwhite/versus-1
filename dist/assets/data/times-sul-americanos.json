@@ -138,7 +138,7 @@
 		},
 		{
 			"name": "Barracas Central",
-			"identy": "Barracas Central",
+			"identy": "barracas-central",
 			"data": [82, 86, 84, 78, 83, 86],
 			"image": "assets/img/countries/sul-americanos/barracas-central.png"
 		},
