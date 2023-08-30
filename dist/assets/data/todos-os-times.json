@@ -137,6 +137,12 @@
 			"image": "assets/img/countries/sul-americanos/barcelona-equ.png"
 		},
 		{
+			"name": "Barracas Central",
+			"identy": "barracas-central",
+			"data": [82, 86, 84, 78, 83, 86],
+			"image": "assets/img/countries/sul-americanos/barracas-central.png"
+		},
+		{
 			"name": "Belgrano",
 			"identy": "belgrano",
 			"data": [83, 74, 86, 78, 67, 90],
