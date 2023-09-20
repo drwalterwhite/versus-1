@@ -1889,6 +1889,12 @@
 			"image": "assets/img/countries/europeus/1860.png"
 		},
 		{
+			"name": "Aberdeen",
+			"identy": "aberdeen",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/countries/europeus/aberdeen.svg"
+		},
+		{
 			"name": "AEK Atenas",
 			"identy": "aek-atenas",
 			"data": [86, 88, 81, 87, 78, 84],
@@ -2633,6 +2639,12 @@
 			"image": "assets/img/countries/europeus/galatasaray.png"
 		},
 		{
+			"name": "Genk",
+			"identy": "genk",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/europeus/genk.png"
+		},
+		{
 			"name": "Genoa",
 			"identy": "genoa",
 			"data": [83, 74, 86, 78, 67, 90],
@@ -2709,6 +2721,12 @@
 			"identy": "guijuelo",
 			"data": [86, 88, 81, 87, 78, 84],
 			"image": "assets/img/countries/europeus/guijuelo.png"
+		},
+		{
+			"name": "Hacken",
+			"identy": "hacken",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/countries/europeus/hacken.png"
 		},
 		{
 			"name": "Hamburgo",
@@ -2853,6 +2871,12 @@
 			"identy": "la-coruna",
 			"data": [86, 88, 81, 87, 78, 84],
 			"image": "assets/img/countries/europeus/la-coruna.png"
+		},
+		{
+			"name": "LASK Linz",
+			"identy": "lask-linz",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/europeus/lask-linz.png"
 		},
 		{
 			"name": "Las Palmas",
@@ -3159,6 +3183,12 @@
 			"identy": "nuremberg",
 			"data": [86, 88, 81, 87, 78, 84],
 			"image": "assets/img/countries/europeus/nuremberg.png"
+		},
+		{
+			"name": "Olimpija Ljubljana",
+			"identy": "olimpija-ljubljana",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/countries/europeus/olimpija-ljubljana.png"
 		},
 		{
 			"name": "Olympiacos",
@@ -3675,6 +3705,12 @@
 			"identy": "troyes",
 			"data": [83, 74, 86, 78, 67, 90],
 			"image": "assets/img/countries/europeus/troyes.png"
+		},
+		{
+			"name": "TSC Backa Topola",
+			"identy": "tsc-backa-topola",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/europeus/tsc-backa-topola.png"
 		},
 		{
 			"name": "Udinese",
