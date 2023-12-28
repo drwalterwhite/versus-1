@@ -68,7 +68,7 @@
 			"name": "Denver Nuggets",
 			"identy": "denver-nuggets",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/nba/denver-nuggets_secondary.svg"
+			"image": "assets/img/leagues/nba/denver-nuggets.svg"
 		},
 		{
 			"name": "Detroit Pistons",
@@ -80,7 +80,7 @@
 			"name": "Golden State Warriors",
 			"identy": "golden-state-warriors",
 			"data": [82, 86, 84, 78, 83, 86],
-			"image": "assets/img/leagues/nba/golden-state-warriors_secondary.svg"
+			"image": "assets/img/leagues/nba/golden-state-warriors.svg"
 		},
 		{
 			"name": "Houston Rockets",
@@ -116,7 +116,7 @@
 			"name": "Miami Heat",
 			"identy": "miami-heat",
 			"data": [89, 80, 94, 90, 87, 93],
-			"image": "assets/img/leagues/nba/miami-heat_secondary.svg"
+			"image": "assets/img/leagues/nba/miami-heat.svg"
 		},
 		{
 			"name": "Milwaukee Bucks",
@@ -146,13 +146,13 @@
 			"name": "Oklahoma City Thunder",
 			"identy": "oklahoma-city-thunder",
 			"data": [89, 91, 89, 83, 84, 89],
-			"image": "assets/img/leagues/nba/oklahoma-city-thunder_secondary.svg"
+			"image": "assets/img/leagues/nba/oklahoma-city-thunder.svg"
 		},
 		{
 			"name": "Orlando Magic",
 			"identy": "orlando-magic",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/nba/orlando-magic_secondary.svg"
+			"image": "assets/img/leagues/nba/orlando-magic.svg"
 		},
 		{
 			"name": "Philadelphia 76ers",
@@ -164,7 +164,7 @@
 			"name": "Phoenix Suns",
 			"identy": "phoenix-suns",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/nba/phoenix-suns_secondary.svg"
+			"image": "assets/img/leagues/nba/phoenix-suns.svg"
 		},
 		{
 			"name": "Portland Trail Blazers",
@@ -182,19 +182,19 @@
 			"name": "San Antonio Spurs",
 			"identy": "san-antonio-spurs",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/nba/san-antonio-spurs_secondary.svg"
+			"image": "assets/img/leagues/nba/san-antonio-spurs.svg"
 		},
 		{
 			"name": "Toronto Raptors",
 			"identy": "toronto-raptors",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/nba/toronto-raptors_secondary.svg"
+			"image": "assets/img/leagues/nba/toronto-raptors.svg"
 		},
 		{
 			"name": "Utah Jazz",
 			"identy": "utah-jazz",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/nba/utah-jazz_secondary.svg"
+			"image": "assets/img/leagues/nba/utah-jazz.svg"
 		},
 		{
 			"name": "Washington Wizards",
