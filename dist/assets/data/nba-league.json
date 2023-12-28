@@ -56,7 +56,7 @@
 			"name": "Cleveland Cavaliers",
 			"identy": "cleveland-cavaliers",
 			"data": [85, 78, 71, 78, 82, 75],
-			"image": "assets/img/leagues/nba/cleveland-cavaliers_secondary.svg"
+			"image": "assets/img/leagues/nba/cleveland-cavaliers.svg"
 		},
 		{
 			"name": "Dallas Mavericks",
@@ -68,7 +68,7 @@
 			"name": "Denver Nuggets",
 			"identy": "denver-nuggets",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/nba/denver-nuggets.svg"
+			"image": "assets/img/leagues/nba/denver-nuggets_secondary.svg"
 		},
 		{
 			"name": "Detroit Pistons",
