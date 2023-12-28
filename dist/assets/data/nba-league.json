@@ -68,7 +68,7 @@
 			"name": "Denver Nuggets",
 			"identy": "denver-nuggets",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/nba/denver-nuggets_secondary.svg"
+			"image": "assets/img/leagues/nba/denver-nuggets.png"
 		},
 		{
 			"name": "Detroit Pistons",
@@ -80,7 +80,7 @@
 			"name": "Golden State Warriors",
 			"identy": "golden-state-warriors",
 			"data": [82, 86, 84, 78, 83, 86],
-			"image": "assets/img/leagues/nba/golden-state-warriors.svg"
+			"image": "assets/img/leagues/nba/golden-state-warriors.png"
 		},
 		{
 			"name": "Houston Rockets",
