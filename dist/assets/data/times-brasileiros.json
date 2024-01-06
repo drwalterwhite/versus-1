@@ -1004,7 +1004,7 @@
 			"name": "Retrô",
 			"identy": "retro",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/countries/brasileiros/retro.png"
+			"image": "assets/img/countries/brasileiros/retro.svg"
 		},
 		{
 			"name": "Rio Branco-AC",
@@ -1107,6 +1107,12 @@
 			"identy": "sergipe",
 			"data": [83, 74, 86, 78, 67, 90],
 			"image": "assets/img/countries/brasileiros/sergipe.png"
+		},
+		{
+			"name": "Sousa",
+			"identy": "sousa",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/brasileiros/sousa.svg"
 		},
 		{
 			"name": "Sport",
