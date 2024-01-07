@@ -971,6 +971,12 @@
 			"image": "assets/img/countries/brasileiros/portuguesa-rj.png"
 		},
 		{
+			"name": "Potiguar",
+			"identy": "potiguar",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/countries/brasileiros/potiguar.svg"
+		},
+		{
 			"name": "Pouso Alegre",
 			"identy": "pouso-alegre",
 			"data": [86, 88, 81, 87, 78, 84],
