@@ -179,6 +179,12 @@
 			"image": "assets/img/countries/europeus/balingen.png"
 		},
 		{
+			"name": "Barbastro",
+			"identy": "barbastro",
+			"data": [89, 91, 89, 83, 84, 89],
+			"image": "assets/img/countries/europeus/barbastro.svg"
+		},
+		{
 			"name": "Barcelona",
 			"identy": "barcelona",
 			"data": [89, 91, 89, 83, 84, 89],
