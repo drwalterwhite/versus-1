@@ -1637,6 +1637,12 @@
 			"image": "assets/img/countries/brasileiros/pouso-alegre.png"
 		},
 		{
+			"name": "Potiguar",
+			"identy": "potiguar",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/countries/brasileiros/potiguar.svg"
+		},
+		{
 			"name": "Próspera",
 			"identy": "prospera",
 			"data": [83, 74, 86, 78, 67, 90],
