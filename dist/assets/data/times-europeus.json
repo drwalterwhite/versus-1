@@ -995,6 +995,12 @@
 			"image": "assets/img/countries/europeus/juventus.png"
 		},
 		{
+			"name": "Kaiserslautern",
+			"identy": "kaiserslautern",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/countries/europeus/kaiserslautern.png"
+		},
+		{
 			"name": "Karlsruher",
 			"identy": "karlsruher",
 			"data": [86, 88, 81, 87, 78, 84],
