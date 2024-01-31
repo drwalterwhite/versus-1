@@ -605,6 +605,12 @@
 			"image": "assets/img/countries/brasileiros/guarani.svg"
 		},
 		{
+			"name": "Guarany de Bagé",
+			"identy": "guarani",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/brasileiros/guarany-de-bage.svg"
+		},
+		{
 			"name": "Guarani-BA",
 			"identy": "guarani-ba",
 			"data": [83, 74, 86, 78, 67, 90],
@@ -1035,6 +1041,12 @@
 			"identy": "sampaio-correa",
 			"data": [83, 74, 86, 78, 67, 90],
 			"image": "assets/img/countries/brasileiros/sampaio-correa.svg"
+		},
+		{
+			"name": "Sampaio Corrêa-RJ",
+			"identy": "sampaio-correa-rj",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/brasileiros/sampaio-correa-rj.svg"
 		},
 		{
 			"name": "Santa Cruz",
