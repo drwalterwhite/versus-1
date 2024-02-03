@@ -1247,6 +1247,12 @@
 			"image": "assets/img/countries/brasileiros/ypiranga.svg"
 		},
 		{
+			"name": "Itabaiana",
+			"identy": "itabaiana",
+			"data": [89, 91, 89, 83, 84, 89],
+			"image": "assets/img/countries/brasileiros/itabaiana.svg"
+		},
+		{
 			"name": "Itabirito",
 			"identy": "itabirito",
 			"data": [89, 91, 89, 83, 84, 89],
