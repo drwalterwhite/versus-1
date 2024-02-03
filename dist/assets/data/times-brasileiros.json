@@ -1245,6 +1245,30 @@
 			"identy": "ypiranga",
 			"data": [83, 74, 86, 78, 67, 90],
 			"image": "assets/img/countries/brasileiros/ypiranga.svg"
+		},
+		{
+			"name": "Itabirito",
+			"identy": "itabirito",
+			"data": [89, 91, 89, 83, 84, 89],
+			"image": "assets/img/countries/brasileiros/itabirito.svg"
+		},
+		{
+			"name": "PSTC",
+			"identy": "pstc",
+			"data": [89, 91, 89, 83, 84, 89],
+			"image": "assets/img/countries/brasileiros/pstc.svg"
+		},
+		{
+			"name": "Ríver-PI",
+			"identy": "river-pi",
+			"data": [89, 91, 89, 83, 84, 89],
+			"image": "assets/img/countries/brasileiros/river-pi.svg"
+		},
+		{
+			"name": "Treze",
+			"identy": "treze",
+			"data": [89, 91, 89, 83, 84, 89],
+			"image": "assets/img/countries/brasileiros/treze.svg"
 		}
 	]
 }
