@@ -1160,7 +1160,7 @@
 			"name": "Treze-PB",
 			"identy": "treze-pb",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/countries/brasileiros/treze-pb.png"
+			"image": "assets/img/countries/brasileiros/treze.svg"
 		},
 		{
 			"name": "Tuna Luso",
@@ -1271,10 +1271,16 @@
 			"image": "assets/img/countries/brasileiros/river-pi.svg"
 		},
 		{
-			"name": "Treze",
-			"identy": "treze",
+			"name": "Andraus",
+			"identy": "andraus",
 			"data": [89, 91, 89, 83, 84, 89],
-			"image": "assets/img/countries/brasileiros/treze.svg"
+			"image": "assets/img/countries/brasileiros/andraus.svg"
+		},
+		{
+			"name": "Maranhão",
+			"identy": "maranhao",
+			"data": [89, 91, 89, 83, 84, 89],
+			"image": "assets/img/countries/brasileiros/maranhao.svg"
 		}
 	]
 }
