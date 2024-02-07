@@ -110,13 +110,19 @@
 			"name": "Aucas",
 			"identy": "aucas",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/countries/sul-americanos/aucas.png"
+			"image": "assets/img/countries/sul-americanos/aucas.svg"
 		},
 		{
 			"name": "Audax Italiano",
 			"identy": "audax-italiano",
 			"data": [83, 74, 86, 78, 67, 90],
 			"image": "assets/img/countries/sul-americanos/audax-italiano.png"
+		},
+		{
+			"name": "Aurora",
+			"identy": "aurora",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/sul-americanos/aurora.svg"
 		},
 		{
 			"name": "Ayacucho",
@@ -158,7 +164,7 @@
 			"name": "Blooming",
 			"identy": "blooming",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/countries/sul-americanos/blooming.png"
+			"image": "assets/img/countries/sul-americanos/blooming.svg"
 		},
 		{
 			"name": "Boca Juniors",
@@ -170,7 +176,7 @@
 			"name": "Bolívar",
 			"identy": "bolivar",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/countries/sul-americanos/bolivar.png"
+			"image": "assets/img/countries/sul-americanos/bolivar.svg"
 		},
 		{
 			"name": "Boston River",
@@ -464,7 +470,7 @@
 			"name": "Melgar",
 			"identy": "melgar",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/countries/sul-americanos/melgar.png"
+			"image": "assets/img/countries/sul-americanos/melgar.svg"
 		},
 		{
 			"name": "Metropolitanos",
@@ -707,10 +713,10 @@
 			"image": "assets/img/countries/brasileiros/afogados.png"
 		},
 		{
-			"name": "Agua Santa",
+			"name": "Água Santa",
 			"identy": "agua-santa",
 			"data": [89, 91, 89, 83, 84, 89],
-			"image": "assets/img/countries/brasileiros/agua-santa.png"
+			"image": "assets/img/countries/brasileiros/agua-santa.svg"
 		},
 		{
 			"name": "Águia de Marabá",
@@ -777,6 +783,12 @@
 			"identy": "anapolis",
 			"data": [89, 91, 89, 83, 84, 89],
 			"image": "assets/img/countries/brasileiros/anapolis.png"
+		},
+		{
+			"name": "Andraus",
+			"identy": "andraus",
+			"data": [89, 91, 89, 83, 84, 89],
+			"image": "assets/img/countries/brasileiros/andraus.svg"
 		},
 		{
 			"name": "Aparecidense",
@@ -854,7 +866,7 @@
 			"name": "Avenida",
 			"identy": "avenida",
 			"data": [85, 78, 71, 78, 82, 75],
-			"image": "assets/img/countries/brasileiros/avenida.png"
+			"image": "assets/img/countries/brasileiros/avenida.svg"
 		},
 		{
 			"name": "Azuriz",
@@ -1034,7 +1046,7 @@
 			"name": "Cianorte",
 			"identy": "cianorte",
 			"data": [82, 86, 84, 78, 83, 86],
-			"image": "assets/img/countries/brasileiros/cianorte.png"
+			"image": "assets/img/countries/brasileiros/cianorte.svg"
 		},
 		{
 			"name": "Coimbra",
@@ -1124,7 +1136,7 @@
 			"name": "CSE",
 			"identy": "cse",
 			"data": [82, 86, 84, 78, 83, 86],
-			"image": "assets/img/countries/brasileiros/cse.png"
+			"image": "assets/img/countries/brasileiros/cse.svg"
 		},
 		{
 			"name": "Cuiaba",
@@ -1349,6 +1361,18 @@
 			"image": "assets/img/countries/brasileiros/ipora.png"
 		},
 		{
+			"name": "Itabaiana",
+			"identy": "itabaiana",
+			"data": [89, 91, 89, 83, 84, 89],
+			"image": "assets/img/countries/brasileiros/itabaiana.svg"
+		},
+		{
+			"name": "Itabirito",
+			"identy": "itabirito",
+			"data": [89, 91, 89, 83, 84, 89],
+			"image": "assets/img/countries/brasileiros/itabirito.svg"
+		},
+		{
 			"name": "Itabuna",
 			"identy": "itabuna",
 			"data": [83, 74, 86, 78, 67, 90],
@@ -1383,6 +1407,12 @@
 			"identy": "jataiense",
 			"data": [83, 74, 86, 78, 67, 90],
 			"image": "assets/img/countries/brasileiros/jataiense.png"
+		},
+		{
+			"name": "Joinville",
+			"identy": "joinville",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/brasileiros/joinville.svg"
 		},
 		{
 			"name": "Juazeirense",
@@ -1449,6 +1479,12 @@
 			"identy": "maracana",
 			"data": [83, 74, 86, 78, 67, 90],
 			"image": "assets/img/countries/brasileiros/maracana.png"
+		},
+		{
+			"name": "Maranhão",
+			"identy": "maranhao",
+			"data": [89, 91, 89, 83, 84, 89],
+			"image": "assets/img/countries/brasileiros/maranhao.svg"
 		},
 		{
 			"name": "Marcílio Dias",
@@ -1628,7 +1664,7 @@
 			"name": "Portuguesa",
 			"identy": "portuguesa",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/countries/brasileiros/portuguesa.png"
+			"image": "assets/img/countries/brasileiros/portuguesa.svg"
 		},
 		{
 			"name": "Portuguesa-RJ",
@@ -1653,6 +1689,12 @@
 			"identy": "prospera",
 			"data": [83, 74, 86, 78, 67, 90],
 			"image": "assets/img/countries/brasileiros/prospera.png"
+		},
+		{
+			"name": "PSTC",
+			"identy": "pstc",
+			"data": [89, 91, 89, 83, 84, 89],
+			"image": "assets/img/countries/brasileiros/pstc.svg"
 		},
 		{
 			"name": "RB Bragantino",
@@ -1689,6 +1731,12 @@
 			"identy": "rio-branco-pr",
 			"data": [83, 74, 86, 78, 67, 90],
 			"image": "assets/img/countries/brasileiros/rio-branco-pr.png"
+		},
+		{
+			"name": "Ríver-PI",
+			"identy": "river-pi",
+			"data": [89, 91, 89, 83, 84, 89],
+			"image": "assets/img/countries/brasileiros/river-pi.svg"
 		},
 		{
 			"name": "Salgueiro",
@@ -1832,7 +1880,7 @@
 			"name": "Uberlândia",
 			"identy": "uberlandia",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/countries/brasileiros/uberlandia.png"
+			"image": "assets/img/countries/brasileiros/uberlandia.svg"
 		},
 		{
 			"name": "União Frederiquense",
@@ -1905,42 +1953,6 @@
 			"identy": "ypiranga",
 			"data": [83, 74, 86, 78, 67, 90],
 			"image": "assets/img/countries/brasileiros/ypiranga.svg"
-		},
-		{
-			"name": "Itabaiana",
-			"identy": "itabaiana",
-			"data": [89, 91, 89, 83, 84, 89],
-			"image": "assets/img/countries/brasileiros/itabaiana.svg"
-		},
-		{
-			"name": "Itabirito",
-			"identy": "itabirito",
-			"data": [89, 91, 89, 83, 84, 89],
-			"image": "assets/img/countries/brasileiros/itabirito.svg"
-		},
-		{
-			"name": "PSTC",
-			"identy": "pstc",
-			"data": [89, 91, 89, 83, 84, 89],
-			"image": "assets/img/countries/brasileiros/pstc.svg"
-		},
-		{
-			"name": "Ríver-PI",
-			"identy": "river-pi",
-			"data": [89, 91, 89, 83, 84, 89],
-			"image": "assets/img/countries/brasileiros/river-pi.svg"
-		},
-		{
-			"name": "Andraus",
-			"identy": "andraus",
-			"data": [89, 91, 89, 83, 84, 89],
-			"image": "assets/img/countries/brasileiros/andraus.svg"
-		},
-		{
-			"name": "Maranhão",
-			"identy": "maranhao",
-			"data": [89, 91, 89, 83, 84, 89],
-			"image": "assets/img/countries/brasileiros/maranhao.svg"
 		},
 		{
 			"name": "1860",
@@ -3515,6 +3527,12 @@
 			"image": "assets/img/countries/europeus/rubin-kazan.png"
 		},
 		{
+			"name": "Saarbrucken",
+			"identy": "saarbrucken",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/europeus/saarbrucken.svg"
+		},
+		{
 			"name": "Saint-Étienne",
 			"identy": "saint-etienne",
 			"data": [83, 74, 86, 78, 67, 90],
@@ -3789,6 +3807,12 @@
 			"identy": "udinese",
 			"data": [83, 74, 86, 78, 67, 90],
 			"image": "assets/img/countries/europeus/udinese.png"
+		},
+		{
+			"name": "União Leiria",
+			"identy": "uniao-leiria",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/europeus/uniao-leiria.png"
 		},
 		{
 			"name": "Union Berlin",
