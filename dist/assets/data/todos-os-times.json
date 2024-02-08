@@ -4019,6 +4019,24 @@
 			"image": "assets/img/countries/europeus/zurich.png"
 		},
 		{
+			"name": "Al-Hilal",
+			"identy": "al-hilal",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/countries/orientemedio-asia/al-hilal.svg"
+		},
+			{
+			"name": "Al-Ittihad",
+			"identy": "al-ittihad",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/countries/orientemedio-asia/al-ittihad.svg"
+		},
+			{
+			"name": "Al-Nassr",
+			"identy": "al-nassr",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/countries/orientemedio-asia/al-nassr.svg"
+		},
+		{
 			"name": "100 Logo",
 			"identy": "sem-logo",
 			"data": [86, 88, 81, 87, 78, 84],
