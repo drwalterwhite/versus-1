@@ -854,7 +854,7 @@
 			"name": "Audax-RJ",
 			"identy": "audax-rj",
 			"data": [85, 78, 71, 78, 82, 75],
-			"image": "assets/img/countries/brasileiros/audax-rj.png"
+			"image": "assets/img/countries/brasileiros/audax-rj.svg"
 		},
 		{
 			"name": "Avaí",
@@ -1010,7 +1010,7 @@
 			"name": "Caucaia",
 			"identy": "caucaia",
 			"data": [82, 86, 84, 78, 83, 86],
-			"image": "assets/img/countries/brasileiros/caucaia.png"
+			"image": "assets/img/countries/brasileiros/caucaia.svg"
 		},
 		{
 			"name": "Caxias",
@@ -1184,7 +1184,7 @@
 			"name": "Figueirense",
 			"identy": "figueirense",
 			"data": [89, 91, 89, 83, 84, 89],
-			"image": "assets/img/countries/brasileiros/figueirense.png"
+			"image": "assets/img/countries/brasileiros/figueirense.svg"
 		},
 		{
 			"name": "Flamengo",
@@ -1460,7 +1460,7 @@
 			"name": "Madureira",
 			"identy": "madureira",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/countries/brasileiros/madureira.png"
+			"image": "assets/img/countries/brasileiros/madureira.svg"
 		},
 		{
 			"name": "Maguary",
@@ -1550,7 +1550,7 @@
 			"name": "Nova Iguaçu",
 			"identy": "nova-iguacu",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/countries/brasileiros/nova-iguacu.png"
+			"image": "assets/img/countries/brasileiros/nova-iguacu.svg"
 		},
 		{
 			"name": "Nova Mutum",
