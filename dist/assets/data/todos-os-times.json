@@ -4019,6 +4019,12 @@
 			"image": "assets/img/countries/europeus/zurich.png"
 		},
 		{
+			"name": "Al-Fayha",
+			"identy": "al-fayha",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/countries/orientemedio-asia/al-fayha.png"
+		},
+		{
 			"name": "Al-Hilal",
 			"identy": "al-hilal",
 			"data": [86, 88, 81, 87, 78, 84],
