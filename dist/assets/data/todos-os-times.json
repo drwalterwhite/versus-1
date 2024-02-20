@@ -4048,11 +4048,17 @@
 			"data": [86, 88, 81, 87, 78, 84],
 			"image": "assets/img/countries/brasileiros/galo-maringa.svg"
 		},
-	{
+		{
 			"name": "Porto Velho",
 			"identy": "porto-velho",
 			"data": [86, 88, 81, 87, 78, 84],
 			"image": "assets/img/countries/brasileiros/porto-velho.png"
+		},
+		{
+			"name": "Portuguesa-VEN",
+			"identy": "portuguesa-ven",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/countries/brasileiros/portuguesa-ven.png"
 		},
 		{
 			"name": "100 Logo",
