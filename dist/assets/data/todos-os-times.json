@@ -4073,6 +4073,12 @@
 			"image": "assets/img/countries/sul-americanos/sportivo-trinidense.svg"
 		},
 		{
+			"name": "Penedense",
+			"identy": "penedense",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/countries/brasileiros/penedense.svg"
+		},
+		{
 			"name": "100 Logo",
 			"identy": "sem-logo",
 			"data": [86, 88, 81, 87, 78, 84],
