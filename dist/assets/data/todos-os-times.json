@@ -4079,6 +4079,18 @@
 			"image": "assets/img/countries/brasileiros/penedense.png"
 		},
 		{
+			"name": "Olaria",
+			"identy": "olaria",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/countries/brasileiros/olaria.svg"
+		},
+		{
+			"name": "Operário-MT",
+			"identy": "operario-mt",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/countries/brasileiros/operario-mt.svg"
+		},
+		{
 			"name": "100 Logo",
 			"identy": "sem-logo",
 			"data": [86, 88, 81, 87, 78, 84],
