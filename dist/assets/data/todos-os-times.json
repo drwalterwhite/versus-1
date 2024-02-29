@@ -4028,13 +4028,13 @@
 			"name": "Al-Hazm",
 			"identy": "al-hazm",
 			"data": [86, 88, 81, 87, 78, 84],
-			"image": "assets/img/countries/orientemedio-asia/al-hazm.svg"
+			"image": "assets/img/countries/orientemedio-asia/al-hazm.png"
 		},
 		{
 			"name": "Al-Hilal",
 			"identy": "al-hilal",
 			"data": [86, 88, 81, 87, 78, 84],
-			"image": "assets/img/countries/orientemedio-asia/al-hilal.png"
+			"image": "assets/img/countries/orientemedio-asia/al-hilal.svg"
 		},
 		{
 			"name": "Al-Ittihad",
