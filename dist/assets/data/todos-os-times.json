@@ -4025,12 +4025,18 @@
 			"image": "assets/img/countries/orientemedio-asia/al-fayha.png"
 		},
 		{
+			"name": "Al-Hazm",
+			"identy": "al-hazm",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/countries/orientemedio-asia/al-hazm.svg"
+		},
+		{
 			"name": "Al-Hilal",
 			"identy": "al-hilal",
 			"data": [86, 88, 81, 87, 78, 84],
 			"image": "assets/img/countries/orientemedio-asia/al-hilal.svg"
 		},
-			{
+		{
 			"name": "Al-Ittihad",
 			"identy": "al-ittihad",
 			"data": [86, 88, 81, 87, 78, 84],
@@ -4089,6 +4095,12 @@
 			"identy": "operario-mt",
 			"data": [86, 88, 81, 87, 78, 84],
 			"image": "assets/img/countries/brasileiros/operario-mt.svg"
+		},
+		{
+			"name": "Ji-Paraná",
+			"identy": "ji-parana",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/countries/brasileiros/ji-parana.png"
 		},
 		{
 			"name": "100 Logo",
