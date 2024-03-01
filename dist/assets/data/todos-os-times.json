@@ -4025,10 +4025,22 @@
 			"image": "assets/img/countries/orientemedio-asia/al-fayha.png"
 		},
 		{
+			"name": "Al-Fateh",
+			"identy": "al-fateh",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/countries/orientemedio-asia/al-fateh.png"
+		},
+		{
 			"name": "Al-Hazm",
 			"identy": "al-hazm",
 			"data": [86, 88, 81, 87, 78, 84],
 			"image": "assets/img/countries/orientemedio-asia/al-hazm.png"
+		},
+		{
+			"name": "Al-Ahli-Saudi",
+			"identy": "al-ahli-saudi",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/countries/orientemedio-asia/al-ahli-saudi.png"
 		},
 		{
 			"name": "Al-Hilal",
