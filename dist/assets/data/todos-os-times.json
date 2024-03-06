@@ -4115,6 +4115,12 @@
 			"image": "assets/img/countries/brasileiros/ji-parana.png"
 		},
 		{
+			"name": "Real Brasilia",
+			"identy": "real-brasilia",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/countries/brasileiros/real-brasilia.svg"
+		},
+		{
 			"name": "100 Logo",
 			"identy": "sem-logo",
 			"data": [86, 88, 81, 87, 78, 84],
