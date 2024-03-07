@@ -3395,6 +3395,12 @@
 			"image": "assets/img/countries/europeus/psv.png"
 		},
 		{
+			"name": "Qarabag",
+			"identy": "qarabag",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/countries/europeus/qarabag.png"
+		},
+		{
 			"name": "Queens Park Rangers",
 			"identy": "queens-park-rangers",
 			"data": [86, 88, 81, 87, 78, 84],
@@ -4059,6 +4065,12 @@
 			"identy": "al-nassr",
 			"data": [86, 88, 81, 87, 78, 84],
 			"image": "assets/img/countries/orientemedio-asia/al-nassr.png"
+		},
+		{
+			"name": "Al-Raed",
+			"identy": "al-raed",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/countries/orientemedio-asia/al-raed.png"
 		},
 		{
 			"name": "Galo Maringá",
