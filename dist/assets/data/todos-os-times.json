@@ -4025,6 +4025,12 @@
 			"image": "assets/img/countries/europeus/zurich.png"
 		},
 		{
+			"name": "Servette",
+			"identy": "servette",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/countries/europeus/servette.png"
+		},
+		{
 			"name": "Al-Fayha",
 			"identy": "al-fayha",
 			"data": [86, 88, 81, 87, 78, 84],
