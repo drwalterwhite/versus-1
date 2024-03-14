@@ -758,7 +758,7 @@
 			"name": "Amazonas",
 			"identy": "amazonas",
 			"data": [86, 88, 81, 87, 78, 84],
-			"image": "assets/img/countries/brasileiros/amazonas.png"
+			"image": "assets/img/countries/brasileiros/amazonas.svg"
 		},
 		{
 			"name": "Amazônia IFC",
@@ -1508,7 +1508,7 @@
 			"name": "Maringá",
 			"identy": "maringa",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/countries/brasileiros/maringa.png"
+			"image": "assets/img/countries/brasileiros/maringa.svg"
 		},
 		{
 			"name": "Metropolitano",
