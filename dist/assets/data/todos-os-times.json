@@ -4139,6 +4139,12 @@
 			"image": "assets/img/countries/brasileiros/real-brasilia.svg"
 		},
 		{
+			"name": "Jequié",
+			"identy": "jequie",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/countries/brasileiros/jequie.svg"
+		},
+		{
 			"name": "100 Logo",
 			"identy": "sem-logo",
 			"data": [86, 88, 81, 87, 78, 84],
