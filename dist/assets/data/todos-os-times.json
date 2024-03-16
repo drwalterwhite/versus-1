@@ -4079,6 +4079,12 @@
 			"image": "assets/img/countries/orientemedio-asia/al-raed.png"
 		},
 		{
+			"name": "Damac",
+			"identy": "damac",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/countries/orientemedio-asia/damac.png"
+		},
+		{
 			"name": "Galo Maringá",
 			"identy": "galo-maringa",
 			"data": [86, 88, 81, 87, 78, 84],
