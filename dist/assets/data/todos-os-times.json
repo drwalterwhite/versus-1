@@ -47,6 +47,12 @@
 			"image": "assets/img/countries/sul-americanos/alianza-lima.png"
 		},
 		{
+			"name": "Alianza Petrolera",
+			"identy": "alianza-petrolera",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/sul-americanos/alianza-petrolera.svg"
+		},
+		{
 			"name": "Always Ready",
 			"identy": "always-ready",
 			"data": [83, 74, 86, 78, 67, 90],
