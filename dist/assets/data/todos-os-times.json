@@ -2699,6 +2699,12 @@
 			"image": "assets/img/countries/europeus/fortuna-sittard.png"
 		},
 		{
+			"name": "Fortuna Düsseldorf",
+			"identy": "fortuna-dusseldorf",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/countries/europeus/fortuna-dusseldorf.png"
+		},
+		{
 			"name": "Freiburg",
 			"identy": "freiburg",
 			"data": [83, 74, 86, 78, 67, 90],
