@@ -200,7 +200,7 @@
 			"name": "Caracas",
 			"identy": "caracas",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/countries/sul-americanos/caracas.png"
+			"image": "assets/img/countries/sul-americanos/caracas.svg"
 		},
 		{
 			"name": "Central Córdoba",
@@ -464,7 +464,7 @@
 			"name": "Liverpool-URU",
 			"identy": "liverpool-uru",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/countries/sul-americanos/liverpool-uru.png"
+			"image": "assets/img/countries/sul-americanos/liverpool-uru.svg"
 		},
 		{
 			"name": "Magallanes",
@@ -4109,6 +4109,12 @@
 			"image": "assets/img/countries/brasileiros/galo-maringa.svg"
 		},
 		{
+			"name": "Deportivo Garcilaso",
+			"identy": "deportivo-garcilaso",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/countries/sul-americanos/deportivo-garcilaso.png"
+		},
+		{
 			"name": "Huachipato",
 			"identy": "huachipato",
 			"data": [86, 88, 81, 87, 78, 84],
@@ -4137,6 +4143,12 @@
 			"identy": "rayo-zuliano",
 			"data": [86, 88, 81, 87, 78, 84],
 			"image": "assets/img/countries/sul-americanos/rayo-zuliano.svg"
+		},
+		{
+			"name": "Sportivo Luqueño",
+			"identy": "sportivo-luqueno",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/countries/sul-americanos/sportivo-luqueno.png"
 		},
 		{
 			"name": "Sportivo Trinidense",
