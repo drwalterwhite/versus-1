@@ -4145,6 +4145,12 @@
 			"image": "assets/img/countries/sul-americanos/rayo-zuliano.svg"
 		},
 		{
+			"name": "Real Tomayapo",
+			"identy": "real-tomayapo",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/countries/sul-americanos/real-tomayapo.svg"
+		},
+		{
 			"name": "Sportivo Luqueño",
 			"identy": "sportivo-luqueno",
 			"data": [86, 88, 81, 87, 78, 84],
