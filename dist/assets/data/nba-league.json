@@ -26,181 +26,181 @@
 			"name": "Atlanta Hawks",
 			"identy": "atlanta-hawks",
 			"data": [88, 79, 88, 88, 91, 93],
-			"image": "assets/img/leagues/nba/atlanta-hawks_white.png"
+			"image": "assets/img/leagues/nba/atlanta-hawks_secondary.svg"
 		},
 		{
 			"name": "Boston Celtics",
 			"identy": "boston-celtics",
 			"data": [86, 88, 81, 87, 78, 84],
-			"image": "assets/img/leagues/nba/boston-celtics_white.png"
+			"image": "assets/img/leagues/nba/boston-celtics_secondary.svg"
 		},
 		{
 			"name": "Brooklyn Nets",
 			"identy": "brooklyn-nets",
 			"data": [89, 88, 89, 82, 87, 90],
-			"image": "assets/img/leagues/nba/brooklyn-nets_white.png"
+			"image": "assets/img/leagues/nba/brooklyn-nets_secondary.svg"
 		},
 		{
 			"name": "Charlotte Hornets",
 			"identy": "charlotte-hornets",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/nba/charlotte-hornets_white.png"
+			"image": "assets/img/leagues/nba/charlotte-hornets.svg"
 		},
 		{
 			"name": "Chicago Bulls",
 			"identy": "chicago-bulls",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/nba/chicago-bulls_white.png"
+			"image": "assets/img/leagues/nba/chicago-bulls.svg"
 		},
 		{
 			"name": "Cleveland Cavaliers",
 			"identy": "cleveland-cavaliers",
 			"data": [85, 78, 71, 78, 82, 75],
-			"image": "assets/img/leagues/nba/cleveland-cavaliers_white.png"
+			"image": "assets/img/leagues/nba/cleveland-cavaliers.svg"
 		},
 		{
 			"name": "Dallas Mavericks",
 			"identy": "dallas-mavericks",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/nba/dallas-mavericks_white.png"
+			"image": "assets/img/leagues/nba/dallas-mavericks.svg"
 		},
 		{
 			"name": "Denver Nuggets",
 			"identy": "denver-nuggets",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/nba/denver-nuggets_white.png"
+			"image": "assets/img/leagues/nba/denver-nuggets.png"
 		},
 		{
 			"name": "Detroit Pistons",
 			"identy": "detroit-pistons",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/nba/detroit-pistons_white.png"
+			"image": "assets/img/leagues/nba/detroit-pistons_secondary.svg"
 		},
 		{
 			"name": "Golden State Warriors",
 			"identy": "golden-state-warriors",
 			"data": [82, 86, 84, 78, 83, 86],
-			"image": "assets/img/leagues/nba/golden-state-warriors_white.png"
+			"image": "assets/img/leagues/nba/golden-state-warriors.png"
 		},
 		{
 			"name": "Houston Rockets",
 			"identy": "houston-rockets",
 			"data": [89, 89, 93, 89, 79, 93],
-			"image": "assets/img/leagues/nba/houston-rockets_white.png"
+			"image": "assets/img/leagues/nba/houston-rockets.svg"
 		},
 		{
 			"name": "Indiana Pacers",
 			"identy": "indiana-pacers",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/nba/indiana-pacers_white.png"
+			"image": "assets/img/leagues/nba/indiana-pacers.svg"
 		},
 		{
 			"name": "Los Angeles Clippers",
 			"identy": "los-angeles-clippers",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/nba/los-angeles-clippers_white.png"
+			"image": "assets/img/leagues/nba/los-angeles-clippers_secondary.svg"
 		},
 		{
 			"name": "Los Angeles Lakers",
 			"identy": "los-angeles-lakers",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/nba/los-angeles-lakers_white.png"
+			"image": "assets/img/leagues/nba/los-angeles-lakers.svg"
 		},
 		{
 			"name": "Memphis Grizzlies",
 			"identy": "memphis-grizzlies",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/nba/memphis-grizzlies_white.png"
+			"image": "assets/img/leagues/nba/memphis-grizzlies_secondary.svg"
 		},
 		{
 			"name": "Miami Heat",
 			"identy": "miami-heat",
 			"data": [89, 80, 94, 90, 87, 93],
-			"image": "assets/img/leagues/nba/miami-heat_white.png"
+			"image": "assets/img/leagues/nba/miami-heat.svg"
 		},
 		{
 			"name": "Milwaukee Bucks",
 			"identy": "milwaukee-bucks",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/nba/milwaukee-bucks_white.png"
+			"image": "assets/img/leagues/nba/milwaukee-bucks.svg"
 		},
 		{
 			"name": "Minnesota Timberwolves",
 			"identy": "minnesota-timberwolves",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/nba/minnesota-timberwolves_white.png"
+			"image": "assets/img/leagues/nba/minnesota-timberwolves_secondary.svg"
 		},
 		{
 			"name": "New Orleans Pelicans",
 			"identy": "new-orleans-pelicans",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/nba/new-orleans-pelicans_white.png"
+			"image": "assets/img/leagues/nba/new-orleans-pelicans.svg"
 		},
 		{
 			"name": "New York Knicks",
 			"identy": "new-york-knicks",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/nba/new-york-knicks_white.png"
+			"image": "assets/img/leagues/nba/new-york-knicks.svg"
 		},
 		{
 			"name": "Oklahoma City Thunder",
 			"identy": "oklahoma-city-thunder",
 			"data": [89, 91, 89, 83, 84, 89],
-			"image": "assets/img/leagues/nba/oklahoma-city-thunder_white.png"
+			"image": "assets/img/leagues/nba/oklahoma-city-thunder.svg"
 		},
 		{
 			"name": "Orlando Magic",
 			"identy": "orlando-magic",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/nba/orlando-magic_white.png"
+			"image": "assets/img/leagues/nba/orlando-magic.svg"
 		},
 		{
 			"name": "Philadelphia 76ers",
 			"identy": "philadelphia-76ers",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/nba/philadelphia-76ers_white.png"
+			"image": "assets/img/leagues/nba/philadelphia-76ers_secondary.svg"
 		},
 		{
 			"name": "Phoenix Suns",
 			"identy": "phoenix-suns",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/nba/phoenix-suns_white.png"
+			"image": "assets/img/leagues/nba/phoenix-suns.svg"
 		},
 		{
 			"name": "Portland Trail Blazers",
 			"identy": "portland-trail-blazers",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/nba/portland-trail-blazers_white.png"
+			"image": "assets/img/leagues/nba/portland-trail-blazers_secondary.svg"
 		},
 		{
 			"name": "Sacramento Kings",
 			"identy": "sacramento-kings",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/nba/sacramento-kings_white.png"
+			"image": "assets/img/leagues/nba/sacramento-kings.svg"
 		},
 		{
 			"name": "San Antonio Spurs",
 			"identy": "san-antonio-spurs",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/nba/san-antonio-spurs_white.png"
+			"image": "assets/img/leagues/nba/san-antonio-spurs.svg"
 		},
 		{
 			"name": "Toronto Raptors",
 			"identy": "toronto-raptors",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/nba/toronto-raptors_white.png"
+			"image": "assets/img/leagues/nba/toronto-raptors.svg"
 		},
 		{
 			"name": "Utah Jazz",
 			"identy": "utah-jazz",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/nba/utah-jazz_white.png"
+			"image": "assets/img/leagues/nba/utah-jazz.svg"
 		},
 		{
 			"name": "Washington Wizards",
 			"identy": "washington-wizards",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/nba/washington-wizards_white.png"
+			"image": "assets/img/leagues/nba/washington-wizards_secondary.svg"
 		}
 	]
 }
