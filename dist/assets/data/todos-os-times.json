@@ -239,6 +239,12 @@
 			"image": "assets/img/countries/sul-americanos/colon.png"
 		},
 		{
+			"name": "Coquimbo Unido",
+			"identy": "coquimbo-unido",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/countries/sul-americanos/coquimbo-unido.svg"
+		},
+		{
 			"name": "Córdoba",
 			"identy": "cordoba",
 			"data": [89, 88, 89, 82, 87, 90],
@@ -279,6 +285,12 @@
 			"identy": "deportivo-cali",
 			"data": [83, 74, 86, 78, 67, 90],
 			"image": "assets/img/countries/sul-americanos/deportivo-cali.png"
+		},
+		{
+			"name": "Deportivo Garcilaso",
+			"identy": "deportivo-garcilaso",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/countries/sul-americanos/deportivo-garcilaso.png"
 		},
 		{
 			"name": "Deportivo La Guaira",
@@ -375,6 +387,12 @@
 			"identy": "guarani-uru",
 			"data": [83, 74, 86, 78, 67, 90],
 			"image": "assets/img/countries/sul-americanos/guarani-uru.png"
+		},
+		{
+			"name": "Huachipato",
+			"identy": "huachipato",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/countries/sul-americanos/huachipato.png"
 		},
 		{
 			"name": "Huancayo",
@@ -569,6 +587,12 @@
 			"image": "assets/img/countries/sul-americanos/platense.png"
 		},
 		{
+			"name": "Portuguesa-VEN",
+			"identy": "portuguesa-ven",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/countries/sul-americanos/portuguesa-ven.png"
+		},
+		{
 			"name": "Puerto Cabello",
 			"identy": "puerto-cabello",
 			"data": [83, 74, 86, 78, 67, 90],
@@ -591,6 +615,18 @@
 			"identy": "racing-uru",
 			"data": [83, 74, 86, 78, 67, 90],
 			"image": "assets/img/countries/sul-americanos/racing-uru.svg"
+		},
+		{
+			"name": "Rayo Zuliano",
+			"identy": "rayo-zuliano",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/countries/sul-americanos/rayo-zuliano.svg"
+		},
+		{
+			"name": "Real Tomayapo",
+			"identy": "real-tomayapo",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/countries/sul-americanos/real-tomayapo.svg"
 		},
 		{
 			"name": "River Plate",
@@ -627,6 +663,18 @@
 			"identy": "sporting-cristal",
 			"data": [83, 74, 86, 78, 67, 90],
 			"image": "assets/img/countries/sul-americanos/sporting-cristal.svg"
+		},
+		{
+			"name": "Sportivo Luqueño",
+			"identy": "sportivo-luqueno",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/countries/sul-americanos/sportivo-luqueno.png"
+		},
+		{
+			"name": "Sportivo Trinidense",
+			"identy": "sportivo-trinidense",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/countries/sul-americanos/sportivo-trinidense.svg"
 		},
 		{
 			"name": "Tacuary",
@@ -1235,6 +1283,12 @@
 			"image": "assets/img/countries/brasileiros/foz-do-iguacu.png"
 		},
 		{
+			"name": "Galo Maringá",
+			"identy": "galo-maringa",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/countries/brasileiros/galo-maringa.svg"
+		},
+		{
 			"name": "Gavião Kyikatejê",
 			"identy": "gaviao-kyikateje",
 			"data": [83, 74, 86, 78, 67, 90],
@@ -1421,6 +1475,18 @@
 			"image": "assets/img/countries/brasileiros/jataiense.png"
 		},
 		{
+			"name": "Jequié",
+			"identy": "jequie",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/countries/brasileiros/jequie.svg"
+		},
+		{
+			"name": "Ji-Paraná",
+			"identy": "ji-parana",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/countries/brasileiros/ji-parana.png"
+		},
+		{
 			"name": "Joinville",
 			"identy": "joinville",
 			"data": [83, 74, 86, 78, 67, 90],
@@ -1595,6 +1661,12 @@
 			"image": "assets/img/countries/brasileiros/oeste.svg"
 		},
 		{
+			"name": "Olaria",
+			"identy": "olaria",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/countries/brasileiros/olaria.svg"
+		},
+		{
 			"name": "Operário",
 			"identy": "operario",
 			"data": [83, 74, 86, 78, 67, 90],
@@ -1605,6 +1677,12 @@
 			"identy": "operario-ms",
 			"data": [83, 74, 86, 78, 67, 90],
 			"image": "assets/img/countries/brasileiros/operario-ms.png"
+		},
+		{
+			"name": "Operário-MT",
+			"identy": "operario-mt",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/countries/brasileiros/operario-mt.svg"
 		},
 		{
 			"name": "Pacajus",
@@ -1649,6 +1727,12 @@
 			"image": "assets/img/countries/brasileiros/pelotas.png"
 		},
 		{
+			"name": "Penedense",
+			"identy": "penedense",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/countries/brasileiros/penedense.png"
+		},
+		{
 			"name": "Petrolina",
 			"identy": "petrolina",
 			"data": [83, 74, 86, 78, 67, 90],
@@ -1671,6 +1755,12 @@
 			"identy": "porto-pe",
 			"data": [83, 74, 86, 78, 67, 90],
 			"image": "assets/img/countries/brasileiros/porto-pe.png"
+		},
+		{
+			"name": "Porto Velho",
+			"identy": "porto-velho",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/countries/brasileiros/porto-velho.png"
 		},
 		{
 			"name": "Portuguesa",
@@ -1707,6 +1797,18 @@
 			"identy": "pstc",
 			"data": [89, 91, 89, 83, 84, 89],
 			"image": "assets/img/countries/brasileiros/pstc.svg"
+		},
+		{
+			"name": "Real Brasília",
+			"identy": "real-brasilia",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/countries/brasileiros/real-brasilia.svg"
+		},
+		{
+			"name": "Real Noroeste",
+			"identy": "real-noroeste",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/countries/brasileiros/real-noroeste.svg"
 		},
 		{
 			"name": "RB Bragantino",
@@ -2066,7 +2168,7 @@
 			"name": "Atalanta",
 			"identy": "atalanta",
 			"data": [86, 88, 81, 87, 78, 84],
-			"image": "assets/img/countries/europeus/atalanta.png"
+			"image": "assets/img/countries/europeus/atalanta.svg"
 		},
 		{
 			"name": "Athletic Bilbao",
@@ -2690,7 +2792,7 @@
 			"name": "Fiorentina",
 			"identy": "fiorentina",
 			"data": [89, 89, 93, 89, 79, 93],
-			"image": "assets/img/countries/europeus/fiorentina.png"
+			"image": "assets/img/countries/europeus/fiorentina.svg"
 		},
 		{
 			"name": "Fleetwood Town",
@@ -2990,7 +3092,7 @@
 			"name": "Lazio",
 			"identy": "lazio",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/countries/europeus/lazio.png"
+			"image": "assets/img/countries/europeus/lazio.svg"
 		},
 		{
 			"name": "Lecce",
@@ -3872,7 +3974,7 @@
 			"name": "Verona",
 			"identy": "verona",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/countries/europeus/verona.png"
+			"image": "assets/img/countries/europeus/verona.svg"
 		},
 		{
 			"name": "Viktoria Plzeň",
@@ -4101,108 +4203,6 @@
 			"identy": "damac",
 			"data": [86, 88, 81, 87, 78, 84],
 			"image": "assets/img/countries/orientemedio-asia/damac.png"
-		},
-		{
-			"name": "Galo Maringá",
-			"identy": "galo-maringa",
-			"data": [86, 88, 81, 87, 78, 84],
-			"image": "assets/img/countries/brasileiros/galo-maringa.svg"
-		},
-		{
-			"name": "Deportivo Garcilaso",
-			"identy": "deportivo-garcilaso",
-			"data": [86, 88, 81, 87, 78, 84],
-			"image": "assets/img/countries/sul-americanos/deportivo-garcilaso.png"
-		},
-		{
-			"name": "Huachipato",
-			"identy": "huachipato",
-			"data": [86, 88, 81, 87, 78, 84],
-			"image": "assets/img/countries/sul-americanos/huachipato.png"
-		},
-		{
-			"name": "Porto Velho",
-			"identy": "porto-velho",
-			"data": [86, 88, 81, 87, 78, 84],
-			"image": "assets/img/countries/brasileiros/porto-velho.png"
-		},
-		{
-			"name": "Portuguesa-VEN",
-			"identy": "portuguesa-ven",
-			"data": [86, 88, 81, 87, 78, 84],
-			"image": "assets/img/countries/sul-americanos/portuguesa-ven.png"
-		},
-		{
-			"name": "Real Noroeste",
-			"identy": "real-noroeste",
-			"data": [86, 88, 81, 87, 78, 84],
-			"image": "assets/img/countries/brasileiros/real-noroeste.svg"
-		},
-		{
-			"name": "Rayo Zuliano",
-			"identy": "rayo-zuliano",
-			"data": [86, 88, 81, 87, 78, 84],
-			"image": "assets/img/countries/sul-americanos/rayo-zuliano.svg"
-		},
-		{
-			"name": "Real Tomayapo",
-			"identy": "real-tomayapo",
-			"data": [86, 88, 81, 87, 78, 84],
-			"image": "assets/img/countries/sul-americanos/real-tomayapo.svg"
-		},
-		{
-			"name": "Sportivo Luqueño",
-			"identy": "sportivo-luqueno",
-			"data": [86, 88, 81, 87, 78, 84],
-			"image": "assets/img/countries/sul-americanos/sportivo-luqueno.png"
-		},
-		{
-			"name": "Sportivo Trinidense",
-			"identy": "sportivo-trinidense",
-			"data": [86, 88, 81, 87, 78, 84],
-			"image": "assets/img/countries/sul-americanos/sportivo-trinidense.svg"
-		},
-		{
-			"name": "Coquimbo Unido",
-			"identy": "coquimbo-unido",
-			"data": [86, 88, 81, 87, 78, 84],
-			"image": "assets/img/countries/sul-americanos/coquimbo-unido.svg"
-		},
-		{
-			"name": "Penedense",
-			"identy": "penedense",
-			"data": [86, 88, 81, 87, 78, 84],
-			"image": "assets/img/countries/brasileiros/penedense.png"
-		},
-		{
-			"name": "Olaria",
-			"identy": "olaria",
-			"data": [86, 88, 81, 87, 78, 84],
-			"image": "assets/img/countries/brasileiros/olaria.svg"
-		},
-		{
-			"name": "Operário-MT",
-			"identy": "operario-mt",
-			"data": [86, 88, 81, 87, 78, 84],
-			"image": "assets/img/countries/brasileiros/operario-mt.svg"
-		},
-		{
-			"name": "Ji-Paraná",
-			"identy": "ji-parana",
-			"data": [86, 88, 81, 87, 78, 84],
-			"image": "assets/img/countries/brasileiros/ji-parana.png"
-		},
-		{
-			"name": "Real Brasília",
-			"identy": "real-brasilia",
-			"data": [86, 88, 81, 87, 78, 84],
-			"image": "assets/img/countries/brasileiros/real-brasilia.svg"
-		},
-		{
-			"name": "Jequié",
-			"identy": "jequie",
-			"data": [86, 88, 81, 87, 78, 84],
-			"image": "assets/img/countries/brasileiros/jequie.svg"
 		},
 		{
 			"name": "100 Logo",
