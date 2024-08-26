@@ -3077,6 +3077,12 @@
 			"image": "assets/img/countries/europeus/khimki.png"
 		},
 		{
+			"name": "Koblenz",
+			"identy": "koblenz",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/countries/europeus/koblenz.png"
+		},
+		{
 			"name": "Krasnodar",
 			"identy": "krasnodar",
 			"data": [86, 88, 81, 87, 78, 84],
@@ -3339,6 +3345,12 @@
 			"identy": "moreirense",
 			"data": [86, 88, 81, 87, 78, 84],
 			"image": "assets/img/countries/europeus/moreirense.png"
+		},
+		{
+			"name": "Munster",
+			"identy": "munster",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/countries/europeus/munster.svg"
 		},
 		{
 			"name": "Nacional",
@@ -3777,6 +3789,12 @@
 			"identy": "slavia-praga",
 			"data": [86, 88, 81, 87, 78, 84],
 			"image": "assets/img/countries/europeus/slavia-praga.png"
+		},
+		{
+			"name": "Slovan Bratislava",
+			"identy": "slovan-bratislava",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/countries/europeus/slovan-bratislava.png"
 		},
 		{
 			"name": "Sochaux",
