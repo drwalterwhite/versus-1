@@ -4163,6 +4163,12 @@
 			"image": "assets/img/countries/europeus/servette.png"
 		},
 		{
+			"name": "Abha Club",
+			"identy": "abha-club",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/countries/orientemedio-asia/abha-club.svg"
+		},
+		{
 			"name": "Al-Ahli-Saudi",
 			"identy": "al-ahli-saudi",
 			"data": [86, 88, 81, 87, 78, 84],
@@ -4173,6 +4179,12 @@
 			"identy": "al-akhdoud",
 			"data": [86, 88, 81, 87, 78, 84],
 			"image": "assets/img/countries/orientemedio-asia/al-akhdoud.svg"
+		},
+		{
+			"name": "Al-Ettifaq",
+			"identy": "al-ettifaq",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/countries/orientemedio-asia/al-ettifaq.svg"
 		},
 		{
 			"name": "Al-Fayha",
@@ -4205,6 +4217,12 @@
 			"image": "assets/img/countries/orientemedio-asia/al-ittihad.svg"
 		},
 		{
+			"name": "Al-Khaleej",
+			"identy": "al-khaleej",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/countries/orientemedio-asia/al-khaleej.svg"
+		},
+		{
 			"name": "Al-Kholood",
 			"identy": "al-kholood",
 			"data": [86, 88, 81, 87, 78, 84],
@@ -4235,11 +4253,29 @@
 			"image": "assets/img/countries/orientemedio-asia/al-raed.png"
 		},
 		{
+			"name": "Al-Riyadh",
+			"identy": "al-riyadh",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/countries/orientemedio-asia/al-riyadh.svg"
+		},
+		{
 			"name": "Al-Shabab",
 			"identy": "al-shabab",
 			"data": [86, 88, 81, 87, 78, 84],
 			"image": "assets/img/countries/orientemedio-asia/al-shabab.svg"
-		},		
+		},
+		{
+			"name": "Al-Taawoun",
+			"identy": "al-taawoun",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/countries/orientemedio-asia/al-taawoun.svg"
+		},
+		{
+			"name": "Al-Wehda",
+			"identy": "al-wehda",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/countries/orientemedio-asia/al-wehda.svg"
+		},
 		{
 			"name": "Damac",
 			"identy": "damac",
