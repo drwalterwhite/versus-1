@@ -2747,6 +2747,12 @@
 			"image": "assets/img/countries/europeus/estoril.png"
 		},
 		{
+			"name": "Estrela Amadora",
+			"identy": "estrela-amadora",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/countries/europeus/estrela-amadora.png"
+		},
+		{
 			"name": "Estrela Vermelha",
 			"identy": "estrela-vermelha",
 			"data": [86, 88, 81, 87, 78, 84],
@@ -3098,7 +3104,7 @@
 			"name": "Lazio",
 			"identy": "lazio",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/countries/europeus/lazio.svg"
+			"image": "assets/img/countries/europeus/lazio.png"
 		},
 		{
 			"name": "Lecce",
