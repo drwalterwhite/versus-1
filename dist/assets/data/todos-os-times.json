@@ -3053,6 +3053,12 @@
 			"image": "assets/img/countries/europeus/ipswich-town.png"
 		},
 		{
+			"name": "Jena",
+			"identy": "jena",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/europeus/jena.png"
+		},
+		{
 			"name": "Juventus",
 			"identy": "juventus",
 			"data": [83, 74, 86, 78, 67, 90],
