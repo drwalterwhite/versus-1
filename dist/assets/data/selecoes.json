@@ -23,6 +23,84 @@
 	],
 	"players": [
 		{
+			"name": "Argentina",
+			"identy": "argentina",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/selecoes/argentina.png"
+		},
+		{
+			"name": "Bolívia",
+			"identy": "bolivia",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/selecoes/bolivia.png"
+		},
+		{
+			"name": "Brasil",
+			"identy": "brasil",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/selecoes/brasil.png"
+		},
+		{
+			"name": "Chile",
+			"identy": "chile",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/selecoes/chile.png"
+		},
+		{
+			"name": "Colômbia",
+			"identy": "colombia",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/selecoes/colombia.png"
+		},
+		{
+			"name": "Equador",
+			"identy": "equador",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/selecoes/equador.png"
+		},
+		{
+			"name": "Paraguai",
+			"identy": "paraguai",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/selecoes/paraguai.svg"
+		},
+		{
+			"name": "Peru",
+			"identy": "peru",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/selecoes/peru.svg"
+		},
+		{
+			"name": "Uruguai",
+			"identy": "uruguai",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/selecoes/uruguai.png"
+		},
+		{
+			"name": "Venezuela",
+			"identy": "venezuela",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/selecoes/venezuela.svg"
+		},
+		{
+			"name": "Canadá",
+			"identy": "canada",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/selecoes/canada.png"
+		},
+		{
+			"name": "Estados Unidos",
+			"identy": "estados-unidos",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/selecoes/estados-unidos.svg"
+		},
+		{
+			"name": "México",
+			"identy": "mexico",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/selecoes/mexico.png"
+		},
+		{
 			"name": "Alemanha",
 			"identy": "alemanha",
 			"data": [83, 74, 86, 78, 67, 90],
@@ -35,34 +113,16 @@
 			"image": "assets/img/leagues/selecoes/arabia-saudita.png"
 		},
 		{
-			"name": "Argentina",
-			"identy": "argentina",
-			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/selecoes/argentina.png"
-		},
-		{
 			"name": "Bélgica",
 			"identy": "belgica",
 			"data": [83, 74, 86, 78, 67, 90],
 			"image": "assets/img/leagues/selecoes/belgica.png"
 		},
 		{
-			"name": "Brasil",
-			"identy": "brasil",
-			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/selecoes/brasil.png"
-		},
-		{
 			"name": "Camarões",
 			"identy": "camaroes",
 			"data": [83, 74, 86, 78, 67, 90],
 			"image": "assets/img/leagues/selecoes/camaroes.png"
-		},
-		{
-			"name": "Canadá",
-			"identy": "canada",
-			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/selecoes/canada.png"
 		},
 		{
 			"name": "Catar",
@@ -89,22 +149,10 @@
 			"image": "assets/img/leagues/selecoes/dinamarca.png"
 		},
 		{
-			"name": "Equador",
-			"identy": "equador",
-			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/selecoes/equador.png"
-		},
-		{
 			"name": "Espanha",
 			"identy": "espanha",
 			"data": [83, 74, 86, 78, 67, 90],
 			"image": "assets/img/leagues/selecoes/espanha.png"
-		},
-		{
-			"name": "Estados Unidos",
-			"identy": "estados-unidos",
-			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/selecoes/estados-unidos.svg"
 		},
 		{
 			"name": "França",
@@ -149,12 +197,6 @@
 			"image": "assets/img/leagues/selecoes/marrocos.png"
 		},
 		{
-			"name": "México",
-			"identy": "mexico",
-			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/selecoes/mexico.png"
-		},
-		{
 			"name": "Polônia",
 			"identy": "polonia",
 			"data": [83, 74, 86, 78, 67, 90],
@@ -189,12 +231,6 @@
 			"identy": "tunisia",
 			"data": [83, 74, 86, 78, 67, 90],
 			"image": "assets/img/leagues/selecoes/tunisia.png"
-		},
-		{
-			"name": "Uruguai",
-			"identy": "uruguai",
-			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/selecoes/uruguai.png"
-		}		
+		}
 	]
 }
