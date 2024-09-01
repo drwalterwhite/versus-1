@@ -104,13 +104,13 @@
 			"name": "Estados Unidos",
 			"identy": "estados-unidos",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/selecoes/estados-unidos.png"
+			"image": "assets/img/leagues/selecoes/estados-unidos.svg"
 		},
 		{
 			"name": "França",
 			"identy": "franca",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/selecoes/franca.png"
+			"image": "assets/img/leagues/selecoes/franca.svg"
 		},
 		{
 			"name": "Gana",
@@ -122,13 +122,13 @@
 			"name": "Holanda",
 			"identy": "holanda",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/selecoes/holanda.png"
+			"image": "assets/img/leagues/selecoes/holanda.svg"
 		},
 		{
 			"name": "Inglaterra",
 			"identy": "inglaterra",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/selecoes/inglaterra.png"
+			"image": "assets/img/leagues/selecoes/inglaterra.svg"
 		},
 		{
 			"name": "Irã",
@@ -158,13 +158,13 @@
 			"name": "Polônia",
 			"identy": "polonia",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/selecoes/polonia.png"
+			"image": "assets/img/leagues/selecoes/polonia.svg"
 		},
 		{
 			"name": "Portugal",
 			"identy": "portugal",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/selecoes/portugal.png"
+			"image": "assets/img/leagues/selecoes/portugal.svg"
 		},
 		{
 			"name": "Senegal",
@@ -176,7 +176,7 @@
 			"name": "Sérvia",
 			"identy": "servia",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/selecoes/servia.png"
+			"image": "assets/img/leagues/selecoes/servia.svg"
 		},
 		{
 			"name": "Suiça",
