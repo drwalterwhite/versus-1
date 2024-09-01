@@ -86,7 +86,7 @@
 			"name": "Canadá",
 			"identy": "canada",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/selecoes/canada.png"
+			"image": "assets/img/leagues/selecoes/canada.svg"
 		},
 		{
 			"name": "Estados Unidos",
@@ -98,7 +98,7 @@
 			"name": "México",
 			"identy": "mexico",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/selecoes/mexico.png"
+			"image": "assets/img/leagues/selecoes/mexico.svg"
 		},
 		{
 			"name": "Alemanha",
@@ -107,34 +107,10 @@
 			"image": "assets/img/leagues/selecoes/alemanha.png"
 		},
 		{
-			"name": "Arábia Saudita",
-			"identy": "arabia-saudita",
-			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/selecoes/arabia-saudita.png"
-		},
-		{
 			"name": "Bélgica",
 			"identy": "belgica",
 			"data": [83, 74, 86, 78, 67, 90],
 			"image": "assets/img/leagues/selecoes/belgica.png"
-		},
-		{
-			"name": "Camarões",
-			"identy": "camaroes",
-			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/selecoes/camaroes.png"
-		},
-		{
-			"name": "Catar",
-			"identy": "catar",
-			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/selecoes/catar.png"
-		},
-		{
-			"name": "Coreia do Sul",
-			"identy": "coreia-do-sul",
-			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/selecoes/coreia-do-sul.png"
 		},
 		{
 			"name": "Croácia",
@@ -161,12 +137,6 @@
 			"image": "assets/img/leagues/selecoes/franca.svg"
 		},
 		{
-			"name": "Gana",
-			"identy": "gana",
-			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/selecoes/gana.png"
-		},
-		{
 			"name": "Holanda",
 			"identy": "holanda",
 			"data": [83, 74, 86, 78, 67, 90],
@@ -179,24 +149,6 @@
 			"image": "assets/img/leagues/selecoes/inglaterra.svg"
 		},
 		{
-			"name": "Irã",
-			"identy": "ira",
-			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/selecoes/ira.png"
-		},
-		{
-			"name": "Japão",
-			"identy": "japao",
-			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/selecoes/japao.png"
-		},
-		{
-			"name": "Marrocos",
-			"identy": "marrocos",
-			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/selecoes/marrocos.png"
-		},
-		{
 			"name": "Polônia",
 			"identy": "polonia",
 			"data": [83, 74, 86, 78, 67, 90],
@@ -207,12 +159,6 @@
 			"identy": "portugal",
 			"data": [83, 74, 86, 78, 67, 90],
 			"image": "assets/img/leagues/selecoes/portugal.svg"
-		},
-		{
-			"name": "Senegal",
-			"identy": "senegal",
-			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/selecoes/senegal.png"
 		},
 		{
 			"name": "Sérvia",
@@ -231,6 +177,54 @@
 			"identy": "tunisia",
 			"data": [83, 74, 86, 78, 67, 90],
 			"image": "assets/img/leagues/selecoes/tunisia.png"
+		}
+		{
+			"name": "Camarões",
+			"identy": "camaroes",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/selecoes/camaroes.png"
+		},
+		{
+			"name": "Gana",
+			"identy": "gana",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/selecoes/gana.png"
+		},
+		{
+			"name": "Marrocos",
+			"identy": "marrocos",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/selecoes/marrocos.png"
+		},
+		{
+			"name": "Senegal",
+			"identy": "senegal",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/selecoes/senegal.png"
+		},
+		{
+			"name": "Arábia Saudita",
+			"identy": "arabia-saudita",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/selecoes/arabia-saudita.png"
+		},
+		{
+			"name": "Catar",
+			"identy": "catar",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/selecoes/catar.png"
+		},
+		{
+			"name": "Coreia do Sul",
+			"identy": "coreia-do-sul",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/selecoes/coreia-do-sul.png"
+		},
+		{
+			"name": "Japão",
+			"identy": "japao",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/selecoes/japao.png"
 		}
 	]
 }
