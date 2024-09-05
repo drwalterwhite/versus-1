@@ -128,7 +128,7 @@
 			"name": "Azerbaijao",
 			"identy": "azerbaijao",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/selecoes/euro/azerbaijao.svg"
+			"image": "assets/img/leagues/selecoes/euro/azerbaijao.png"
 		},
 		{
 			"name": "Bielorussia",
@@ -380,13 +380,13 @@
 			"name": "Escocia",
 			"identy": "escocia",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/selecoes/euro/escocia.svg"
+			"image": "assets/img/leagues/selecoes/euro/escocia.png"
 		},
 		{
 			"name": "Servia",
 			"identy": "servia",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/selecoes/euro/servia.svg"
+			"image": "assets/img/leagues/selecoes/euro/servia.png"
 		},
 		{
 			"name": "Eslovaquia",
@@ -404,19 +404,19 @@
 			"name": "Espanha",
 			"identy": "espanha",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/selecoes/euro/espanha.svg"
+			"image": "assets/img/leagues/selecoes/euro/espanha.png"
 		},
 		{
 			"name": "Suecia",
 			"identy": "suecia",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/selecoes/euro/suecia.svg"
+			"image": "assets/img/leagues/selecoes/euro/suecia.png"
 		},
 		{
 			"name": "Suica",
 			"identy": "suica",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/selecoes/euro/suica.svg"
+			"image": "assets/img/leagues/selecoes/euro/suica.png"
 		},
 		{
 			"name": "Turquia",
