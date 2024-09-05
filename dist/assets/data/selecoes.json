@@ -101,124 +101,10 @@
 			"image": "assets/img/leagues/selecoes/mexico.svg"
 		},
 		{
-			"name": "Albania",
+			"name": "Albânia",
 			"identy": "albania",
 			"data": [83, 74, 86, 78, 67, 90],
 			"image": "assets/img/leagues/selecoes/euro/albania.svg"
-		},
-		{
-			"name": "Andorra",
-			"identy": "andorra",
-			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/selecoes/euro/andorra.svg"
-		},
-		{
-			"name": "Armenia",
-			"identy": "armenia",
-			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/selecoes/euro/armenia.svg"
-		},
-		{
-			"name": "Austria",
-			"identy": "austria",
-			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/selecoes/euro/austria.svg"
-		},
-		{
-			"name": "Azerbaijao",
-			"identy": "azerbaijao",
-			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/selecoes/euro/azerbaijao.png"
-		},
-		{
-			"name": "Bielorussia",
-			"identy": "bielorussia",
-			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/selecoes/euro/bielorussia.svg"
-		},
-		{
-			"name": "Belgica",
-			"identy": "belgica",
-			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/selecoes/euro/belgica.svg"
-		},
-		{
-			"name": "Bosnia",
-			"identy": "bosnia",
-			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/selecoes/euro/bosnia.svg"
-		},
-		{
-			"name": "Bulgaria",
-			"identy": "bulgaria",
-			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/selecoes/euro/bulgaria.svg"
-		},
-		{
-			"name": "Portugal",
-			"identy": "portugal",
-			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/selecoes/euro/portugal.png"
-		},
-		{
-			"name": "Croacia",
-			"identy": "croacia",
-			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/selecoes/euro/croacia.png"
-		},
-		{
-			"name": "Chipre",
-			"identy": "chipre",
-			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/selecoes/euro/chipre.svg"
-		},
-		{
-			"name": "Republica Tcheca",
-			"identy": "republica-tcheca",
-			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/selecoes/euro/republica-tcheca.svg"
-		},
-		{
-			"name": "Dinamarca",
-			"identy": "dinamarca",
-			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/selecoes/euro/dinamarca.svg"
-		},
-		{
-			"name": "Inglaterra",
-			"identy": "inglaterra",
-			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/selecoes/euro/inglaterra.svg"
-		},
-		{
-			"name": "Estonia",
-			"identy": "estonia",
-			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/selecoes/euro/estonia.svg"
-		},
-		{
-			"name": "Ilhas Faroe",
-			"identy": "ilhas-faroe",
-			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/selecoes/euro/ilhas-faroe.svg"
-		},
-		{
-			"name": "Finlandia",
-			"identy": "finlandia",
-			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/selecoes/euro/finlandia.svg"
-		},
-		{
-			"name": "Franca",
-			"identy": "franca",
-			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/selecoes/euro/franca.svg"
-		},
-		{
-			"name": "Georgia",
-			"identy": "georgia",
-			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/selecoes/euro/georgia.svg"
 		},
 		{
 			"name": "Alemanha",
@@ -227,175 +113,91 @@
 			"image": "assets/img/leagues/selecoes/euro/alemanha.svg"
 		},
 		{
-			"name": "Gibraltar",
-			"identy": "gibraltar",
+			"name": "Andorra",
+			"identy": "andorra",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/selecoes/euro/gibraltar.svg"
+			"image": "assets/img/leagues/selecoes/euro/andorra.svg"
 		},
 		{
-			"name": "Grecia",
-			"identy": "grecia",
+			"name": "Armênia",
+			"identy": "armenia",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/selecoes/euro/grecia.svg"
+			"image": "assets/img/leagues/selecoes/euro/armenia.svg"
 		},
 		{
-			"name": "Hungria",
-			"identy": "hungria",
+			"name": "Áustria",
+			"identy": "austria",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/selecoes/euro/hungria.svg"
+			"image": "assets/img/leagues/selecoes/euro/austria.svg"
 		},
 		{
-			"name": "Islandia",
-			"identy": "islandia",
+			"name": "Azerbaijão",
+			"identy": "azerbaijao",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/selecoes/euro/islandia.svg"
+			"image": "assets/img/leagues/selecoes/euro/azerbaijao.png"
 		},
 		{
-			"name": "Israel",
-			"identy": "israel",
+			"name": "Bélgica",
+			"identy": "belgica",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/selecoes/euro/israel.svg"
+			"image": "assets/img/leagues/selecoes/euro/belgica.svg"
 		},
 		{
-			"name": "Italia",
-			"identy": "italia",
+			"name": "Bielorrússia",
+			"identy": "bielorussia",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/selecoes/euro/italia.svg"
+			"image": "assets/img/leagues/selecoes/euro/bielorussia.svg"
 		},
 		{
-			"name": "Kazaquistao",
-			"identy": "kazaquistao",
+			"name": "Bósnia e Herzegovina",
+			"identy": "bosnia-e-herzegovina",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/selecoes/euro/kazaquistao.svg"
+			"image": "assets/img/leagues/selecoes/euro/bosnia-e-herzegovina.svg"
 		},
 		{
-			"name": "Kozovo",
-			"identy": "kozovo",
+			"name": "Bulgária",
+			"identy": "bulgaria",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/selecoes/euro/kozovo.svg"
+			"image": "assets/img/leagues/selecoes/euro/bulgaria.svg"
 		},
 		{
-			"name": "Letonia",
-			"identy": "letonia",
+			"name": "Cazaquistão",
+			"identy": "cazaquistao",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/selecoes/euro/letonia.svg"
+			"image": "assets/img/leagues/selecoes/euro/cazaquistao.svg"
 		},
 		{
-			"name": "Liechtenstein",
-			"identy": "liechtenstein",
+			"name": "Chipre",
+			"identy": "chipre",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/selecoes/euro/liechtenstein.svg"
+			"image": "assets/img/leagues/selecoes/euro/chipre.svg"
 		},
 		{
-			"name": "Lituania",
-			"identy": "lituania",
+			"name": "Croácia",
+			"identy": "croacia",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/selecoes/euro/lituania.svg"
+			"image": "assets/img/leagues/selecoes/euro/croacia.png"
 		},
 		{
-			"name": "Luxemburgo",
-			"identy": "luxemburgo",
+			"name": "Dinamarca",
+			"identy": "dinamarca",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/selecoes/euro/luxemburgo.svg"
+			"image": "assets/img/leagues/selecoes/euro/dinamarca.svg"
 		},
 		{
-			"name": "Malta",
-			"identy": "malta",
-			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/selecoes/euro/malta.svg"
-		},
-		{
-			"name": "Moldavia",
-			"identy": "moldavia",
-			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/selecoes/euro/moldavia.svg"
-		},
-		{
-			"name": "Montenegro",
-			"identy": "montenegro",
-			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/selecoes/euro/montenegro.svg"
-		},
-		{
-			"name": "Holanda",
-			"identy": "holanda",
-			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/selecoes/euro/holanda.svg"
-		},
-		{
-			"name": "Macedonia",
-			"identy": "macedonia",
-			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/selecoes/euro/macedonia.svg"
-		},
-		{
-			"name": "Irlanda do Norte",
-			"identy": "irlanda-do-norte",
-			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/selecoes/euro/irlanda-do-norte.svg"
-		},
-		{
-			"name": "Noruega",
-			"identy": "noruega",
-			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/selecoes/euro/noruega.svg"
-		},
-		{
-			"name": "Polonia",
-			"identy": "polonia",
-			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/selecoes/euro/polonia.png"
-		},
-		{
-			"name": "Portugal",
-			"identy": "portugal",
-			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/selecoes/euro/portugal.svg"
-		},
-		{
-			"name": "Irlanda",
-			"identy": "irlanda",
-			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/selecoes/euro/irlanda.svg"
-		},
-		{
-			"name": "Romenia",
-			"identy": "romenia",
-			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/selecoes/euro/romenia.svg"
-		},
-		{
-			"name": "Russia",
-			"identy": "russia",
-			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/selecoes/euro/russia.svg"
-		},
-		{
-			"name": "San Marino",
-			"identy": "san-marino",
-			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/selecoes/euro/san-marino.svg"
-		},
-		{
-			"name": "Escocia",
+			"name": "Escócia",
 			"identy": "escocia",
 			"data": [83, 74, 86, 78, 67, 90],
 			"image": "assets/img/leagues/selecoes/euro/escocia.png"
 		},
 		{
-			"name": "Servia",
-			"identy": "servia",
-			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/selecoes/euro/servia.png"
-		},
-		{
-			"name": "Eslovaquia",
+			"name": "Eslováquia",
 			"identy": "eslovaquia",
 			"data": [83, 74, 86, 78, 67, 90],
 			"image": "assets/img/leagues/selecoes/euro/eslovaquia.svg"
 		},
 		{
-			"name": "Eslovenia",
+			"name": "Eslovênia",
 			"identy": "eslovenia",
 			"data": [83, 74, 86, 78, 67, 90],
 			"image": "assets/img/leagues/selecoes/euro/eslovenia.svg"
@@ -407,13 +209,211 @@
 			"image": "assets/img/leagues/selecoes/euro/espanha.png"
 		},
 		{
-			"name": "Suecia",
+			"name": "Estônia",
+			"identy": "estonia",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/selecoes/euro/estonia.svg"
+		},
+		{
+			"name": "Finlândia",
+			"identy": "finlandia",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/selecoes/euro/finlandia.svg"
+		},
+		{
+			"name": "França",
+			"identy": "franca",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/selecoes/euro/franca.svg"
+		},
+		{
+			"name": "Geórgia",
+			"identy": "georgia",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/selecoes/euro/georgia.svg"
+		},
+		{
+			"name": "Gibraltar",
+			"identy": "gibraltar",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/selecoes/euro/gibraltar.svg"
+		},
+		{
+			"name": "Grécia",
+			"identy": "grecia",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/selecoes/euro/grecia.svg"
+		},
+		{
+			"name": "Holanda",
+			"identy": "holanda",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/selecoes/euro/holanda.svg"
+		},
+		{
+			"name": "Hungria",
+			"identy": "hungria",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/selecoes/euro/hungria.svg"
+		},
+		{
+			"name": "Ilhas Faroe",
+			"identy": "ilhas-faroe",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/selecoes/euro/ilhas-faroe.svg"
+		},
+		{
+			"name": "Inglaterra",
+			"identy": "inglaterra",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/selecoes/euro/inglaterra.svg"
+		},
+		{
+			"name": "Irlanda do Norte",
+			"identy": "irlanda-do-norte",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/selecoes/euro/irlanda-do-norte.svg"
+		},
+		{
+			"name": "Irlanda",
+			"identy": "irlanda",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/selecoes/euro/irlanda.svg"
+		},
+		{
+			"name": "Islândia",
+			"identy": "islandia",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/selecoes/euro/islandia.svg"
+		},
+		{
+			"name": "Israel",
+			"identy": "israel",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/selecoes/euro/israel.svg"
+		},
+		{
+			"name": "Itália",
+			"identy": "italia",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/selecoes/euro/italia.svg"
+		},
+		{
+			"name": "Kosovo",
+			"identy": "Kosovo",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/selecoes/euro/Kosovo.svg"
+		},
+		{
+			"name": "Letônia",
+			"identy": "letonia",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/selecoes/euro/letonia.svg"
+		},
+		{
+			"name": "Liechtenstein",
+			"identy": "liechtenstein",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/selecoes/euro/liechtenstein.svg"
+		},
+		{
+			"name": "Lituânia",
+			"identy": "lituania",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/selecoes/euro/lituania.svg"
+		},
+		{
+			"name": "Luxemburgo",
+			"identy": "luxemburgo",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/selecoes/euro/luxemburgo.svg"
+		},
+		{
+			"name": "Macedônia do Norte",
+			"identy": "macedonia-do-norte",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/selecoes/euro/macedonia-do-norte.svg"
+		},
+		{
+			"name": "Malta",
+			"identy": "malta",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/selecoes/euro/malta.svg"
+		},
+		{
+			"name": "Moldávia",
+			"identy": "moldavia",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/selecoes/euro/moldavia.svg"
+		},
+		{
+			"name": "Montenegro",
+			"identy": "montenegro",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/selecoes/euro/montenegro.svg"
+		},
+		{
+			"name": "Noruega",
+			"identy": "noruega",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/selecoes/euro/noruega.svg"
+		},
+		{
+			"name": "País de Gales",
+			"identy": "pais-de-gales",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/selecoes/euro/pais-de-gales.svg"
+		},
+		{
+			"name": "Polônia",
+			"identy": "polonia",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/selecoes/euro/polonia.png"
+		},		
+		{
+			"name": "Portugal",
+			"identy": "portugal",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/selecoes/euro/portugal.png"
+		},
+		{
+			"name": "República Tcheca",
+			"identy": "republica-tcheca",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/selecoes/euro/republica-tcheca.svg"
+		},
+		{
+			"name": "Romênia",
+			"identy": "romenia",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/selecoes/euro/romenia.svg"
+		},
+		{
+			"name": "Rússia",
+			"identy": "russia",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/selecoes/euro/russia.svg"
+		},
+		{
+			"name": "San Marino",
+			"identy": "san-marino",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/selecoes/euro/san-marino.svg"
+		},
+		{
+			"name": "Sérvia",
+			"identy": "servia",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/leagues/selecoes/euro/servia.png"
+		},
+		{
+			"name": "Suécia",
 			"identy": "suecia",
 			"data": [83, 74, 86, 78, 67, 90],
 			"image": "assets/img/leagues/selecoes/euro/suecia.png"
 		},
 		{
-			"name": "Suica",
+			"name": "Suíça",
 			"identy": "suica",
 			"data": [83, 74, 86, 78, 67, 90],
 			"image": "assets/img/leagues/selecoes/euro/suica.png"
@@ -425,17 +425,11 @@
 			"image": "assets/img/leagues/selecoes/euro/turquia.svg"
 		},
 		{
-			"name": "Ucrania",
+			"name": "Ucrânia",
 			"identy": "ucrania",
 			"data": [83, 74, 86, 78, 67, 90],
 			"image": "assets/img/leagues/selecoes/euro/ucrania.svg"
 		},
-		{
-			"name": "Pais de Gales",
-			"identy": "pais-de-gales",
-			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/selecoes/euro/pais-de-gales.svg"
-		},		
 		{
 			"name": "Camarões",
 			"identy": "camaroes",
