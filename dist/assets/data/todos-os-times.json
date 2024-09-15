@@ -4289,6 +4289,12 @@
 			"image": "assets/img/countries/orientemedio-asia/al-shabab.svg"
 		},
 		{
+			"name": "Al-Shorta",
+			"identy": "al-shorta",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/countries/orientemedio-asia/al-shorta.svg"
+		},
+		{
 			"name": "Al-Taawoun",
 			"identy": "al-taawoun",
 			"data": [86, 88, 81, 87, 78, 84],
