@@ -4313,6 +4313,12 @@
 			"image": "assets/img/countries/orientemedio-asia/damac.png"
 		},
 		{
+			"name": "Persepolis",
+			"identy": "persepolis",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/countries/orientemedio-asia/persepolis.svg"
+		},
+		{
 			"name": "100 Logo",
 			"identy": "sem-logo",
 			"data": [86, 88, 81, 87, 78, 84],
