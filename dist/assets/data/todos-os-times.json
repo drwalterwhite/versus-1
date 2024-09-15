@@ -4223,6 +4223,12 @@
 			"image": "assets/img/countries/orientemedio-asia/al-fateh.png"
 		},
 		{
+			"name": "Al-Gharafa",
+			"identy": "al-gharafa",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/countries/orientemedio-asia/al-gharafa.svg"
+		},
+		{
 			"name": "Al-Hazm",
 			"identy": "al-hazm",
 			"data": [86, 88, 81, 87, 78, 84],
@@ -4277,10 +4283,22 @@
 			"image": "assets/img/countries/orientemedio-asia/al-raed.png"
 		},
 		{
+			"name": "Al-Rayyan",
+			"identy": "al-rayyan",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/countries/orientemedio-asia/al-rayyan.svg"
+		},
+		{
 			"name": "Al-Riyadh",
 			"identy": "al-riyadh",
 			"data": [86, 88, 81, 87, 78, 84],
 			"image": "assets/img/countries/orientemedio-asia/al-riyadh.png"
+		},
+		{
+			"name": "Al-Sadd",
+			"identy": "al-sadd",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/countries/orientemedio-asia/al-sadd.svg"
 		},
 		{
 			"name": "Al-Shabab",
@@ -4307,16 +4325,64 @@
 			"image": "assets/img/countries/orientemedio-asia/al-wehda.svg"
 		},
 		{
+			"name": "Buriram United",
+			"identy": "buriram-united",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/countries/orientemedio-asia/buriram-united.svg"
+		},
+		{
+			"name": "Central Coast Mariners",
+			"identy": "central-coast-mariners",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/countries/orientemedio-asia/central-coast-mariners.svg"
+		},
+		{
 			"name": "Damac",
 			"identy": "damac",
 			"data": [86, 88, 81, 87, 78, 84],
 			"image": "assets/img/countries/orientemedio-asia/damac.png"
 		},
 		{
+			"name": "Esteghlal",
+			"identy": "esteghlal",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/countries/orientemedio-asia/esteghlal.svg"
+		},
+		{
+			"name": "Gwangju",
+			"identy": "gwangju",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/countries/orientemedio-asia/gwangju.svg"
+		},
+		{
+			"name": "Johor",
+			"identy": "johor",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/countries/orientemedio-asia/johor.svg"
+		},
+		{
+			"name": "Pakhtakor",
+			"identy": "pakhtakor",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/countries/orientemedio-asia/pakhtakor.svg"
+		},
+		{
 			"name": "Persepolis",
 			"identy": "persepolis",
 			"data": [86, 88, 81, 87, 78, 84],
 			"image": "assets/img/countries/orientemedio-asia/persepolis.svg"
+		},
+		{
+			"name": "Pohang Steelers",
+			"identy": "pohang-steelers",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/countries/orientemedio-asia/pohang-steelers.svg"
+		},
+		{
+			"name": "Ulsan Hyundai",
+			"identy": "ulsan-hyundai",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/countries/orientemedio-asia/ulsan-hyundai.svg"
 		},
 		{
 			"name": "100 Logo",
