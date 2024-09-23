@@ -209,10 +209,10 @@
 			"image": "assets/img/leagues/nfl/tennessee-titans.png"
 		},
 		{
-			"name": "Washington Football Team",
-			"identy": "washington-football-team",
+			"name": "Washington Commanders",
+			"identy": "washington-commanders",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/leagues/nfl/washington-football-team.png"
+			"image": "assets/img/leagues/nfl/washington-commanders.png"
 		}
 	]
 }
