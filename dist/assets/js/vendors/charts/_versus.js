@@ -17,7 +17,7 @@ if (localStorage.getItem('pvBg') === null) {
 	localStorage.setItem('pvBg', './assets/img/bgfut.png');
 }
 if (localStorage.getItem('jsonUrl') === null) {
-	localStorage.setItem('jsonUrl', 'campeonato-brasileiro');
+	localStorage.setItem('jsonUrl', 'todos-os-times');
 }
 var SaveIcon = './assets/img/screenshot.svg';
 GetVersus(localStorage.getItem('jsonUrl'), localStorage.getItem('player1'), localStorage.getItem('player2'), localStorage.getItem('pvBg'));
