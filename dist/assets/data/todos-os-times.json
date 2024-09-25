@@ -3965,6 +3965,12 @@
 			"image": "assets/img/countries/europeus/tsc-backa-topola.png"
 		},
 		{
+			"name": "Twente",
+			"identy": "twente",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/europeus/twente.svg"
+		},
+		{
 			"name": "Udinese",
 			"identy": "udinese",
 			"data": [83, 74, 86, 78, 67, 90],
