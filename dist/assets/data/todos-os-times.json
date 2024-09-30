@@ -4199,6 +4199,12 @@
 			"image": "assets/img/countries/orientemedio-asia/abha-club.svg"
 		},
 		{
+			"name": "Al Ain",
+			"identy": "alain",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/countries/orientemedio-asia/alain.png"
+		},
+		{
 			"name": "Al-Ahli-Saudi",
 			"identy": "al-ahli-saudi",
 			"data": [86, 88, 81, 87, 78, 84],
@@ -4323,6 +4329,12 @@
 			"identy": "al-taawoun",
 			"data": [86, 88, 81, 87, 78, 84],
 			"image": "assets/img/countries/orientemedio-asia/al-taawoun.svg"
+		},
+		{
+			"name": "Al-Wasl",
+			"identy": "al-wasl",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/countries/orientemedio-asia/al-wasl.png"
 		},
 		{
 			"name": "Al-Wehda",
