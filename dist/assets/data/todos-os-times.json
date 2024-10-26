@@ -311,6 +311,12 @@
 			"image": "assets/img/countries/sul-americanos/deportivo-pereira.png"
 		},
 		{
+			"name": "Deportivo Riestra",
+			"identy": "deportivo-riestra",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/sul-americanos/deportivo-riestra.svg"
+		},
+		{
 			"name": "Deportivo Táchira",
 			"identy": "deportivo-tachira",
 			"data": [83, 74, 86, 78, 67, 90],
