@@ -2213,6 +2213,12 @@
 			"image": "assets/img/countries/europeus/auxerre.png"
 		},
 		{
+			"name": "AVS",
+			"identy": "avs",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/countries/europeus/avs.png"
+		},
+		{
 			"name": "AZ Alkmaar",
 			"identy": "az-alkmaar",
 			"data": [86, 88, 81, 87, 78, 84],
