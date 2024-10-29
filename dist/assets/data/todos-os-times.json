@@ -2735,6 +2735,12 @@
 			"image": "assets/img/countries/europeus/eldense.png"
 		},
 		{
+			"name": "Elversberg",
+			"identy": "elversberg",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/countries/europeus/elversberg.svg"
+		},
+		{
 			"name": "Emmen",
 			"identy": "emmen",
 			"data": [86, 88, 81, 87, 78, 84],
@@ -4221,6 +4227,12 @@
 			"identy": "al-ahli-saudi",
 			"data": [86, 88, 81, 87, 78, 84],
 			"image": "assets/img/countries/orientemedio-asia/al-ahli-saudi.png"
+		},
+		{
+			"name": "Al-Ahly",
+			"identy": "al-ahly",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/countries/orientemedio-asia/al-ahly.svg"
 		},
 		{
 			"name": "Al-Akhdoud",
