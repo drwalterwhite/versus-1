@@ -2159,6 +2159,12 @@
 			"image": "assets/img/countries/europeus/arsenal.png"
 		},
 		{
+			"name": "Astana",
+			"identy": "astana",
+			"data": [85, 78, 71, 78, 82, 75],
+			"image": "assets/img/countries/europeus/astana.svg"
+		},
+		{
 			"name": "Aston Villa",
 			"identy": "aston-villa",
 			"data": [85, 78, 71, 78, 82, 75],
