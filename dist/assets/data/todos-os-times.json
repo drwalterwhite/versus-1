@@ -3719,6 +3719,12 @@
 			"image": "assets/img/countries/europeus/saint-etienne.png"
 		},
 		{
+			"name": "Salamanca",
+			"identy": "salamanca",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/europeus/salamanca.png"
+		},
+		{
 			"name": "Salernitana",
 			"identy": "salernitana",
 			"data": [83, 74, 86, 78, 67, 90],
