@@ -569,6 +569,12 @@
 			"image": "assets/img/countries/sul-americanos/oriente-petrolero.png"
 		},
 		{
+			"name": "Pachuca",
+			"identy": "pachuca",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/sul-americanos/pachuca.svg"
+		},
+		{
 			"name": "Palestino",
 			"identy": "palestino",
 			"data": [83, 74, 86, 78, 67, 90],
@@ -2523,6 +2529,12 @@
 			"identy": "celtic",
 			"data": [86, 88, 81, 87, 78, 84],
 			"image": "assets/img/countries/europeus/celtic.png"
+		},
+		{
+			"name": "Cesena",
+			"identy": "cesena",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/countries/europeus/cesena.svg"
 		},
 		{
 			"name": "Ceuta",
