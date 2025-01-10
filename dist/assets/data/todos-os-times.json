@@ -2093,6 +2093,12 @@
 			"image": "assets/img/countries/europeus/aberdeen.svg"
 		},
 		{
+			"name": "Accrington Stanley",
+			"identy": "accrington",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/countries/europeus/accrington.svg"
+		},
+		{
 			"name": "AEK Atenas",
 			"identy": "aek-atenas",
 			"data": [86, 88, 81, 87, 78, 84],
@@ -3011,6 +3017,12 @@
 			"image": "assets/img/countries/europeus/heracles.png"
 		},
 		{
+			"name": "Harrogate",
+			"identy": "harrogate",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/countries/europeus/harrogate.svg"
+		},
+		{
 			"name": "Hertha Berlin",
 			"identy": "hertha-berlin",
 			"data": [83, 74, 86, 78, 67, 90],
@@ -3381,6 +3393,12 @@
 			"identy": "monza",
 			"data": [83, 74, 86, 78, 67, 90],
 			"image": "assets/img/countries/europeus/monza.png"
+		},
+		{
+			"name": "Morecambe",
+			"identy": "morecambe",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/countries/europeus/morecambe.svg"
 		},
 		{
 			"name": "Moreirense",
