@@ -2465,6 +2465,12 @@
 			"image": "assets/img/countries/europeus/bristol-city.png"
 		},
 		{
+			"name": "Bromley",
+			"identy": "bromley",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/countries/europeus/bromley.svg"
+		},
+		{
 			"name": "Brondby",
 			"identy": "brondby",
 			"data": [86, 88, 81, 87, 78, 84],
@@ -3969,6 +3975,12 @@
 			"identy": "swindon-town",
 			"data": [86, 88, 81, 87, 78, 84],
 			"image": "assets/img/countries/europeus/swindon-town.png"
+		},
+		{
+			"name": "Tamworth",
+			"identy": "tamworth",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/countries/europeus/tamworth.svg"
 		},
 		{
 			"name": "Tenerife",
