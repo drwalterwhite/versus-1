@@ -1217,6 +1217,12 @@
 			"image": "assets/img/countries/brasileiros/cuiaba.svg"
 		},
 		{
+			"name": "Decisão",
+			"identy": "decisao",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/brasileiros/decisao.png"
+		},
+		{
 			"name": "Democrata",
 			"identy": "democrata",
 			"data": [83, 74, 86, 78, 67, 90],
@@ -3507,6 +3513,12 @@
 			"identy": "osasuna",
 			"data": [83, 74, 86, 78, 67, 90],
 			"image": "assets/img/countries/europeus/osasuna.png"
+		},
+		{
+			"name": "Ourense",
+			"identy": "ourense",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/countries/europeus/ourense.png"
 		},
 		{
 			"name": "Oviedo",
