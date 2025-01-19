@@ -941,6 +941,12 @@
 			"image": "assets/img/countries/brasileiros/avenida.svg"
 		},
 		{
+			"name": "Aymorés",
+			"identy": "aymores",
+			"data": [85, 78, 71, 78, 82, 75],
+			"image": "assets/img/countries/brasileiros/aymores.svg"
+		},
+		{
 			"name": "Azuriz",
 			"identy": "azuriz",
 			"data": [85, 78, 71, 78, 82, 75],
@@ -2043,6 +2049,12 @@
 			"identy": "vasco",
 			"data": [83, 74, 86, 78, 67, 90],
 			"image": "assets/img/countries/brasileiros/vasco.png"
+		},
+		{
+			"name": "Velo Clube",
+			"identy": "velo-clube",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/brasileiros/velo-clube.svg"
 		},
 		{
 			"name": "Vila Nova",
