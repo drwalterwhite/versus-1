@@ -1481,6 +1481,12 @@
 			"image": "assets/img/countries/brasileiros/itupiranga.png"
 		},
 		{
+			"name": "Jacobina",
+			"identy": "jacobina",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/brasileiros/jacobina.svg"
+		},
+		{
 			"name": "Jacuipense",
 			"identy": "jacuipense",
 			"data": [83, 74, 86, 78, 67, 90],
