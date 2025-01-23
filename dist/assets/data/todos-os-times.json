@@ -1655,6 +1655,12 @@
 			"image": "assets/img/countries/brasileiros/nautico.svg"
 		},
 		{
+			"name": "Noroeste",
+			"identy": "noroeste",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/brasileiros/noroeste.svg"
+		},
+		{
 			"name": "Nova Iguaçu",
 			"identy": "nova-iguacu",
 			"data": [83, 74, 86, 78, 67, 90],
