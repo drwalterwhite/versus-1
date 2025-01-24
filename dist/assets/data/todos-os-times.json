@@ -989,6 +989,12 @@
 			"image": "assets/img/countries/brasileiros/barra-fc.png"
 		},
 		{
+			"name": "Betim",
+			"identy": "Betim",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/brasileiros/betim.svg"
+		},
+		{
 			"name": "Boa Esporte",
 			"identy": "boa-esporte",
 			"data": [83, 74, 86, 78, 67, 90],
@@ -1383,6 +1389,12 @@
 			"identy": "hercilio-luz",
 			"data": [83, 74, 86, 78, 67, 90],
 			"image": "assets/img/countries/brasileiros/hercilio-luz.svg"
+		},
+		{
+			"name": "Horizonte",
+			"identy": "horizonte",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/brasileiros/horizonte.png"
 		},
 		{
 			"name": "Humaitá",
@@ -4515,6 +4527,12 @@
 			"identy": "ulsan-hyundai",
 			"data": [86, 88, 81, 87, 78, 84],
 			"image": "assets/img/countries/orientemedio-asia/ulsan-hyundai.svg"
+		},
+		{
+			"name": "Orlando City",
+			"identy": "orlando-city",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/countries/usa/orlando-city.svg"
 		},
 		{
 			"name": "100 Logo",
