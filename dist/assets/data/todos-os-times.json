@@ -1799,6 +1799,12 @@
 			"image": "assets/img/countries/brasileiros/ponte-preta.svg"
 		},
 		{
+			"name": "Porto-BA",
+			"identy": "porto-ba",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/brasileiros/porto-ba.svg"
+		},
+		{
 			"name": "Porto-PE",
 			"identy": "porto-pe",
 			"data": [83, 74, 86, 78, 67, 90],
