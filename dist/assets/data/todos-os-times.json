@@ -1073,6 +1073,12 @@
 			"image": "assets/img/countries/brasileiros/campinense.png"
 		},
 		{
+			"name": "Cariri",
+			"identy": "cariri",
+			"data": [82, 86, 84, 78, 83, 86],
+			"image": "assets/img/countries/brasileiros/cariri.png"
+		},
+		{
 			"name": "Caruaru City",
 			"identy": "caruaru-city",
 			"data": [82, 86, 84, 78, 83, 86],
