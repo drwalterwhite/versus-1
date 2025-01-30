@@ -1511,6 +1511,12 @@
 			"image": "assets/img/countries/brasileiros/jacuipense.svg"
 		},
 		{
+			"name": "Jaguar",
+			"identy": "jaguar",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/brasileiros/jaguar.svg"
+		},
+		{
 			"name": "Jaraguá",
 			"identy": "jaragua",
 			"data": [83, 74, 86, 78, 67, 90],
@@ -1604,7 +1610,7 @@
 			"name": "Maracanã",
 			"identy": "maracana",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/countries/brasileiros/maracana.png"
+			"image": "assets/img/countries/brasileiros/maracana.svg"
 		},
 		{
 			"name": "Maranhão",
@@ -1647,6 +1653,12 @@
 			"identy": "mirassol",
 			"data": [83, 74, 86, 78, 67, 90],
 			"image": "assets/img/countries/brasileiros/mirassol.png"
+		},
+		{
+			"name": "Monsoon",
+			"identy": "monsoon",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/brasileiros/monsoon.svg"
 		},
 		{
 			"name": "Morrinhos",
@@ -2817,6 +2829,12 @@
 			"identy": "eldense",
 			"data": [86, 88, 81, 87, 78, 84],
 			"image": "assets/img/countries/europeus/eldense.png"
+		},
+		{
+			"name": "Elfsborg",
+			"identy": "elfsborg",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/countries/europeus/elfsborg.svg"
 		},
 		{
 			"name": "Elversberg",
