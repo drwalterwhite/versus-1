@@ -35,6 +35,12 @@
 			"image": "assets/img/countries/europeus/aberdeen.svg"
 		},
 		{
+			"name": "Accrington Stanley",
+			"identy": "accrington",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/countries/europeus/accrington.svg"
+		},
+		{
 			"name": "AEK Atenas",
 			"identy": "aek-atenas",
 			"data": [86, 88, 81, 87, 78, 84],
@@ -107,6 +113,12 @@
 			"image": "assets/img/countries/europeus/arsenal.png"
 		},
 		{
+			"name": "Astana",
+			"identy": "astana",
+			"data": [85, 78, 71, 78, 82, 75],
+			"image": "assets/img/countries/europeus/astana.svg"
+		},
+		{
 			"name": "Aston Villa",
 			"identy": "aston-villa",
 			"data": [85, 78, 71, 78, 82, 75],
@@ -122,7 +134,7 @@
 			"name": "Atalanta",
 			"identy": "atalanta",
 			"data": [86, 88, 81, 87, 78, 84],
-			"image": "assets/img/countries/europeus/atalanta.png"
+			"image": "assets/img/countries/europeus/atalanta.svg"
 		},
 		{
 			"name": "Athletic Bilbao",
@@ -159,6 +171,12 @@
 			"identy": "auxerre",
 			"data": [86, 88, 81, 87, 78, 84],
 			"image": "assets/img/countries/europeus/auxerre.png"
+		},
+		{
+			"name": "AVS",
+			"identy": "avs",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/countries/europeus/avs.png"
 		},
 		{
 			"name": "AZ Alkmaar",
@@ -389,6 +407,12 @@
 			"image": "assets/img/countries/europeus/bristol-city.png"
 		},
 		{
+			"name": "Bromley",
+			"identy": "bromley",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/countries/europeus/bromley.svg"
+		},
+		{
 			"name": "Brondby",
 			"identy": "brondby",
 			"data": [86, 88, 81, 87, 78, 84],
@@ -461,6 +485,12 @@
 			"image": "assets/img/countries/europeus/celtic.png"
 		},
 		{
+			"name": "Cesena",
+			"identy": "cesena",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/countries/europeus/cesena.svg"
+		},
+		{
 			"name": "Ceuta",
 			"identy": "ceuta",
 			"data": [86, 88, 81, 87, 78, 84],
@@ -519,6 +549,12 @@
 			"identy": "colonia",
 			"data": [83, 74, 86, 78, 67, 90],
 			"image": "assets/img/countries/europeus/colonia.png"
+		},
+		{
+			"name": "Como",
+			"identy": "como",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/countries/europeus/como.svg"
 		},
 		{
 			"name": "Copenhague",
@@ -671,6 +707,18 @@
 			"image": "assets/img/countries/europeus/eldense.png"
 		},
 		{
+			"name": "Elfsborg",
+			"identy": "elfsborg",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/countries/europeus/elfsborg.svg"
+		},
+		{
+			"name": "Elversberg",
+			"identy": "elversberg",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/countries/europeus/elversberg.svg"
+		},
+		{
 			"name": "Emmen",
 			"identy": "emmen",
 			"data": [86, 88, 81, 87, 78, 84],
@@ -693,6 +741,12 @@
 			"identy": "estoril",
 			"data": [86, 88, 81, 87, 78, 84],
 			"image": "assets/img/countries/europeus/estoril.png"
+		},
+		{
+			"name": "Estrela Amadora",
+			"identy": "estrela-amadora",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/countries/europeus/estrela-amadora.png"
 		},
 		{
 			"name": "Estrela Vermelha",
@@ -746,7 +800,7 @@
 			"name": "Fiorentina",
 			"identy": "fiorentina",
 			"data": [89, 89, 93, 89, 79, 93],
-			"image": "assets/img/countries/europeus/fiorentina.png"
+			"image": "assets/img/countries/europeus/fiorentina.svg"
 		},
 		{
 			"name": "Fleetwood Town",
@@ -759,6 +813,12 @@
 			"identy": "fortuna-sittard",
 			"data": [86, 88, 81, 87, 78, 84],
 			"image": "assets/img/countries/europeus/fortuna-sittard.png"
+		},
+		{
+			"name": "Fortuna Düsseldorf",
+			"identy": "fortuna-dusseldorf",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/countries/europeus/fortuna-dusseldorf.png"
 		},
 		{
 			"name": "Freiburg",
@@ -911,6 +971,12 @@
 			"image": "assets/img/countries/europeus/heracles.png"
 		},
 		{
+			"name": "Harrogate",
+			"identy": "harrogate",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/countries/europeus/harrogate.svg"
+		},
+		{
 			"name": "Hertha Berlin",
 			"identy": "hertha-berlin",
 			"data": [83, 74, 86, 78, 67, 90],
@@ -989,6 +1055,12 @@
 			"image": "assets/img/countries/europeus/ipswich-town.png"
 		},
 		{
+			"name": "Jena",
+			"identy": "jena",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/europeus/jena.svg"
+		},
+		{
 			"name": "Juventus",
 			"identy": "juventus",
 			"data": [83, 74, 86, 78, 67, 90],
@@ -1011,6 +1083,12 @@
 			"identy": "khimki",
 			"data": [86, 88, 81, 87, 78, 84],
 			"image": "assets/img/countries/europeus/khimki.png"
+		},
+		{
+			"name": "Koblenz",
+			"identy": "koblenz",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/countries/europeus/koblenz.png"
 		},
 		{
 			"name": "Krasnodar",
@@ -1178,7 +1256,7 @@
 			"name": "Mainz",
 			"identy": "mainz",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/countries/europeus/mainz.png"
+			"image": "assets/img/countries/europeus/mainz.svg"
 		},
 		{
 			"name": "Mallorca",
@@ -1271,10 +1349,22 @@
 			"image": "assets/img/countries/europeus/monza.png"
 		},
 		{
+			"name": "Morecambe",
+			"identy": "morecambe",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/countries/europeus/morecambe.svg"
+		},
+		{
 			"name": "Moreirense",
 			"identy": "moreirense",
 			"data": [86, 88, 81, 87, 78, 84],
 			"image": "assets/img/countries/europeus/moreirense.png"
+		},
+		{
+			"name": "Munster",
+			"identy": "munster",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/countries/europeus/munster.svg"
 		},
 		{
 			"name": "Nacional",
@@ -1365,6 +1455,12 @@
 			"identy": "osasuna",
 			"data": [83, 74, 86, 78, 67, 90],
 			"image": "assets/img/countries/europeus/osasuna.png"
+		},
+		{
+			"name": "Ourense",
+			"identy": "ourense",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/countries/europeus/ourense.png"
 		},
 		{
 			"name": "Oviedo",
@@ -1461,6 +1557,12 @@
 			"identy": "psv",
 			"data": [86, 88, 81, 87, 78, 84],
 			"image": "assets/img/countries/europeus/psv.png"
+		},
+		{
+			"name": "Qarabag",
+			"identy": "qarabag",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/countries/europeus/qarabag.png"
 		},
 		{
 			"name": "Queens Park Rangers",
@@ -1595,10 +1697,22 @@
 			"image": "assets/img/countries/europeus/rubin-kazan.png"
 		},
 		{
+			"name": "Saarbrucken",
+			"identy": "saarbrucken",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/europeus/saarbrucken.svg"
+		},
+		{
 			"name": "Saint-Étienne",
 			"identy": "saint-etienne",
 			"data": [83, 74, 86, 78, 67, 90],
 			"image": "assets/img/countries/europeus/saint-etienne.png"
+		},
+		{
+			"name": "Salamanca",
+			"identy": "salamanca",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/europeus/salamanca.png"
 		},
 		{
 			"name": "Salernitana",
@@ -1647,6 +1761,12 @@
 			"identy": "sevilla",
 			"data": [83, 74, 86, 78, 67, 90],
 			"image": "assets/img/countries/europeus/sevilla.png"
+		},
+		{
+			"name": "Servette",
+			"identy": "servette",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/countries/europeus/servette.png"
 		},
 		{
 			"name": "Shakhtar Donetsk",
@@ -1701,6 +1821,12 @@
 			"identy": "slavia-praga",
 			"data": [86, 88, 81, 87, 78, 84],
 			"image": "assets/img/countries/europeus/slavia-praga.png"
+		},
+		{
+			"name": "Slovan Bratislava",
+			"identy": "slovan-bratislava",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/countries/europeus/slovan-bratislava.png"
 		},
 		{
 			"name": "Sochaux",
@@ -1811,6 +1937,12 @@
 			"image": "assets/img/countries/europeus/swindon-town.png"
 		},
 		{
+			"name": "Tamworth",
+			"identy": "tamworth",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/countries/europeus/tamworth.svg"
+		},
+		{
 			"name": "Tenerife",
 			"identy": "tenerife",
 			"data": [86, 88, 81, 87, 78, 84],
@@ -1865,10 +1997,22 @@
 			"image": "assets/img/countries/europeus/tsc-backa-topola.png"
 		},
 		{
+			"name": "Twente",
+			"identy": "twente",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/europeus/twente.svg"
+		},
+		{
 			"name": "Udinese",
 			"identy": "udinese",
 			"data": [83, 74, 86, 78, 67, 90],
 			"image": "assets/img/countries/europeus/udinese.png"
+		},
+		{
+			"name": "União Leiria",
+			"identy": "uniao-leiria",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/europeus/uniao-leiria.png"
 		},
 		{
 			"name": "Union Berlin",
@@ -1904,7 +2048,7 @@
 			"name": "Verona",
 			"identy": "verona",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/countries/europeus/verona.png"
+			"image": "assets/img/countries/europeus/verona.svg"
 		},
 		{
 			"name": "Viktoria Plzeň",
