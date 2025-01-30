@@ -47,6 +47,12 @@
 			"image": "assets/img/countries/sul-americanos/alianza-lima.png"
 		},
 		{
+			"name": "Alianza Petrolera",
+			"identy": "alianza-petrolera",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/sul-americanos/alianza-petrolera.svg"
+		},
+		{
 			"name": "Always Ready",
 			"identy": "always-ready",
 			"data": [83, 74, 86, 78, 67, 90],
@@ -110,13 +116,19 @@
 			"name": "Aucas",
 			"identy": "aucas",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/countries/sul-americanos/aucas.png"
+			"image": "assets/img/countries/sul-americanos/aucas.svg"
 		},
 		{
 			"name": "Audax Italiano",
 			"identy": "audax-italiano",
 			"data": [83, 74, 86, 78, 67, 90],
 			"image": "assets/img/countries/sul-americanos/audax-italiano.png"
+		},
+		{
+			"name": "Aurora",
+			"identy": "aurora",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/sul-americanos/aurora.svg"
 		},
 		{
 			"name": "Ayacucho",
@@ -158,7 +170,7 @@
 			"name": "Blooming",
 			"identy": "blooming",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/countries/sul-americanos/blooming.png"
+			"image": "assets/img/countries/sul-americanos/blooming.svg"
 		},
 		{
 			"name": "Boca Juniors",
@@ -170,7 +182,7 @@
 			"name": "Bolívar",
 			"identy": "bolivar",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/countries/sul-americanos/bolivar.png"
+			"image": "assets/img/countries/sul-americanos/bolivar.svg"
 		},
 		{
 			"name": "Boston River",
@@ -188,7 +200,7 @@
 			"name": "Caracas",
 			"identy": "caracas",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/countries/sul-americanos/caracas.png"
+			"image": "assets/img/countries/sul-americanos/caracas.svg"
 		},
 		{
 			"name": "Central Córdoba",
@@ -206,7 +218,7 @@
 			"name": "Cesar Vallejo",
 			"identy": "cesar-vallejo",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/countries/sul-americanos/cesar-vallejo.png"
+			"image": "assets/img/countries/sul-americanos/cesar-vallejo.svg"
 		},
 		{
 			"name": "Cobresal",
@@ -227,6 +239,12 @@
 			"image": "assets/img/countries/sul-americanos/colon.png"
 		},
 		{
+			"name": "Coquimbo Unido",
+			"identy": "coquimbo-unido",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/countries/sul-americanos/coquimbo-unido.svg"
+		},
+		{
 			"name": "Córdoba",
 			"identy": "cordoba",
 			"data": [89, 88, 89, 82, 87, 90],
@@ -242,7 +260,7 @@
 			"name": "Danubio",
 			"identy": "danubio",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/countries/sul-americanos/danubio.png"
+			"image": "assets/img/countries/sul-americanos/danubio.svg"
 		},
 		{
 			"name": "Defensa y Justicia",
@@ -269,6 +287,12 @@
 			"image": "assets/img/countries/sul-americanos/deportivo-cali.png"
 		},
 		{
+			"name": "Deportivo Garcilaso",
+			"identy": "deportivo-garcilaso",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/countries/sul-americanos/deportivo-garcilaso.png"
+		},
+		{
 			"name": "Deportivo La Guaira",
 			"identy": "deportivo-la-guaira",
 			"data": [83, 74, 86, 78, 67, 90],
@@ -287,16 +311,22 @@
 			"image": "assets/img/countries/sul-americanos/deportivo-pereira.png"
 		},
 		{
+			"name": "Deportivo Riestra",
+			"identy": "deportivo-riestra",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/sul-americanos/deportivo-riestra.svg"
+		},
+		{
 			"name": "Deportivo Táchira",
 			"identy": "deportivo-tachira",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/countries/sul-americanos/deportivo-tachira.png"
+			"image": "assets/img/countries/sul-americanos/deportivo-tachira.svg"
 		},
 		{
 			"name": "El Nacional",
 			"identy": "el-nacional.png",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/countries/sul-americanos/el-nacional.png.png"
+			"image": "assets/img/countries/sul-americanos/el-nacional.png"
 		},
 		{
 			"name": "Emelec",
@@ -363,6 +393,12 @@
 			"identy": "guarani-uru",
 			"data": [83, 74, 86, 78, 67, 90],
 			"image": "assets/img/countries/sul-americanos/guarani-uru.png"
+		},
+		{
+			"name": "Huachipato",
+			"identy": "huachipato",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/countries/sul-americanos/huachipato.png"
 		},
 		{
 			"name": "Huancayo",
@@ -452,7 +488,7 @@
 			"name": "Liverpool-URU",
 			"identy": "liverpool-uru",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/countries/sul-americanos/liverpool-uru.png"
+			"image": "assets/img/countries/sul-americanos/liverpool-uru.svg"
 		},
 		{
 			"name": "Magallanes",
@@ -464,13 +500,13 @@
 			"name": "Melgar",
 			"identy": "melgar",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/countries/sul-americanos/melgar.png"
+			"image": "assets/img/countries/sul-americanos/melgar.svg"
 		},
 		{
 			"name": "Metropolitanos",
 			"identy": "metropolitanos",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/countries/sul-americanos/metropolitanos.png"
+			"image": "assets/img/countries/sul-americanos/metropolitanos.svg"
 		},
 		{
 			"name": "Millonarios",
@@ -533,10 +569,16 @@
 			"image": "assets/img/countries/sul-americanos/oriente-petrolero.png"
 		},
 		{
+			"name": "Pachuca",
+			"identy": "pachuca",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/sul-americanos/pachuca.svg"
+		},
+		{
 			"name": "Palestino",
 			"identy": "palestino",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/countries/sul-americanos/palestino.png"
+			"image": "assets/img/countries/sul-americanos/palestino.svg"
 		},
 		{
 			"name": "Patronato",
@@ -557,6 +599,12 @@
 			"image": "assets/img/countries/sul-americanos/platense.png"
 		},
 		{
+			"name": "Portuguesa-VEN",
+			"identy": "portuguesa-ven",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/countries/sul-americanos/portuguesa-ven.png"
+		},
+		{
 			"name": "Puerto Cabello",
 			"identy": "puerto-cabello",
 			"data": [83, 74, 86, 78, 67, 90],
@@ -573,6 +621,24 @@
 			"identy": "racing",
 			"data": [83, 74, 86, 78, 67, 90],
 			"image": "assets/img/countries/sul-americanos/racing.png"
+		},
+		{
+			"name": "Racing-URU",
+			"identy": "racing-uru",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/sul-americanos/racing-uru.svg"
+		},
+		{
+			"name": "Rayo Zuliano",
+			"identy": "rayo-zuliano",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/countries/sul-americanos/rayo-zuliano.svg"
+		},
+		{
+			"name": "Real Tomayapo",
+			"identy": "real-tomayapo",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/countries/sul-americanos/real-tomayapo.svg"
 		},
 		{
 			"name": "River Plate",
@@ -608,7 +674,19 @@
 			"name": "Sporting Cristal",
 			"identy": "sporting-cristal",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/countries/sul-americanos/sporting-cristal.png"
+			"image": "assets/img/countries/sul-americanos/sporting-cristal.svg"
+		},
+		{
+			"name": "Sportivo Luqueño",
+			"identy": "sportivo-luqueno",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/countries/sul-americanos/sportivo-luqueno.png"
+		},
+		{
+			"name": "Sportivo Trinidense",
+			"identy": "sportivo-trinidense",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/countries/sul-americanos/sportivo-trinidense.svg"
 		},
 		{
 			"name": "Tacuary",
