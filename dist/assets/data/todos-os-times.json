@@ -3887,6 +3887,12 @@
 			"image": "assets/img/countries/europeus/sevilla.png"
 		},
 		{
+			"name": "Servette",
+			"identy": "servette",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/countries/europeus/servette.png"
+		},
+		{
 			"name": "Shakhtar Donetsk",
 			"identy": "shakhtar-donetsk",
 			"data": [86, 88, 81, 87, 78, 84],
@@ -4335,12 +4341,6 @@
 			"identy": "zurich",
 			"data": [86, 88, 81, 87, 78, 84],
 			"image": "assets/img/countries/europeus/zurich.png"
-		},
-		{
-			"name": "Servette",
-			"identy": "servette",
-			"data": [86, 88, 81, 87, 78, 84],
-			"image": "assets/img/countries/europeus/servette.png"
 		},
 		{
 			"name": "Abha Club",
