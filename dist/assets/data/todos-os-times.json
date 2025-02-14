@@ -1961,6 +1961,12 @@
 			"image": "assets/img/countries/brasileiros/sampaio-correa-rj.svg"
 		},
 		{
+			"name": "Santa Catarina",
+			"identy": "santa-catarina",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/countries/brasileiros/santa-catarina.svg"
+		},
+		{
 			"name": "Santa Cruz",
 			"identy": "santa-cruz",
 			"data": [83, 74, 86, 78, 67, 90],
@@ -3885,12 +3891,6 @@
 			"identy": "sampdoria",
 			"data": [83, 74, 86, 78, 67, 90],
 			"image": "assets/img/countries/europeus/sampdoria.png"
-		},
-		{
-			"name": "Santa Catarina",
-			"identy": "santa-catarina",
-			"data": [86, 88, 81, 87, 78, 84],
-			"image": "assets/img/countries/europeus/santa-catarina.svg"
 		},
 		{
 			"name": "Santa Clara",
