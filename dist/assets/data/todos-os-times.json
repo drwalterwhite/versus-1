@@ -2051,6 +2051,12 @@
 			"image": "assets/img/countries/brasileiros/sport.png"
 		},
 		{
+			"name": "Tirol",
+			"identy": "tirol",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/brasileiros/tirol.svg"
+		},
+		{
 			"name": "Tocantinópolis",
 			"identy": "tocantinopolis",
 			"data": [83, 74, 86, 78, 67, 90],
