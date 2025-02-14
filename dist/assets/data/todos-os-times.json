@@ -437,6 +437,12 @@
 			"image": "assets/img/countries/sul-americanos/independiente-petrolero.png"
 		},
 		{
+			"name": "Independiente Rivadavia",
+			"identy": "independiente-rivadavia",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/sul-americanos/independiente-rivadavia.svg"
+		},
+		{
 			"name": "Independiente Santa Fé",
 			"identy": "independiente-santa-fe",
 			"data": [83, 74, 86, 78, 67, 90],
@@ -777,6 +783,12 @@
 			"identy": "abc",
 			"data": [89, 91, 89, 83, 84, 89],
 			"image": "assets/img/countries/brasileiros/abc.png"
+		},
+		{
+			"name": "Abecat",
+			"identy": "abecat",
+			"data": [89, 91, 89, 83, 84, 89],
+			"image": "assets/img/countries/brasileiros/abecat.svg"
 		},
 		{
 			"name": "Afogados",
@@ -1143,6 +1155,12 @@
 			"identy": "coimbra",
 			"data": [82, 86, 84, 78, 83, 86],
 			"image": "assets/img/countries/brasileiros/coimbra.png"
+		},
+		{
+			"name": "Colo-Colo-BA",
+			"identy": "colo-colo-ba",
+			"data": [82, 86, 84, 78, 83, 86],
+			"image": "assets/img/countries/brasileiros/colo-colo-ba.png"
 		},
 		{
 			"name": "Concórdia",
@@ -1790,7 +1808,7 @@
 			"name": "Pelotas",
 			"identy": "pelotas",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/countries/brasileiros/pelotas.png"
+			"image": "assets/img/countries/brasileiros/pelotas.svg"
 		},
 		{
 			"name": "Penedense",
@@ -3305,6 +3323,12 @@
 			"image": "assets/img/countries/europeus/levante.png"
 		},
 		{
+			"name": "Leyton Orient",
+			"identy": "leyton-orient",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/europeus/leyton-orient.svg"
+		},
+		{
 			"name": "Lille",
 			"identy": "lille",
 			"data": [89, 89, 93, 89, 79, 93],
@@ -3855,6 +3879,12 @@
 			"identy": "sampdoria",
 			"data": [83, 74, 86, 78, 67, 90],
 			"image": "assets/img/countries/europeus/sampdoria.png"
+		},
+		{
+			"name": "Santa Catarina",
+			"identy": "santa-catarina",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/countries/europeus/santa-catarina.svg"
 		},
 		{
 			"name": "Santa Clara",
