@@ -1085,6 +1085,12 @@
 			"image": "assets/img/countries/brasileiros/campinense.png"
 		},
 		{
+			"name": "Caravaggio",
+			"identy": "caravaggio",
+			"data": [82, 86, 84, 78, 83, 86],
+			"image": "assets/img/countries/brasileiros/caravaggio.svg"
+		},
+		{
 			"name": "Cariri",
 			"identy": "cariri",
 			"data": [82, 86, 84, 78, 83, 86],
