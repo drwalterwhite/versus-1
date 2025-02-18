@@ -281,6 +281,12 @@
 			"image": "assets/img/countries/sul-americanos/delfin.png"
 		},
 		{
+			"name": "Deportes Iquique",
+			"identy": "deportes-iquique",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/sul-americanos/deportes-iquique.png"
+		},
+		{
 			"name": "Deportivo Cali",
 			"identy": "deportivo-cali",
 			"data": [83, 74, 86, 78, 67, 90],
@@ -446,7 +452,7 @@
 			"name": "Independiente Santa Fé",
 			"identy": "independiente-santa-fe",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/countries/sul-americanos/independiente-santa-fe.png"
+			"image": "assets/img/countries/sul-americanos/independiente-santa-fe.svg"
 		},
 		{
 			"name": "Instituto Córdoba",
