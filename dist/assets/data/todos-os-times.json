@@ -755,6 +755,12 @@
 			"image": "assets/img/countries/sul-americanos/universidad-catolica-equ.png"
 		},
 		{
+			"name": "Universidad Central",
+			"identy": "universidad-central",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/sul-americanos/universidad-central.svg"
+		},
+		{
 			"name": "Universitario",
 			"identy": "universitario",
 			"data": [83, 74, 86, 78, 67, 90],
@@ -1985,6 +1991,12 @@
 			"image": "assets/img/countries/brasileiros/santa-cruz.svg"
 		},
 		{
+			"name": "Santa Cruz-RN",
+			"identy": "santa-cruz-rn",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/brasileiros/santa-cruz-rn.svg"
+		},
+		{
 			"name": "Santa Cruz-RS",
 			"identy": "santa-cruz-rs",
 			"data": [83, 74, 86, 78, 67, 90],
@@ -2048,7 +2060,7 @@
 			"name": "São Raimundo-RR",
 			"identy": "sao-raimundo-rr",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/countries/brasileiros/sao-raimundo-rr.png"
+			"image": "assets/img/countries/brasileiros/sao-raimundo-rr.svg"
 		},
 		{
 			"name": "Sergipe",
