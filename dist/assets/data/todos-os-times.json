@@ -1736,7 +1736,7 @@
 			"name": "Nova Mutum",
 			"identy": "nova-mutum",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/countries/brasileiros/nova-mutum.png"
+			"image": "assets/img/countries/brasileiros/nova-mutum.svg"
 		},
 		{
 			"name": "Nova Venécia",
@@ -1893,6 +1893,12 @@
 			"identy": "potiguar",
 			"data": [86, 88, 81, 87, 78, 84],
 			"image": "assets/img/countries/brasileiros/potiguar.svg"
+		},
+		{
+			"name": "Primavera",
+			"identy": "primavera",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/brasileiros/primavera.svg"
 		},
 		{
 			"name": "Próspera",
