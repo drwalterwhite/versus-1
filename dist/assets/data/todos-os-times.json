@@ -1676,7 +1676,7 @@
 			"name": "Maringá",
 			"identy": "maringa",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/countries/brasileiros/maringa.png"
+			"image": "assets/img/countries/brasileiros/maringa.svg"
 		},
 		{
 			"name": "Metropolitano",
@@ -2139,6 +2139,12 @@
 			"identy": "uniao-pr",
 			"data": [83, 74, 86, 78, 67, 90],
 			"image": "assets/img/countries/brasileiros/uniao-pr.png"
+		},
+		{
+			"name": "União-TO",
+			"identy": "uniao-to",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/brasileiros/uniao-to.svg"
 		},
 		{
 			"name": "União Rondonópolis",
