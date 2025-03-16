@@ -1097,6 +1097,12 @@
 			"image": "assets/img/countries/brasileiros/campinense.png"
 		},
 		{
+			"name": "Capitão Poço",
+			"identy": "capitao-poco",
+			"data": [82, 86, 84, 78, 83, 86],
+			"image": "assets/img/countries/brasileiros/capitao-poco.png"
+		},
+		{
 			"name": "Caravaggio",
 			"identy": "caravaggio",
 			"data": [82, 86, 84, 78, 83, 86],
@@ -1607,6 +1613,12 @@
 			"image": "assets/img/countries/brasileiros/lagarto.png"
 		},
 		{
+			"name": "Laguna",
+			"identy": "laguna",
+			"data": [82, 86, 84, 78, 83, 86],
+			"image": "assets/img/countries/brasileiros/laguna.svg"
+		},
+		{
 			"name": "Londrina",
 			"identy": "londrina",
 			"data": [83, 74, 86, 78, 67, 90],
@@ -1871,6 +1883,12 @@
 			"image": "assets/img/countries/brasileiros/porto-velho.png"
 		},
 		{
+			"name": "Porto Vitória",
+			"identy": "porto-vitoria",
+			"data": [82, 86, 84, 78, 83, 86],
+			"image": "assets/img/countries/brasileiros/porto-vitoria.svg"
+		},
+		{
 			"name": "Portuguesa",
 			"identy": "portuguesa",
 			"data": [83, 74, 86, 78, 67, 90],
@@ -1959,6 +1977,12 @@
 			"identy": "rio-branco-pr",
 			"data": [83, 74, 86, 78, 67, 90],
 			"image": "assets/img/countries/brasileiros/rio-branco-pr.png"
+		},
+		{
+			"name": "Rio Branco-VN",
+			"identy": "rio-branco-vn",
+			"data": [82, 86, 84, 78, 83, 86],
+			"image": "assets/img/countries/brasileiros/rio-branco-vn.svg"
 		},
 		{
 			"name": "Ríver-PI",
@@ -2067,6 +2091,12 @@
 			"identy": "sao-raimundo-rr",
 			"data": [83, 74, 86, 78, 67, 90],
 			"image": "assets/img/countries/brasileiros/sao-raimundo-rr.svg"
+		},
+		{
+			"name": "Serra Branca",
+			"identy": "serra-branca",
+			"data": [82, 86, 84, 78, 83, 86],
+			"image": "assets/img/countries/brasileiros/serra-branca.svg"
 		},
 		{
 			"name": "Sergipe",
@@ -2198,7 +2228,7 @@
 			"name": "Vitória-ES",
 			"identy": "vitoria-es",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/countries/brasileiros/vitoria-es.png"
+			"image": "assets/img/countries/brasileiros/vitoria-es.svg"
 		},
 		{
 			"name": "Volta Redonda",
@@ -3353,8 +3383,8 @@
 			"image": "assets/img/countries/europeus/leicester.png"
 		},
 		{
-			"name": "Leipzig",
-			"identy": "leipzig",
+			"name": "RB Leipzig",
+			"identy": "rb-leipzig",
 			"data": [83, 74, 86, 78, 67, 90],
 			"image": "assets/img/countries/europeus/leipzig.png"
 		},
