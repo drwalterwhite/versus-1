@@ -1853,6 +1853,12 @@
 			"image": "assets/img/countries/brasileiros/petrolina.svg"
 		},
 		{
+			"name": "Piauí",
+			"identy": "piaui",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/brasileiros/piaui.svg"
+		},
+		{
 			"name": "Poconé",
 			"identy": "pocone",
 			"data": [83, 74, 86, 78, 67, 90],
@@ -2108,7 +2114,7 @@
 			"name": "Sousa",
 			"identy": "sousa",
 			"data": [83, 74, 86, 78, 67, 90],
-			"image": "assets/img/countries/brasileiros/sousa.png"
+			"image": "assets/img/countries/brasileiros/sousa.svg"
 		},
 		{
 			"name": "Sport",
