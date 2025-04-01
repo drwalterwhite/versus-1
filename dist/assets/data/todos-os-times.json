@@ -221,6 +221,12 @@
 			"image": "assets/img/countries/sul-americanos/cesar-vallejo.svg"
 		},
 		{
+			"name": "Cienciano",
+			"identy": "cienciano",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/sul-americanos/cienciano.png"
+		},
+		{
 			"name": "Cobresal",
 			"identy": "cobresal",
 			"data": [83, 74, 86, 78, 67, 90],
@@ -573,6 +579,12 @@
 			"identy": "olimpia",
 			"data": [83, 74, 86, 78, 67, 90],
 			"image": "assets/img/countries/sul-americanos/olimpia.png"
+		},
+		{
+			"name": "Once Caldas",
+			"identy": "once-caldas.svg",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/sul-americanos/once-caldas.svg"
 		},
 		{
 			"name": "Oriente Petrolero",
