@@ -191,6 +191,12 @@
 			"image": "assets/img/countries/sul-americanos/boston-river.png"
 		},
 		{
+			"name": "Bulo Bulo",
+			"identy": "bulo-bulo",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/sul-americanos/bulo-bulo.svg"
+		},
+		{
 			"name": "Carabobo",
 			"identy": "carabobo",
 			"data": [83, 74, 86, 78, 67, 90],
@@ -771,6 +777,12 @@
 			"identy": "universidad-central",
 			"data": [83, 74, 86, 78, 67, 90],
 			"image": "assets/img/countries/sul-americanos/universidad-central.svg"
+		},
+		{
+			"name": "Universidad de Chile",
+			"identy": "universidad-de-chile",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/sul-americanos/universidad-de-chile.svg"
 		},
 		{
 			"name": "Universitario",
