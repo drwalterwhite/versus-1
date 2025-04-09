@@ -95,6 +95,12 @@
 			"image": "assets/img/countries/sul-americanos/arsenal-de-sarandí.png"
 		},
 		{
+			"name": "Atlético Grau",
+			"identy": "atletico-grau",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/sul-americanos/atletico-grau.png"
+		},
+		{
 			"name": "Atlético Juniors",
 			"identy": "atletico-juniors",
 			"data": [83, 74, 86, 78, 67, 90],
@@ -549,6 +555,12 @@
 			"identy": "montevideo-city-torque",
 			"data": [83, 74, 86, 78, 67, 90],
 			"image": "assets/img/countries/sul-americanos/montevideo-city-torque.png"
+		},
+		{
+			"name": "Mushuc Runa",
+			"identy": "mushuc-runa",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/sul-americanos/mushuc-runa.svg"
 		},
 		{
 			"name": "Nacional-BOL",
