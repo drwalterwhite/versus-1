@@ -95,6 +95,12 @@
 			"image": "assets/img/countries/sul-americanos/arsenal-de-sarandí.png"
 		},
 		{
+			"name": "Atlético Bucamaranga",
+			"identy": "atletico-bucamaranga",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/sul-americanos/atletico-bucamaranga.svg"
+		},
+		{
 			"name": "Atlético Grau",
 			"identy": "atletico-grau",
 			"data": [83, 74, 86, 78, 67, 90],
@@ -219,6 +225,12 @@
 			"identy": "central-cordoba",
 			"data": [88, 79, 88, 88, 91, 93],
 			"image": "assets/img/countries/sul-americanos/central-cordoba.png"
+		},
+		{
+			"name": "Cerro Largo",
+			"identy": "cerro-largo",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/sul-americanos/cerro-largo.svg"
 		},
 		{
 			"name": "Cerro Porteño",
@@ -761,6 +773,12 @@
 			"image": "assets/img/countries/sul-americanos/tolima.png"
 		},
 		{
+			"name": "Union Española",
+			"identy": "union-la-espanola",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/sul-americanos/union-espanola.png"
+		},
+		{
 			"name": "Union La Calera",
 			"identy": "union-la-calera",
 			"data": [83, 74, 86, 78, 67, 90],
@@ -1119,6 +1137,12 @@
 			"identy": "Caldense",
 			"data": [82, 86, 84, 78, 83, 86],
 			"image": "assets/img/countries/brasileiros/caldense.png"
+		},
+		{
+			"name": "Capital-DF",
+			"identy": "capital-df",
+			"data": [82, 86, 84, 78, 83, 86],
+			"image": "assets/img/countries/brasileiros/capital-df.svg"
 		},
 		{
 			"name": "Camburiu",
