@@ -2925,7 +2925,13 @@
 			"identy": "dinamo-zagreb",
 			"data": [86, 88, 81, 87, 78, 84],
 			"image": "assets/img/countries/europeus/dinamo-zagreb.png"
-		},		
+		},
+		{
+			"name": "Djurgarden",
+			"identy": "djurgarden",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/countries/europeus/djurgarden.svg"
+		},
 		{
 			"name": "Doncaster",
 			"identy": "doncaster",
