@@ -4169,6 +4169,12 @@
 			"image": "assets/img/countries/europeus/sparta-praga.png"
 		},
 		{
+			"name": "Sparta Rotterdam",
+			"identy": "sparta-rotterdam",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/countries/europeus/sparta-rotterdam.png"
+		},
+		{
 			"name": "Spezia",
 			"identy": "spezia",
 			"data": [83, 74, 86, 78, 67, 90],
