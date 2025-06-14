@@ -563,6 +563,12 @@
 			"image": "assets/img/countries/sul-americanos/monagas.png"
 		},
 		{
+			"name": "Monterrey",
+			"identy": "monterrey",
+			"data": [83, 74, 86, 78, 67, 90],
+			"image": "assets/img/countries/sul-americanos/monterrey.svg"
+		},
+		{
 			"name": "Montevidéu City Torque",
 			"identy": "montevideo-city-torque",
 			"data": [83, 74, 86, 78, 67, 90],
@@ -4685,6 +4691,12 @@
 			"image": "assets/img/countries/orientemedio-asia/al-wehda.svg"
 		},
 		{
+			"name": "Auckland City",
+			"identy": "auckland-city",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/countries/orientemedio-asia/auckland-city.svg"
+		},
+		{
 			"name": "Buriram United",
 			"identy": "buriram-united",
 			"data": [86, 88, 81, 87, 78, 84],
@@ -4703,6 +4715,12 @@
 			"image": "assets/img/countries/orientemedio-asia/damac.png"
 		},
 		{
+			"name": "Espérance",
+			"identy": "esperance",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/countries/orientemedio-asia/esperance.svg"
+		},
+		{
 			"name": "Esteghlal",
 			"identy": "esteghlal",
 			"data": [86, 88, 81, 87, 78, 84],
@@ -4719,6 +4737,12 @@
 			"identy": "johor",
 			"data": [86, 88, 81, 87, 78, 84],
 			"image": "assets/img/countries/orientemedio-asia/johor.svg"
+		},
+		{
+			"name": "Mamelodi Sundowns",
+			"identy": "mamelodi-sundowns",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/countries/orientemedio-asia/mamelodi-sundowns.svg"
 		},
 		{
 			"name": "Pakhtakor",
@@ -4740,15 +4764,45 @@
 		},
 		{
 			"name": "Ulsan Hyundai",
-			"identy": "ulsan-hyundai",
+			"identy": "ulsan-hd",
 			"data": [86, 88, 81, 87, 78, 84],
-			"image": "assets/img/countries/orientemedio-asia/ulsan-hyundai.svg"
+			"image": "assets/img/countries/orientemedio-asia/ulsan-hd.svg"
 		},
+		{
+			"name": "Urawa Reds",
+			"identy": "urawa-reds",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/countries/orientemedio-asia/urawa-reds.svg"
+		},
+		{
+			"name": "Wydad Casablanca",
+			"identy": "wydad-casablanca",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/countries/orientemedio-asia/wydad-casablanca.svg"
+		},
+		{
+			"name": "Inter Miami",
+			"identy": "inter-miami",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/countries/usa/inter-miami.svg"
+		},
+		{
+			"name": "Los Angeles FC",
+			"identy": "los-angeles-fc",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/countries/usa/los-angeles-fc.svg"
+		},		
 		{
 			"name": "Orlando City",
 			"identy": "orlando-city",
 			"data": [86, 88, 81, 87, 78, 84],
 			"image": "assets/img/countries/usa/orlando-city.svg"
+		},
+		{
+			"name": "Seattle Sounders",
+			"identy": "seattle-sounders",
+			"data": [86, 88, 81, 87, 78, 84],
+			"image": "assets/img/countries/usa/seattle-sounders.svg"
 		},
 		{
 			"name": "100 Logo",
